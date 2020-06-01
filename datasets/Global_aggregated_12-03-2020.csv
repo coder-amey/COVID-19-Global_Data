@@ -1,116 +1,114 @@
 Region,Confirmed,Recovered/Migrated,Deceased
 Afghanistan,7.0,0.0,0.0
-Albania,23.0,0.0,1.0
-Algeria,24.0,8.0,1.0
-Andorra,1.0,1.0,0.0
+Albania,12.0,0.0,1.0
+Algeria,20.0,0.0,0.0
+Andorra,1.0,0.0,0.0
 Argentina,19.0,0.0,1.0
-Armenia,4.0,0.0,0.0
+Armenia,1.0,0.0,0.0
 Australia,128.0,21.0,3.0
-Austria,302.0,4.0,1.0
+Austria,246.0,4.0,0.0
 Azerbaijan,11.0,3.0,0.0
 Bahrain,195.0,35.0,0.0
 Bangladesh,3.0,0.0,0.0
-Belarus,12.0,3.0,0.0
+Belarus,9.0,3.0,0.0
 Belgium,314.0,1.0,3.0
 Bhutan,1.0,0.0,0.0
 Bolivia,2.0,0.0,0.0
-Bosnia and Herzegovina,11.0,0.0,0.0
-Brazil,52.0,0.0,0.0
+Bosnia and Herzegovina,7.0,0.0,0.0
+Brazil,38.0,0.0,0.0
 Brunei,11.0,0.0,0.0
 Bulgaria,7.0,0.0,1.0
 Burkina Faso,2.0,0.0,0.0
 Cambodia,3.0,1.0,0.0
 Cameroon,2.0,0.0,0.0
-Canada,117.0,8.0,1.0
+Canada,108.0,8.0,1.0
 Chile,23.0,0.0,0.0
-China,80932.0,62901.0,3172.0
+China,80921.0,61644.0,3161.0
 Colombia,9.0,0.0,0.0
 Congo (Kinshasa),1.0,0.0,0.0
-Costa Rica,22.0,0.0,0.0
+Costa Rica,13.0,0.0,0.0
 Cote d'Ivoire,1.0,0.0,0.0
 Croatia,19.0,0.0,0.0
-Cuba,3.0,0.0,0.0
 Cyprus,6.0,0.0,0.0
-Czech Republic,94.0,0.0,0.0
-Denmark,617.0,1.0,0.0
+Czech Republic,91.0,0.0,0.0
+Denmark,444.0,1.0,0.0
 Diamond Princess,706.0,325.0,7.0
 Dominican Republic,5.0,0.0,0.0
 Ecuador,17.0,0.0,0.0
-Egypt,67.0,27.0,1.0
+Egypt,60.0,27.0,1.0
 Estonia,16.0,0.0,0.0
 Finland,59.0,1.0,0.0
 France,2293.0,12.0,48.0
 Georgia,24.0,0.0,0.0
-Germany,2078.0,25.0,3.0
+Germany,1908.0,25.0,3.0
 Greece,99.0,0.0,1.0
-Guyana,1.0,0.0,1.0
 Vatican City,1.0,0.0,0.0
 Honduras,2.0,0.0,0.0
 Hungary,13.0,0.0,0.0
-Iceland,103.0,1.0,0.0
-India,73.0,4.0,1.0
+Iceland,85.0,1.0,0.0
+India,62.0,4.0,1.0
 Indonesia,34.0,2.0,1.0
-Iran,10075.0,2959.0,429.0
-Iraq,71.0,15.0,8.0
+Iran,9000.0,2959.0,354.0
+Iraq,71.0,15.0,7.0
 Ireland,43.0,0.0,1.0
-Israel,100.0,4.0,0.0
-Italy,15113.0,1045.0,1016.0
-Jamaica,2.0,0.0,0.0
-Japan,639.0,118.0,16.0
+Israel,79.0,4.0,0.0
+Italy,12462.0,1045.0,827.0
+Jamaica,1.0,0.0,0.0
+Japan,639.0,118.0,15.0
 Jordan,1.0,0.0,0.0
-South Korea,7869.0,333.0,66.0
-Kuwait,80.0,5.0,0.0
+South Korea,7755.0,288.0,60.0
+Kuwait,72.0,2.0,0.0
 Latvia,10.0,1.0,0.0
 Lebanon,61.0,1.0,3.0
 Liechtenstein,1.0,0.0,0.0
 Lithuania,3.0,0.0,0.0
-Luxembourg,19.0,0.0,0.0
+Luxembourg,7.0,0.0,0.0
 Malaysia,149.0,26.0,0.0
 Maldives,8.0,0.0,0.0
 Malta,6.0,0.0,0.0
-Mexico,12.0,4.0,0.0
+Mexico,8.0,4.0,0.0
 Moldova,3.0,0.0,0.0
-Monaco,2.0,0.0,0.0
+Monaco,1.0,0.0,0.0
 Mongolia,1.0,0.0,0.0
-Morocco,6.0,0.0,1.0
+Morocco,5.0,0.0,1.0
 Nepal,1.0,1.0,0.0
 Netherlands,503.0,0.0,5.0
 New Zealand,5.0,0.0,0.0
 Nigeria,2.0,0.0,0.0
 North Macedonia,7.0,0.0,0.0
-Norway,702.0,1.0,0.0
+Norway,598.0,1.0,0.0
 Oman,18.0,9.0,0.0
-Pakistan,20.0,2.0,0.0
-Panama,11.0,0.0,1.0
+Pakistan,19.0,2.0,0.0
+Panama,8.0,0.0,1.0
 Paraguay,5.0,0.0,0.0
-Peru,15.0,0.0,0.0
-Philippines,52.0,2.0,2.0
-Poland,49.0,0.0,1.0
+Peru,11.0,0.0,0.0
+Philippines,49.0,2.0,1.0
+Poland,31.0,0.0,0.0
 Portugal,59.0,0.0,0.0
 Qatar,262.0,0.0,0.0
-Romania,49.0,6.0,0.0
-Russia,28.0,3.0,0.0
-San Marino,69.0,0.0,3.0
-Saudi Arabia,45.0,1.0,0.0
+Romania,45.0,6.0,0.0
+Russia,20.0,3.0,0.0
+San Marino,62.0,0.0,2.0
+Saudi Arabia,21.0,1.0,0.0
 Senegal,4.0,1.0,0.0
-Serbia,19.0,0.0,0.0
+Serbia,12.0,0.0,0.0
 Singapore,178.0,96.0,0.0
-Slovakia,16.0,0.0,0.0
-Slovenia,89.0,0.0,0.0
-South Africa,17.0,0.0,0.0
-Spain,2277.0,183.0,55.0
+Slovakia,10.0,0.0,0.0
+Slovenia,57.0,0.0,0.0
+South Africa,13.0,0.0,0.0
+Spain,2277.0,183.0,54.0
 Sri Lanka,2.0,1.0,0.0
-Sweden,599.0,1.0,1.0
+Sweden,500.0,1.0,1.0
 Switzerland,652.0,4.0,4.0
-Taiwan,49.0,20.0,1.0
-Thailand,70.0,34.0,1.0
+Taiwan,48.0,17.0,1.0
+Thailand,59.0,34.0,1.0
 Togo,1.0,0.0,0.0
 Tunisia,7.0,0.0,0.0
 Turkey,1.0,0.0,0.0
-United States of America,1667.0,12.0,42.0
+United States of America,1285.0,8.0,36.0
 Ukraine,1.0,0.0,0.0
-United Arab Emirates,85.0,17.0,0.0
-United Kingdom,459.0,19.0,9.0
-Vietnam,39.0,16.0,0.0
+United Arab Emirates,74.0,17.0,0.0
+United Kingdom,459.0,19.0,7.0
+Vietnam,38.0,16.0,0.0
 West Bank and Gaza,30.0,0.0,0.0
-Global Total,131007.0,68324.0,4912.0
+Global Total,125879.0,67003.0,4614.0

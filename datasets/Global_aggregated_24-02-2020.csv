@@ -1,38 +1,33 @@
 Region,Confirmed,Recovered/Migrated,Deceased
-Afghanistan,1.0,0.0,0.0
 Australia,15.0,11.0,0.0
-Bahrain,1.0,0.0,0.0
 Belgium,1.0,1.0,0.0
 Cambodia,1.0,1.0,0.0
-Canada,10.0,3.0,0.0
-China,77241.0,25015.0,2595.0
+Canada,9.0,3.0,0.0
+China,77022.0,23187.0,2445.0
 Diamond Princess,691.0,0.0,3.0
 Egypt,1.0,0.0,0.0
 Finland,1.0,1.0,0.0
 France,12.0,4.0,1.0
 Germany,16.0,14.0,0.0
 India,3.0,3.0,0.0
-Iran,61.0,0.0,12.0
-Iraq,1.0,0.0,0.0
+Iran,43.0,0.0,8.0
 Israel,1.0,0.0,0.0
-Italy,229.0,1.0,7.0
-Japan,159.0,22.0,1.0
-South Korea,833.0,18.0,8.0
-Kuwait,1.0,0.0,0.0
+Italy,155.0,2.0,3.0
+Japan,147.0,22.0,1.0
+South Korea,602.0,18.0,6.0
 Lebanon,1.0,0.0,0.0
-Malaysia,22.0,18.0,0.0
+Malaysia,22.0,15.0,0.0
 Nepal,1.0,1.0,0.0
-Oman,2.0,0.0,0.0
 Philippines,3.0,1.0,1.0
 Russia,2.0,2.0,0.0
 Singapore,89.0,51.0,0.0
 Spain,2.0,2.0,0.0
 Sri Lanka,1.0,1.0,0.0
 Sweden,1.0,0.0,0.0
-Taiwan,30.0,5.0,1.0
+Taiwan,28.0,2.0,1.0
 Thailand,35.0,21.0,0.0
-United States of America,51.0,5.0,0.0
+United States of America,15.0,5.0,0.0
 United Arab Emirates,13.0,4.0,0.0
-United Kingdom,13.0,8.0,0.0
+United Kingdom,9.0,8.0,0.0
 Vietnam,16.0,14.0,0.0
-Global Total,79561.0,25227.0,2629.0
+Global Total,78958.0,23394.0,2469.0
