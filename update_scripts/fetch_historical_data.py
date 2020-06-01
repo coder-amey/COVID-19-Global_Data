@@ -1,9 +1,11 @@
 import pandas as data
 import os.path
+from datetime import timedelta
 from datetime import datetime
 
 cut_off = datetime.strptime('1-06-2020', '%d-%m-%Y').date()	#Extract historical data till this date.
 base_dir = os.path.join(os.path.dirname(__file__), "../")		#Obtain the path to the base directory for absosulte addressing.
+day_delta = timedelta(days = 1)			#Add time delta to fix timezone mismatch.
 
 def generate_dataset(record):
 	'''Generate a dataframe from a record of tallies for a particular date.'''
@@ -46,10 +48,12 @@ if __name__ == "__main__":
 		#Generate a daily record for the particular date.
 		daily_record = generate_dataset(tally)
 
-		daily_record.to_csv(base_dir + "datasets/Global_aggregated_{}.csv".format(date.strftime('%d-%m-%Y')), index = False)
-		if(date < cut_off):		#Do not process records after the cut-off date.
-			#Add a date column and assimilate the records into a time_series dataframe with historical data.
-			daily_record.insert(0, "Date", date.strftime('%d-%m-%Y'))	
+		#Write the updated time-series to its CSV file. Add time delta to fix time-zone mismatch.
+		daily_record.to_csv(base_dir + "datasets/Global_aggregated_{}.csv".format((date + day_delta).strftime('%d-%m-%Y')), index = False)
+		
+		if(date + day_delta < cut_off):		#Do not process records after the cut-off date.
+			#Add a date column and assimilate the records into a time_series dataframe with historical data. Add time delta to fix time-zone mismatch.
+			daily_record.insert(0, "Date", (date + day_delta).strftime('%d-%m-%Y'))	
 			time_series = time_series.append(daily_record, ignore_index = True)	
 	
 	#Write the updated time-series to its CSV file.
