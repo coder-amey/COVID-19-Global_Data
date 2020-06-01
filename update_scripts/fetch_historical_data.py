@@ -2,7 +2,7 @@ import pandas as data
 import os.path
 from datetime import datetime
 
-cut_off = datetime.strptime('31-05-2020', '%d-%m-%Y').date()	#Extract historical data till this date.
+cut_off = datetime.strptime('1-06-2020', '%d-%m-%Y').date()	#Extract historical data till this date.
 base_dir = os.path.join(os.path.dirname(__file__), "../")		#Obtain the path to the base directory for absosulte addressing.
 
 def generate_dataset(record):
@@ -34,9 +34,10 @@ if __name__ == "__main__":
 	raw_DCS.index = data.to_datetime(raw_DCS.index)
 
 	#Implement spelling corrections here:
-	raw_CNF = raw_CNF.rename(columns = {'Taiwan*': 'Taiwan', 'Korea, South': 'South Korea', 'US': 'United States of America', 'Czechia': 'Czech Republic'})
-	raw_RCV = raw_RCV.rename(columns = {'Taiwan*': 'Taiwan', 'Korea, South': 'South Korea', 'US': 'United States of America', 'Czechia': 'Czech Republic'})
-	raw_DCS = raw_DCS.rename(columns = {'Taiwan*': 'Taiwan', 'Korea, South': 'South Korea', 'US': 'United States of America', 'Czechia': 'Czech Republic'})
+	rename_dict = {'Taiwan*': 'Taiwan', 'Korea, South': 'South Korea', 'US': 'United States of America', 'Czechia': 'Czech Republic', 'Holy See': 'Vatican City'}
+	raw_CNF = raw_CNF.rename(columns = rename_dict)
+	raw_RCV = raw_RCV.rename(columns = rename_dict)
+	raw_DCS = raw_DCS.rename(columns = rename_dict)
 
 	#Generate a dataframe of date-wise aggregated data.
 	for date in raw_CNF.index:
