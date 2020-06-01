@@ -6,7 +6,7 @@ from datetime import timedelta
 from datetime import datetime
 
 base_dir = os.path.join(os.path.dirname(__file__), "../")		#Obtain the path to the base directory for absosulte addressing.
-date = datetime.now().strftime("%d-%m-%Y") 	#Date of update.
+date = datetime.now().date() 				#Date of update.
 day_delta = timedelta(days = 1)			#Add time delta to fix timezone mismatch.
 
 def generate_dataset(record):
@@ -26,7 +26,7 @@ if __name__ == "__main__":
 	#Initialize the time-series.
 	record = dict()
 	time_series = data.read_csv(base_dir + "time-series/Global_aggregated.csv")		#Load the time-series.
-	time_series = time_series[time_series["Date"] != date]	#Discard other updates made today.
+	time_series = time_series[time_series["Date"] != date.strftime('%d-%m-%Y')]	#Discard other updates made today.
 
 	#Clean and transform the data.
 	raw_CNF = raw_CNF[["Country/Region", raw_CNF.keys()[-1]]]
@@ -48,7 +48,7 @@ if __name__ == "__main__":
 	raw_DCS = raw_DCS.rename(columns = rename_dict)
 
 	#Generate a dataframe of date-wise aggregated data.
-	assert (date ==(raw_CNF.index + day_delta)),"Date mismatch. New data is not contiguous with existing entries."
+	assert (date == (raw_CNF.index[0] + day_delta)),"Date mismatch. New data is not contiguous with existing entries."
 
 	#Prepare values.
 	tally = [table.loc[date - day_delta] for table in [raw_CNF, raw_RCV, raw_DCS]]
@@ -59,7 +59,7 @@ if __name__ == "__main__":
 		
 	#Add a date column and assimilate the records into a time_series dataframe with historical data.
 	updated_tally.insert(0, "Date", date.strftime('%d-%m-%Y'))	
-	time_series = time_series.append(daily_record, ignore_index = True)	
+	time_series = time_series.append(updated_tally, ignore_index = True)	
 
 	#Write the updated time-series to its CSV file.
 	time_series.to_csv(base_dir + "time-series/Global_aggregated.csv", index = False)
