@@ -3,7 +3,7 @@ import os.path
 from datetime import timedelta
 from datetime import datetime
 
-cut_off = datetime.strptime('15-06-2020', '%d-%m-%Y').date()	#Extract historical data till this date.
+cut_off = datetime.strptime('19-06-2020', '%d-%m-%Y').date()	#Extract historical data till this date.
 base_dir = os.path.join(os.path.dirname(__file__), "../")		#Obtain the path to the base directory for absosulte addressing.
 day_delta = timedelta(days = 1)			#Add time delta to fix timezone mismatch.
 
@@ -47,11 +47,10 @@ if __name__ == "__main__":
 		tally = [table.loc[date] for table in [raw_CNF, raw_RCV, raw_DCS]]
 		#Generate a daily record for the particular date.
 		daily_record = generate_dataset(tally)
-
-		#Write the updated time-series to its CSV file. Add time delta to fix time-zone mismatch.
-		daily_record.to_csv(base_dir + "datasets/Global_aggregated_{}.csv".format((date + day_delta).strftime('%d-%m-%Y')), index = False)
 		
 		if(date + day_delta < cut_off):		#Do not process records after the cut-off date.
+			#Write the updated time-series to its CSV file. Add time delta to fix time-zone mismatch.
+			daily_record.to_csv(base_dir + "datasets/Global_aggregated_{}.csv".format((date + day_delta).strftime('%d-%m-%Y')), index = False)
 			#Add a date column and assimilate the records into a time_series dataframe with historical data. Add time delta to fix time-zone mismatch.
 			daily_record.insert(0, "Date", (date + day_delta).strftime('%d-%m-%Y'))	
 			time_series = time_series.append(daily_record, ignore_index = True)	
