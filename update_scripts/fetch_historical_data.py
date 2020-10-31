@@ -3,7 +3,7 @@ import os.path
 from datetime import timedelta
 from datetime import datetime
 
-cut_off = datetime.strptime('25-10-2020', '%d-%m-%Y').date()	#Extract historical data till this date.
+cut_off = datetime.strptime('31-10-2020', '%d-%m-%Y').date()	#Extract historical data till this date.
 base_dir = os.path.join(os.path.dirname(__file__), "../")		#Obtain the path to the base directory for absosulte addressing.
 day_delta = timedelta(days = 1)			#Add time delta to fix timezone mismatch.
 
