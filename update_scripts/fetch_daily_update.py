@@ -51,7 +51,7 @@ if __name__ == "__main__":
 	assert (date == (raw_CNF.index[0] + day_delta)),"Date mismatch. New data is not contiguous with existing entries."
 
 	#Prepare values.
-	tally = [table.loc[date - day_delta] for table in [raw_CNF, raw_RCV, raw_DCS]]
+	tally = [table.loc[data.to_datetime(date - day_delta)] for table in [raw_CNF, raw_RCV, raw_DCS]]
 	#Generate a daily record for the particular date.
 	updated_tally = generate_dataset(tally)
 
