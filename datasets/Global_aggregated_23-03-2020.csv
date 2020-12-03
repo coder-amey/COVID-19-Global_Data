@@ -1,5 +1,5 @@
 Region,Confirmed,Recovered/Migrated,Deceased
-Afghanistan,40.0,1.0,1.0
+Afghanistan,34.0,1.0,1.0
 Albania,89.0,2.0,2.0
 Algeria,201.0,65.0,17.0
 Andorra,113.0,1.0,1.0
@@ -82,7 +82,7 @@ Italy,59138.0,7024.0,5476.0
 Jamaica,19.0,2.0,1.0
 Japan,1104.0,235.0,40.0
 Jordan,112.0,1.0,0.0
-Kazakhstan,60.0,0.0,0.0
+Kazakhstan,61.0,0.0,0.0
 Kenya,15.0,0.0,0.0
 South Korea,8961.0,2909.0,111.0
 Kosovo,31.0,0.0,0.0
@@ -168,4 +168,4 @@ Vietnam,113.0,17.0,0.0
 West Bank and Gaza,52.0,17.0,0.0
 Zambia,3.0,0.0,0.0
 Zimbabwe,3.0,0.0,0.0
-Global Total,343487.0,97885.0,14855.0
+Global Total,343482.0,97885.0,14855.0

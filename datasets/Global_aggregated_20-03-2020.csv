@@ -1,5 +1,5 @@
 Region,Confirmed,Recovered/Migrated,Deceased
-Afghanistan,22.0,1.0,0.0
+Afghanistan,25.0,1.0,0.0
 Albania,64.0,0.0,2.0
 Algeria,87.0,32.0,9.0
 Andorra,53.0,1.0,0.0
@@ -154,4 +154,4 @@ Venezuela,42.0,0.0,0.0
 Vietnam,85.0,16.0,0.0
 West Bank and Gaza,44.0,0.0,0.0
 Zambia,2.0,0.0,0.0
-Global Total,246622.0,84958.0,9980.0
+Global Total,246625.0,84958.0,9980.0

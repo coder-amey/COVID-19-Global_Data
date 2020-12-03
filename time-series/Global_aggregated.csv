@@ -1254,7 +1254,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-03-2020,United Kingdom,134.0,8.0,0.0
 03-03-2020,Vietnam,16.0,16.0,0.0
 03-03-2020,Global Total,90375.0,45602.0,3085.0
-04-03-2020,Afghanistan,1.0,0.0,0.0
+04-03-2020,Afghanistan,2.0,0.0,0.0
 04-03-2020,Algeria,5.0,0.0,0.0
 04-03-2020,Andorra,1.0,0.0,0.0
 04-03-2020,Argentina,1.0,0.0,0.0
@@ -1331,8 +1331,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-03-2020,United Arab Emirates,27.0,5.0,0.0
 04-03-2020,United Kingdom,189.0,8.0,0.0
 04-03-2020,Vietnam,16.0,16.0,0.0
-04-03-2020,Global Total,92959.0,48228.0,3160.0
-05-03-2020,Afghanistan,1.0,0.0,0.0
+04-03-2020,Global Total,92960.0,48228.0,3160.0
+05-03-2020,Afghanistan,4.0,0.0,0.0
 05-03-2020,Algeria,12.0,0.0,0.0
 05-03-2020,Andorra,1.0,0.0,0.0
 05-03-2020,Argentina,1.0,0.0,0.0
@@ -1413,8 +1413,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-03-2020,United Arab Emirates,27.0,5.0,0.0
 05-03-2020,United Kingdom,246.0,8.0,0.0
 05-03-2020,Vietnam,16.0,16.0,0.0
-05-03-2020,Global Total,95276.0,51170.0,3255.0
-06-03-2020,Afghanistan,1.0,0.0,0.0
+05-03-2020,Global Total,95279.0,51170.0,3255.0
+06-03-2020,Afghanistan,4.0,0.0,0.0
 06-03-2020,Algeria,12.0,0.0,0.0
 06-03-2020,Andorra,1.0,0.0,0.0
 06-03-2020,Argentina,1.0,0.0,0.0
@@ -1499,8 +1499,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-03-2020,United Kingdom,295.0,8.0,0.0
 06-03-2020,Vietnam,16.0,16.0,0.0
 06-03-2020,West Bank and Gaza,4.0,0.0,0.0
-06-03-2020,Global Total,98040.0,53796.0,3348.0
-07-03-2020,Afghanistan,1.0,0.0,0.0
+06-03-2020,Global Total,98043.0,53796.0,3348.0
+07-03-2020,Afghanistan,4.0,0.0,0.0
 07-03-2020,Algeria,17.0,0.0,0.0
 07-03-2020,Andorra,1.0,0.0,0.0
 07-03-2020,Argentina,2.0,0.0,0.0
@@ -1594,8 +1594,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-03-2020,United Kingdom,374.0,8.0,1.0
 07-03-2020,Vietnam,16.0,16.0,0.0
 07-03-2020,West Bank and Gaza,7.0,0.0,0.0
-07-03-2020,Global Total,102040.0,55865.0,3460.0
-08-03-2020,Afghanistan,1.0,0.0,0.0
+07-03-2020,Global Total,102043.0,55865.0,3460.0
+08-03-2020,Afghanistan,4.0,0.0,0.0
 08-03-2020,Algeria,17.0,0.0,0.0
 08-03-2020,Andorra,1.0,0.0,0.0
 08-03-2020,Argentina,8.0,0.0,0.0
@@ -1690,8 +1690,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-03-2020,United Kingdom,429.0,18.0,2.0
 08-03-2020,Vietnam,18.0,16.0,0.0
 08-03-2020,West Bank and Gaza,16.0,0.0,0.0
-08-03-2020,Global Total,106102.0,58359.0,3559.0
-09-03-2020,Afghanistan,4.0,0.0,0.0
+08-03-2020,Global Total,106105.0,58359.0,3559.0
+09-03-2020,Afghanistan,5.0,0.0,0.0
 09-03-2020,Algeria,19.0,0.0,0.0
 09-03-2020,Andorra,1.0,0.0,0.0
 09-03-2020,Argentina,12.0,0.0,1.0
@@ -1791,8 +1791,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-03-2020,United Kingdom,483.0,18.0,2.0
 09-03-2020,Vietnam,30.0,16.0,0.0
 09-03-2020,West Bank and Gaza,16.0,0.0,0.0
-09-03-2020,Global Total,110062.0,60694.0,3803.0
-10-03-2020,Afghanistan,4.0,0.0,0.0
+09-03-2020,Global Total,110063.0,60694.0,3803.0
+10-03-2020,Afghanistan,7.0,0.0,0.0
 10-03-2020,Albania,2.0,0.0,0.0
 10-03-2020,Algeria,20.0,0.0,0.0
 10-03-2020,Andorra,1.0,0.0,0.0
@@ -1895,8 +1895,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-03-2020,United Kingdom,630.0,18.0,3.0
 10-03-2020,Vietnam,30.0,16.0,0.0
 10-03-2020,West Bank and Gaza,19.0,0.0,0.0
-10-03-2020,Global Total,114025.0,62493.0,3987.0
-11-03-2020,Afghanistan,5.0,0.0,0.0
+10-03-2020,Global Total,114028.0,62493.0,3987.0
+11-03-2020,Afghanistan,8.0,0.0,0.0
 11-03-2020,Albania,10.0,0.0,0.0
 11-03-2020,Algeria,20.0,0.0,0.0
 11-03-2020,Andorra,1.0,0.0,0.0
@@ -2002,8 +2002,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-03-2020,United Kingdom,889.0,19.0,7.0
 11-03-2020,Vietnam,31.0,16.0,0.0
 11-03-2020,West Bank and Gaza,26.0,0.0,0.0
-11-03-2020,Global Total,119036.0,64404.0,4267.0
-12-03-2020,Afghanistan,7.0,0.0,0.0
+11-03-2020,Global Total,119039.0,64404.0,4267.0
+12-03-2020,Afghanistan,11.0,0.0,0.0
 12-03-2020,Albania,12.0,0.0,1.0
 12-03-2020,Algeria,20.0,0.0,0.0
 12-03-2020,Andorra,1.0,0.0,0.0
@@ -2115,8 +2115,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-03-2020,United Kingdom,1301.0,19.0,7.0
 12-03-2020,Vietnam,38.0,16.0,0.0
 12-03-2020,West Bank and Gaza,30.0,0.0,0.0
-12-03-2020,Global Total,126717.0,67002.0,4611.0
-13-03-2020,Afghanistan,7.0,0.0,0.0
+12-03-2020,Global Total,126721.0,67002.0,4611.0
+13-03-2020,Afghanistan,12.0,0.0,0.0
 13-03-2020,Albania,23.0,0.0,1.0
 13-03-2020,Algeria,24.0,8.0,1.0
 13-03-2020,Andorra,1.0,1.0,0.0
@@ -2230,8 +2230,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-03-2020,United Kingdom,1790.0,19.0,9.0
 13-03-2020,Vietnam,39.0,16.0,0.0
 13-03-2020,West Bank and Gaza,30.0,0.0,0.0
-13-03-2020,Global Total,132506.0,68324.0,4917.0
-14-03-2020,Afghanistan,7.0,0.0,0.0
+13-03-2020,Global Total,132511.0,68324.0,4917.0
+14-03-2020,Afghanistan,13.0,0.0,0.0
 14-03-2020,Albania,33.0,0.0,1.0
 14-03-2020,Algeria,26.0,8.0,2.0
 14-03-2020,Andorra,1.0,0.0,0.0
@@ -2352,8 +2352,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-03-2020,Uruguay,4.0,0.0,0.0
 14-03-2020,Vietnam,47.0,16.0,0.0
 14-03-2020,West Bank and Gaza,31.0,0.0,0.0
-14-03-2020,Global Total,146887.0,70251.0,5414.0
-15-03-2020,Afghanistan,11.0,0.0,0.0
+14-03-2020,Global Total,146893.0,70251.0,5414.0
+15-03-2020,Afghanistan,15.0,0.0,0.0
 15-03-2020,Albania,38.0,0.0,1.0
 15-03-2020,Algeria,37.0,12.0,3.0
 15-03-2020,Andorra,1.0,1.0,0.0
@@ -2488,7 +2488,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-03-2020,Venezuela,2.0,0.0,0.0
 15-03-2020,Vietnam,53.0,16.0,0.0
 15-03-2020,West Bank and Gaza,35.0,0.0,0.0
-15-03-2020,Global Total,157965.0,72622.0,5834.0
+15-03-2020,Global Total,157969.0,72622.0,5834.0
 16-03-2020,Afghanistan,16.0,0.0,0.0
 16-03-2020,Albania,42.0,0.0,1.0
 16-03-2020,Algeria,48.0,12.0,4.0
@@ -2629,7 +2629,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-03-2020,Vietnam,56.0,16.0,0.0
 16-03-2020,West Bank and Gaza,38.0,0.0,0.0
 16-03-2020,Global Total,169258.0,76032.0,6475.0
-17-03-2020,Afghanistan,21.0,1.0,0.0
+17-03-2020,Afghanistan,18.0,1.0,0.0
 17-03-2020,Albania,51.0,0.0,1.0
 17-03-2020,Algeria,54.0,12.0,4.0
 17-03-2020,Andorra,2.0,1.0,0.0
@@ -2773,8 +2773,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-03-2020,Venezuela,17.0,0.0,0.0
 17-03-2020,Vietnam,61.0,16.0,0.0
 17-03-2020,West Bank and Gaza,38.0,0.0,0.0
-17-03-2020,Global Total,184002.0,78086.0,7153.0
-18-03-2020,Afghanistan,22.0,1.0,0.0
+17-03-2020,Global Total,183999.0,78086.0,7153.0
+18-03-2020,Afghanistan,20.0,1.0,0.0
 18-03-2020,Albania,55.0,0.0,1.0
 18-03-2020,Algeria,60.0,12.0,4.0
 18-03-2020,Andorra,39.0,1.0,0.0
@@ -2921,8 +2921,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-03-2020,Venezuela,33.0,0.0,0.0
 18-03-2020,Vietnam,66.0,16.0,0.0
 18-03-2020,West Bank and Gaza,39.0,0.0,0.0
-18-03-2020,Global Total,199933.0,80838.0,7964.0
-19-03-2020,Afghanistan,22.0,1.0,0.0
+18-03-2020,Global Total,199931.0,80838.0,7964.0
+19-03-2020,Afghanistan,24.0,1.0,0.0
 19-03-2020,Albania,59.0,0.0,2.0
 19-03-2020,Algeria,74.0,12.0,7.0
 19-03-2020,Andorra,39.0,1.0,0.0
@@ -3073,8 +3073,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-03-2020,Vietnam,75.0,16.0,0.0
 19-03-2020,West Bank and Gaza,41.0,0.0,0.0
 19-03-2020,Zambia,2.0,0.0,0.0
-19-03-2020,Global Total,219466.0,83321.0,8867.0
-20-03-2020,Afghanistan,22.0,1.0,0.0
+19-03-2020,Global Total,219468.0,83321.0,8867.0
+20-03-2020,Afghanistan,25.0,1.0,0.0
 20-03-2020,Albania,64.0,0.0,2.0
 20-03-2020,Algeria,87.0,32.0,9.0
 20-03-2020,Andorra,53.0,1.0,0.0
@@ -3229,8 +3229,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-03-2020,Vietnam,85.0,16.0,0.0
 20-03-2020,West Bank and Gaza,44.0,0.0,0.0
 20-03-2020,Zambia,2.0,0.0,0.0
-20-03-2020,Global Total,246622.0,84958.0,9980.0
-21-03-2020,Afghanistan,24.0,1.0,0.0
+20-03-2020,Global Total,246625.0,84958.0,9980.0
+21-03-2020,Afghanistan,29.0,1.0,0.0
 21-03-2020,Albania,70.0,0.0,2.0
 21-03-2020,Algeria,90.0,32.0,11.0
 21-03-2020,Andorra,75.0,1.0,0.0
@@ -3310,7 +3310,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-03-2020,Jamaica,16.0,2.0,1.0
 21-03-2020,Japan,1022.0,191.0,34.0
 21-03-2020,Jordan,85.0,1.0,0.0
-21-03-2020,Kazakhstan,49.0,0.0,3.0
+21-03-2020,Kazakhstan,49.0,0.0,0.0
 21-03-2020,Kenya,7.0,0.0,0.0
 21-03-2020,South Korea,8652.0,1540.0,94.0
 21-03-2020,Kosovo,21.0,0.0,0.0
@@ -3392,8 +3392,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-03-2020,West Bank and Gaza,47.0,17.0,0.0
 21-03-2020,Zambia,2.0,0.0,0.0
 21-03-2020,Zimbabwe,1.0,0.0,0.0
-21-03-2020,Global Total,277257.0,87403.0,11461.0
-22-03-2020,Afghanistan,24.0,1.0,0.0
+21-03-2020,Global Total,277262.0,87403.0,11458.0
+22-03-2020,Afghanistan,30.0,1.0,0.0
 22-03-2020,Albania,76.0,2.0,2.0
 22-03-2020,Algeria,139.0,32.0,15.0
 22-03-2020,Andorra,88.0,1.0,0.0
@@ -3557,8 +3557,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-03-2020,West Bank and Gaza,48.0,17.0,0.0
 22-03-2020,Zambia,2.0,0.0,0.0
 22-03-2020,Zimbabwe,3.0,0.0,0.0
-22-03-2020,Global Total,309226.0,91670.0,13181.0
-23-03-2020,Afghanistan,40.0,1.0,1.0
+22-03-2020,Global Total,309232.0,91670.0,13181.0
+23-03-2020,Afghanistan,34.0,1.0,1.0
 23-03-2020,Albania,89.0,2.0,2.0
 23-03-2020,Algeria,201.0,65.0,17.0
 23-03-2020,Andorra,113.0,1.0,1.0
@@ -3641,7 +3641,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-03-2020,Jamaica,19.0,2.0,1.0
 23-03-2020,Japan,1104.0,235.0,40.0
 23-03-2020,Jordan,112.0,1.0,0.0
-23-03-2020,Kazakhstan,60.0,0.0,0.0
+23-03-2020,Kazakhstan,61.0,0.0,0.0
 23-03-2020,Kenya,15.0,0.0,0.0
 23-03-2020,South Korea,8961.0,2909.0,111.0
 23-03-2020,Kosovo,31.0,0.0,0.0
@@ -3727,8 +3727,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-03-2020,West Bank and Gaza,52.0,17.0,0.0
 23-03-2020,Zambia,3.0,0.0,0.0
 23-03-2020,Zimbabwe,3.0,0.0,0.0
-23-03-2020,Global Total,343487.0,97885.0,14855.0
-24-03-2020,Afghanistan,40.0,1.0,1.0
+23-03-2020,Global Total,343482.0,97885.0,14855.0
+24-03-2020,Afghanistan,41.0,1.0,1.0
 24-03-2020,Albania,104.0,2.0,4.0
 24-03-2020,Algeria,230.0,65.0,17.0
 24-03-2020,Andorra,133.0,1.0,1.0
@@ -3898,8 +3898,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-03-2020,West Bank and Gaza,59.0,17.0,0.0
 24-03-2020,Zambia,3.0,0.0,0.0
 24-03-2020,Zimbabwe,3.0,0.0,1.0
-24-03-2020,Global Total,386866.0,98351.0,16797.0
-25-03-2020,Afghanistan,74.0,1.0,1.0
+24-03-2020,Global Total,386867.0,98351.0,16797.0
+25-03-2020,Afghanistan,43.0,1.0,1.0
 25-03-2020,Albania,123.0,10.0,5.0
 25-03-2020,Algeria,264.0,24.0,19.0
 25-03-2020,Andorra,164.0,1.0,1.0
@@ -4071,8 +4071,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-03-2020,West Bank and Gaza,59.0,17.0,0.0
 25-03-2020,Zambia,3.0,0.0,0.0
 25-03-2020,Zimbabwe,3.0,0.0,1.0
-25-03-2020,Global Total,428373.0,107992.0,19081.0
-26-03-2020,Afghanistan,84.0,2.0,2.0
+25-03-2020,Global Total,428342.0,107992.0,19081.0
+26-03-2020,Afghanistan,76.0,2.0,2.0
 26-03-2020,Albania,146.0,17.0,5.0
 26-03-2020,Algeria,302.0,65.0,21.0
 26-03-2020,Andorra,188.0,1.0,1.0
@@ -4247,8 +4247,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-03-2020,West Bank and Gaza,59.0,17.0,0.0
 26-03-2020,Zambia,12.0,0.0,0.0
 26-03-2020,Zimbabwe,3.0,0.0,1.0
-26-03-2020,Global Total,479398.0,113775.0,21881.0
-27-03-2020,Afghanistan,94.0,2.0,4.0
+26-03-2020,Global Total,479390.0,113775.0,21881.0
+27-03-2020,Afghanistan,80.0,2.0,3.0
 27-03-2020,Albania,174.0,17.0,6.0
 27-03-2020,Algeria,367.0,29.0,25.0
 27-03-2020,Andorra,224.0,1.0,3.0
@@ -4423,8 +4423,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-03-2020,West Bank and Gaza,84.0,17.0,1.0
 27-03-2020,Zambia,16.0,0.0,0.0
 27-03-2020,Zimbabwe,3.0,0.0,1.0
-27-03-2020,Global Total,542071.0,122145.0,24901.0
-28-03-2020,Afghanistan,110.0,2.0,4.0
+27-03-2020,Global Total,542057.0,122145.0,24900.0
+28-03-2020,Afghanistan,91.0,2.0,3.0
 28-03-2020,Albania,186.0,31.0,8.0
 28-03-2020,Algeria,409.0,29.0,26.0
 28-03-2020,Andorra,267.0,1.0,3.0
@@ -4600,8 +4600,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-03-2020,West Bank and Gaza,91.0,17.0,1.0
 28-03-2020,Zambia,22.0,0.0,0.0
 28-03-2020,Zimbabwe,5.0,0.0,1.0
-28-03-2020,Global Total,607102.0,130921.0,28394.0
-29-03-2020,Afghanistan,110.0,2.0,4.0
+28-03-2020,Global Total,607083.0,130921.0,28393.0
+29-03-2020,Afghanistan,107.0,2.0,4.0
 29-03-2020,Albania,197.0,31.0,10.0
 29-03-2020,Algeria,454.0,31.0,29.0
 29-03-2020,Andorra,308.0,1.0,3.0
@@ -4778,8 +4778,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-03-2020,West Bank and Gaza,98.0,18.0,1.0
 29-03-2020,Zambia,28.0,0.0,0.0
 29-03-2020,Zimbabwe,7.0,0.0,1.0
-29-03-2020,Global Total,674494.0,139424.0,32108.0
-30-03-2020,Afghanistan,120.0,2.0,4.0
+29-03-2020,Global Total,674491.0,139424.0,32108.0
+30-03-2020,Afghanistan,118.0,2.0,4.0
 30-03-2020,Albania,212.0,33.0,10.0
 30-03-2020,Algeria,511.0,31.0,31.0
 30-03-2020,Andorra,334.0,1.0,6.0
@@ -4956,8 +4956,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-03-2020,West Bank and Gaza,109.0,18.0,1.0
 30-03-2020,Zambia,29.0,0.0,0.0
 30-03-2020,Zimbabwe,7.0,0.0,1.0
-30-03-2020,Global Total,733841.0,148891.0,35584.0
-31-03-2020,Afghanistan,170.0,2.0,4.0
+30-03-2020,Global Total,733839.0,148891.0,35584.0
+31-03-2020,Afghanistan,146.0,2.0,4.0
 31-03-2020,Albania,223.0,44.0,11.0
 31-03-2020,Algeria,584.0,37.0,35.0
 31-03-2020,Andorra,370.0,10.0,8.0
@@ -5135,8 +5135,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 31-03-2020,West Bank and Gaza,116.0,18.0,1.0
 31-03-2020,Zambia,35.0,0.0,0.0
 31-03-2020,Zimbabwe,7.0,0.0,1.0
-31-03-2020,Global Total,799151.0,164337.0,39636.0
-01-04-2020,Afghanistan,174.0,5.0,4.0
+31-03-2020,Global Total,799127.0,164337.0,39636.0
+01-04-2020,Afghanistan,175.0,5.0,4.0
 01-04-2020,Albania,243.0,52.0,15.0
 01-04-2020,Algeria,716.0,46.0,44.0
 01-04-2020,Andorra,376.0,10.0,12.0
@@ -5316,8 +5316,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-04-2020,West Bank and Gaza,119.0,18.0,1.0
 01-04-2020,Zambia,35.0,0.0,0.0
 01-04-2020,Zimbabwe,8.0,0.0,1.0
-01-04-2020,Global Total,875928.0,177825.0,44388.0
-02-04-2020,Afghanistan,237.0,5.0,4.0
+01-04-2020,Global Total,875929.0,177825.0,44388.0
+02-04-2020,Afghanistan,197.0,5.0,4.0
 02-04-2020,Albania,259.0,67.0,15.0
 02-04-2020,Algeria,847.0,61.0,58.0
 02-04-2020,Andorra,390.0,10.0,14.0
@@ -5497,8 +5497,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-04-2020,West Bank and Gaza,134.0,18.0,1.0
 02-04-2020,Zambia,36.0,0.0,0.0
 02-04-2020,Zimbabwe,8.0,0.0,1.0
-02-04-2020,Global Total,952518.0,192918.0,49894.0
-03-04-2020,Afghanistan,273.0,10.0,6.0
+02-04-2020,Global Total,952478.0,192918.0,49894.0
+03-04-2020,Afghanistan,240.0,10.0,4.0
 03-04-2020,Albania,277.0,76.0,16.0
 03-04-2020,Algeria,986.0,61.0,86.0
 03-04-2020,Andorra,428.0,10.0,15.0
@@ -5679,8 +5679,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-04-2020,West Bank and Gaza,161.0,18.0,1.0
 03-04-2020,Zambia,39.0,0.0,1.0
 03-04-2020,Zimbabwe,9.0,0.0,1.0
-03-04-2020,Global Total,1033847.0,209967.0,56132.0
-04-04-2020,Afghanistan,281.0,10.0,6.0
+03-04-2020,Global Total,1033814.0,209967.0,56130.0
+04-04-2020,Afghanistan,275.0,10.0,8.0
 04-04-2020,Albania,304.0,89.0,17.0
 04-04-2020,Algeria,1171.0,62.0,105.0
 04-04-2020,Andorra,439.0,16.0,16.0
@@ -5861,8 +5861,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-04-2020,West Bank and Gaza,194.0,21.0,1.0
 04-04-2020,Zambia,39.0,2.0,1.0
 04-04-2020,Zimbabwe,9.0,0.0,1.0
-04-04-2020,Global Total,1117073.0,225415.0,62237.0
-05-04-2020,Afghanistan,299.0,10.0,7.0
+04-04-2020,Global Total,1117067.0,225415.0,62239.0
+05-04-2020,Afghanistan,300.0,10.0,10.0
 05-04-2020,Albania,333.0,99.0,20.0
 05-04-2020,Algeria,1251.0,90.0,130.0
 05-04-2020,Andorra,466.0,21.0,17.0
@@ -6043,8 +6043,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-04-2020,West Bank and Gaza,217.0,21.0,1.0
 05-04-2020,Zambia,39.0,2.0,1.0
 05-04-2020,Zimbabwe,9.0,0.0,1.0
-05-04-2020,Global Total,1197444.0,245832.0,68401.0
-06-04-2020,Afghanistan,349.0,15.0,7.0
+05-04-2020,Global Total,1197445.0,245832.0,68404.0
+06-04-2020,Afghanistan,338.0,15.0,12.0
 06-04-2020,Albania,361.0,104.0,20.0
 06-04-2020,Algeria,1320.0,90.0,152.0
 06-04-2020,Andorra,501.0,26.0,18.0
@@ -6227,8 +6227,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-04-2020,Western Sahara,4.0,0.0,0.0
 06-04-2020,Zambia,39.0,3.0,1.0
 06-04-2020,Zimbabwe,9.0,0.0,1.0
-06-04-2020,Global Total,1269433.0,259672.0,73568.0
-07-04-2020,Afghanistan,367.0,18.0,11.0
+06-04-2020,Global Total,1269422.0,259672.0,73573.0
+07-04-2020,Afghanistan,368.0,18.0,15.0
 07-04-2020,Albania,377.0,116.0,21.0
 07-04-2020,Algeria,1423.0,90.0,173.0
 07-04-2020,Andorra,525.0,31.0,21.0
@@ -6412,8 +6412,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-04-2020,Western Sahara,4.0,0.0,0.0
 07-04-2020,Zambia,39.0,5.0,1.0
 07-04-2020,Zimbabwe,10.0,0.0,1.0
-07-04-2020,Global Total,1342654.0,276252.0,79515.0
-08-04-2020,Afghanistan,423.0,18.0,14.0
+07-04-2020,Global Total,1342655.0,276252.0,79519.0
+08-04-2020,Afghanistan,424.0,18.0,16.0
 08-04-2020,Albania,383.0,131.0,22.0
 08-04-2020,Algeria,1468.0,113.0,193.0
 08-04-2020,Andorra,545.0,39.0,22.0
@@ -6597,8 +6597,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-04-2020,Western Sahara,4.0,0.0,0.0
 08-04-2020,Zambia,39.0,7.0,1.0
 08-04-2020,Zimbabwe,11.0,0.0,2.0
-08-04-2020,Global Total,1420406.0,299643.0,87745.0
-09-04-2020,Afghanistan,444.0,29.0,14.0
+08-04-2020,Global Total,1420407.0,299643.0,87747.0
+09-04-2020,Afghanistan,445.0,29.0,16.0
 09-04-2020,Albania,400.0,154.0,22.0
 09-04-2020,Algeria,1572.0,237.0,205.0
 09-04-2020,Andorra,564.0,52.0,23.0
@@ -6782,8 +6782,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-04-2020,Western Sahara,4.0,0.0,0.0
 09-04-2020,Zambia,39.0,7.0,1.0
 09-04-2020,Zimbabwe,11.0,0.0,3.0
-09-04-2020,Global Total,1504616.0,328359.0,94505.0
-10-04-2020,Afghanistan,484.0,32.0,15.0
+09-04-2020,Global Total,1504617.0,328359.0,94507.0
+10-04-2020,Afghanistan,485.0,32.0,17.0
 10-04-2020,Albania,409.0,165.0,23.0
 10-04-2020,Algeria,1666.0,347.0,235.0
 10-04-2020,Andorra,583.0,58.0,25.0
@@ -6967,8 +6967,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-04-2020,Western Sahara,4.0,0.0,0.0
 10-04-2020,Zambia,39.0,24.0,1.0
 10-04-2020,Zimbabwe,11.0,0.0,3.0
-10-04-2020,Global Total,1591030.0,353707.0,102269.0
-11-04-2020,Afghanistan,521.0,32.0,15.0
+10-04-2020,Global Total,1591031.0,353707.0,102271.0
+11-04-2020,Afghanistan,532.0,32.0,18.0
 11-04-2020,Albania,416.0,182.0,23.0
 11-04-2020,Algeria,1761.0,405.0,256.0
 11-04-2020,Andorra,601.0,71.0,26.0
@@ -7153,8 +7153,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-04-2020,Yemen,1.0,0.0,0.0
 11-04-2020,Zambia,40.0,25.0,2.0
 11-04-2020,Zimbabwe,13.0,0.0,3.0
-11-04-2020,Global Total,1678519.0,375509.0,109670.0
-12-04-2020,Afghanistan,555.0,32.0,18.0
+11-04-2020,Global Total,1678530.0,375509.0,109673.0
+12-04-2020,Afghanistan,556.0,32.0,18.0
 12-04-2020,Albania,433.0,197.0,23.0
 12-04-2020,Algeria,1825.0,460.0,275.0
 12-04-2020,Andorra,601.0,71.0,26.0
@@ -7339,8 +7339,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-04-2020,Yemen,1.0,0.0,0.0
 12-04-2020,Zambia,40.0,28.0,2.0
 12-04-2020,Zimbabwe,14.0,0.0,3.0
-12-04-2020,Global Total,1754685.0,401766.0,115900.0
-13-04-2020,Afghanistan,607.0,32.0,18.0
+12-04-2020,Global Total,1754686.0,401766.0,115900.0
+13-04-2020,Afghanistan,608.0,32.0,19.0
 13-04-2020,Albania,446.0,217.0,23.0
 13-04-2020,Algeria,1914.0,591.0,293.0
 13-04-2020,Andorra,638.0,128.0,29.0
@@ -7525,8 +7525,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-04-2020,Yemen,1.0,0.0,0.0
 13-04-2020,Zambia,43.0,30.0,2.0
 13-04-2020,Zimbabwe,14.0,0.0,3.0
-13-04-2020,Global Total,1850006.0,421180.0,121719.0
-14-04-2020,Afghanistan,665.0,32.0,21.0
+13-04-2020,Global Total,1850007.0,421180.0,121720.0
+14-04-2020,Afghanistan,666.0,32.0,22.0
 14-04-2020,Albania,467.0,232.0,23.0
 14-04-2020,Algeria,1983.0,601.0,313.0
 14-04-2020,Andorra,646.0,128.0,29.0
@@ -7711,8 +7711,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-04-2020,Yemen,1.0,0.0,0.0
 14-04-2020,Zambia,45.0,30.0,2.0
 14-04-2020,Zimbabwe,17.0,0.0,3.0
-14-04-2020,Global Total,1920169.0,448347.0,127627.0
-15-04-2020,Afghanistan,714.0,40.0,23.0
+14-04-2020,Global Total,1920170.0,448347.0,127628.0
+15-04-2020,Afghanistan,715.0,40.0,23.0
 15-04-2020,Albania,475.0,248.0,24.0
 15-04-2020,Algeria,2070.0,691.0,326.0
 15-04-2020,Andorra,659.0,128.0,31.0
@@ -7897,8 +7897,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-04-2020,Yemen,1.0,0.0,0.0
 15-04-2020,Zambia,45.0,30.0,2.0
 15-04-2020,Zimbabwe,17.0,0.0,3.0
-15-04-2020,Global Total,1991488.0,473436.0,134606.0
-16-04-2020,Afghanistan,784.0,43.0,25.0
+15-04-2020,Global Total,1991489.0,473436.0,134606.0
+16-04-2020,Afghanistan,785.0,43.0,29.0
 16-04-2020,Albania,494.0,251.0,25.0
 16-04-2020,Algeria,2160.0,708.0,336.0
 16-04-2020,Andorra,673.0,169.0,33.0
@@ -8083,8 +8083,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-04-2020,Yemen,1.0,0.0,0.0
 16-04-2020,Zambia,48.0,30.0,2.0
 16-04-2020,Zimbabwe,23.0,1.0,3.0
-16-04-2020,Global Total,2073518.0,510106.0,142951.0
-17-04-2020,Afghanistan,840.0,54.0,30.0
+16-04-2020,Global Total,2073519.0,510106.0,142955.0
+17-04-2020,Afghanistan,841.0,54.0,30.0
 17-04-2020,Albania,518.0,277.0,26.0
 17-04-2020,Algeria,2268.0,783.0,348.0
 17-04-2020,Andorra,673.0,169.0,33.0
@@ -8269,8 +8269,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-04-2020,Yemen,1.0,0.0,0.0
 17-04-2020,Zambia,48.0,30.0,2.0
 17-04-2020,Zimbabwe,23.0,1.0,3.0
-17-04-2020,Global Total,2170317.0,540926.0,150247.0
-18-04-2020,Afghanistan,906.0,99.0,30.0
+17-04-2020,Global Total,2170318.0,540926.0,150247.0
+18-04-2020,Afghanistan,907.0,99.0,30.0
 18-04-2020,Albania,539.0,283.0,26.0
 18-04-2020,Algeria,2418.0,846.0,364.0
 18-04-2020,Andorra,696.0,191.0,35.0
@@ -8455,8 +8455,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-04-2020,Yemen,1.0,0.0,0.0
 18-04-2020,Zambia,52.0,30.0,2.0
 18-04-2020,Zimbabwe,24.0,2.0,3.0
-18-04-2020,Global Total,2257993.0,567049.0,158614.0
-19-04-2020,Afghanistan,933.0,112.0,30.0
+18-04-2020,Global Total,2257994.0,567049.0,158614.0
+19-04-2020,Afghanistan,934.0,112.0,30.0
 19-04-2020,Albania,548.0,302.0,26.0
 19-04-2020,Algeria,2534.0,894.0,367.0
 19-04-2020,Andorra,704.0,205.0,35.0
@@ -8641,8 +8641,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-04-2020,Yemen,1.0,0.0,0.0
 19-04-2020,Zambia,57.0,33.0,2.0
 19-04-2020,Zimbabwe,25.0,2.0,3.0
-19-04-2020,Global Total,2331463.0,590968.0,164636.0
-20-04-2020,Afghanistan,996.0,131.0,33.0
+19-04-2020,Global Total,2331464.0,590968.0,164636.0
+20-04-2020,Afghanistan,997.0,131.0,33.0
 20-04-2020,Albania,562.0,314.0,26.0
 20-04-2020,Algeria,2629.0,1047.0,375.0
 20-04-2020,Andorra,713.0,235.0,36.0
@@ -8827,8 +8827,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-04-2020,Yemen,1.0,0.0,0.0
 20-04-2020,Zambia,61.0,33.0,3.0
 20-04-2020,Zimbabwe,25.0,2.0,3.0
-20-04-2020,Global Total,2411443.0,622623.0,169897.0
-21-04-2020,Afghanistan,1026.0,135.0,36.0
+20-04-2020,Global Total,2411444.0,622623.0,169897.0
+21-04-2020,Afghanistan,1027.0,135.0,36.0
 21-04-2020,Albania,584.0,327.0,26.0
 21-04-2020,Algeria,2718.0,1099.0,384.0
 21-04-2020,Andorra,717.0,248.0,37.0
@@ -9013,8 +9013,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-04-2020,Yemen,1.0,0.0,0.0
 21-04-2020,Zambia,65.0,35.0,3.0
 21-04-2020,Zimbabwe,25.0,2.0,3.0
-21-04-2020,Global Total,2485944.0,644613.0,175755.0
-22-04-2020,Afghanistan,1092.0,150.0,36.0
+21-04-2020,Global Total,2485945.0,644613.0,175755.0
+22-04-2020,Afghanistan,1093.0,150.0,36.0
 22-04-2020,Albania,609.0,345.0,26.0
 22-04-2020,Algeria,2811.0,1152.0,392.0
 22-04-2020,Andorra,717.0,282.0,37.0
@@ -9199,8 +9199,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-04-2020,Yemen,1.0,0.0,0.0
 22-04-2020,Zambia,70.0,35.0,3.0
 22-04-2020,Zimbabwe,28.0,2.0,3.0
-22-04-2020,Global Total,2561845.0,679456.0,182940.0
-23-04-2020,Afghanistan,1176.0,166.0,40.0
+22-04-2020,Global Total,2561846.0,679456.0,182940.0
+23-04-2020,Afghanistan,1177.0,166.0,40.0
 23-04-2020,Albania,634.0,356.0,27.0
 23-04-2020,Algeria,2910.0,1204.0,402.0
 23-04-2020,Andorra,723.0,309.0,37.0
@@ -9385,8 +9385,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-04-2020,Yemen,1.0,0.0,0.0
 23-04-2020,Zambia,74.0,35.0,3.0
 23-04-2020,Zimbabwe,28.0,2.0,4.0
-23-04-2020,Global Total,2639881.0,709881.0,189671.0
-24-04-2020,Afghanistan,1279.0,179.0,42.0
+23-04-2020,Global Total,2639882.0,709881.0,189671.0
+24-04-2020,Afghanistan,1236.0,179.0,40.0
 24-04-2020,Albania,663.0,385.0,27.0
 24-04-2020,Algeria,3007.0,1355.0,407.0
 24-04-2020,Andorra,723.0,333.0,37.0
@@ -9571,8 +9571,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-04-2020,Yemen,1.0,0.0,0.0
 24-04-2020,Zambia,76.0,37.0,3.0
 24-04-2020,Zimbabwe,28.0,2.0,4.0
-24-04-2020,Global Total,2727877.0,738661.0,196509.0
-25-04-2020,Afghanistan,1351.0,188.0,43.0
+24-04-2020,Global Total,2727834.0,738661.0,196507.0
+25-04-2020,Afghanistan,1331.0,188.0,43.0
 25-04-2020,Albania,678.0,394.0,27.0
 25-04-2020,Algeria,3127.0,1408.0,415.0
 25-04-2020,Andorra,731.0,344.0,40.0
@@ -9757,8 +9757,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-04-2020,Yemen,1.0,1.0,0.0
 25-04-2020,Zambia,84.0,37.0,3.0
 25-04-2020,Zimbabwe,29.0,2.0,4.0
-25-04-2020,Global Total,2812249.0,788712.0,203172.0
-26-04-2020,Afghanistan,1463.0,188.0,47.0
+25-04-2020,Global Total,2812229.0,788712.0,203172.0
+26-04-2020,Afghanistan,1464.0,188.0,47.0
 26-04-2020,Albania,712.0,403.0,27.0
 26-04-2020,Algeria,3256.0,1479.0,419.0
 26-04-2020,Andorra,738.0,344.0,40.0
@@ -9943,8 +9943,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-04-2020,Yemen,1.0,1.0,0.0
 26-04-2020,Zambia,84.0,37.0,3.0
 26-04-2020,Zimbabwe,31.0,2.0,4.0
-26-04-2020,Global Total,2895701.0,816491.0,208809.0
-27-04-2020,Afghanistan,1531.0,207.0,50.0
+26-04-2020,Global Total,2895702.0,816491.0,208809.0
+27-04-2020,Afghanistan,1532.0,207.0,52.0
 27-04-2020,Albania,726.0,410.0,28.0
 27-04-2020,Algeria,3382.0,1508.0,425.0
 27-04-2020,Andorra,738.0,344.0,40.0
@@ -10129,8 +10129,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-04-2020,Yemen,1.0,1.0,0.0
 27-04-2020,Zambia,88.0,42.0,3.0
 27-04-2020,Zimbabwe,31.0,2.0,4.0
-27-04-2020,Global Total,2967636.0,845096.0,212748.0
-28-04-2020,Afghanistan,1703.0,220.0,57.0
+27-04-2020,Global Total,2967637.0,845096.0,212750.0
+28-04-2020,Afghanistan,1704.0,220.0,58.0
 28-04-2020,Albania,736.0,422.0,28.0
 28-04-2020,Algeria,3517.0,1558.0,432.0
 28-04-2020,Andorra,743.0,385.0,40.0
@@ -10315,8 +10315,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-04-2020,Yemen,1.0,1.0,0.0
 28-04-2020,Zambia,88.0,42.0,3.0
 28-04-2020,Zimbabwe,32.0,5.0,4.0
-28-04-2020,Global Total,3037354.0,872865.0,217421.0
-29-04-2020,Afghanistan,1828.0,228.0,58.0
+28-04-2020,Global Total,3037355.0,872865.0,217422.0
+29-04-2020,Afghanistan,1830.0,228.0,59.0
 29-04-2020,Albania,750.0,431.0,30.0
 29-04-2020,Algeria,3649.0,1651.0,437.0
 29-04-2020,Andorra,743.0,398.0,41.0
@@ -10501,8 +10501,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-04-2020,Yemen,1.0,1.0,0.0
 29-04-2020,Zambia,95.0,42.0,3.0
 29-04-2020,Zimbabwe,32.0,5.0,4.0
-29-04-2020,Global Total,3112833.0,906136.0,223968.0
-30-04-2020,Afghanistan,1939.0,252.0,60.0
+29-04-2020,Global Total,3112835.0,906136.0,223969.0
+30-04-2020,Afghanistan,1940.0,252.0,61.0
 30-04-2020,Albania,766.0,455.0,30.0
 30-04-2020,Algeria,3848.0,1702.0,444.0
 30-04-2020,Andorra,743.0,423.0,42.0
@@ -10687,8 +10687,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-04-2020,Yemen,6.0,1.0,0.0
 30-04-2020,Zambia,97.0,54.0,3.0
 30-04-2020,Zimbabwe,32.0,5.0,4.0
-30-04-2020,Global Total,3190288.0,948318.0,230702.0
-01-05-2020,Afghanistan,2171.0,260.0,64.0
+30-04-2020,Global Total,3190289.0,948318.0,230703.0
+01-05-2020,Afghanistan,2127.0,260.0,64.0
 01-05-2020,Albania,773.0,470.0,31.0
 01-05-2020,Algeria,4006.0,1779.0,450.0
 01-05-2020,Andorra,745.0,468.0,42.0
@@ -10875,8 +10875,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-05-2020,Yemen,6.0,1.0,2.0
 01-05-2020,Zambia,106.0,55.0,3.0
 01-05-2020,Zimbabwe,40.0,5.0,4.0
-01-05-2020,Global Total,3273674.0,1013284.0,236698.0
-02-05-2020,Afghanistan,2335.0,310.0,68.0
+01-05-2020,Global Total,3273630.0,1013284.0,236698.0
+02-05-2020,Afghanistan,2291.0,310.0,68.0
 02-05-2020,Albania,782.0,488.0,31.0
 02-05-2020,Algeria,4154.0,1821.0,453.0
 02-05-2020,Andorra,745.0,468.0,43.0
@@ -11063,8 +11063,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-05-2020,Yemen,7.0,1.0,2.0
 02-05-2020,Zambia,109.0,74.0,3.0
 02-05-2020,Zimbabwe,40.0,5.0,4.0
-02-05-2020,Global Total,3360911.0,1051537.0,241847.0
-03-05-2020,Afghanistan,2469.0,331.0,72.0
+02-05-2020,Global Total,3360867.0,1051537.0,241847.0
+03-05-2020,Afghanistan,2470.0,331.0,72.0
 03-05-2020,Albania,789.0,519.0,31.0
 03-05-2020,Algeria,4295.0,1872.0,459.0
 03-05-2020,Andorra,747.0,472.0,44.0
@@ -11251,8 +11251,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-05-2020,Yemen,10.0,1.0,2.0
 03-05-2020,Zambia,119.0,75.0,3.0
 03-05-2020,Zimbabwe,34.0,5.0,4.0
-03-05-2020,Global Total,3440893.0,1092416.0,247325.0
-04-05-2020,Afghanistan,2704.0,345.0,85.0
+03-05-2020,Global Total,3440894.0,1092416.0,247325.0
+04-05-2020,Afghanistan,2705.0,345.0,85.0
 04-05-2020,Albania,795.0,531.0,31.0
 04-05-2020,Algeria,4474.0,1936.0,463.0
 04-05-2020,Andorra,748.0,493.0,45.0
@@ -11439,8 +11439,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-05-2020,Yemen,10.0,1.0,2.0
 04-05-2020,Zambia,124.0,78.0,3.0
 04-05-2020,Zimbabwe,34.0,5.0,4.0
-04-05-2020,Global Total,3517407.0,1124732.0,250797.0
-05-05-2020,Afghanistan,2894.0,397.0,90.0
+04-05-2020,Global Total,3517408.0,1124732.0,250797.0
+05-05-2020,Afghanistan,2895.0,397.0,90.0
 05-05-2020,Albania,803.0,543.0,31.0
 05-05-2020,Algeria,4648.0,1998.0,465.0
 05-05-2020,Andorra,750.0,499.0,45.0
@@ -11627,8 +11627,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-05-2020,Yemen,12.0,1.0,2.0
 05-05-2020,Zambia,137.0,78.0,3.0
 05-05-2020,Zimbabwe,34.0,5.0,4.0
-05-05-2020,Global Total,3594487.0,1158819.0,254896.0
-06-05-2020,Afghanistan,3224.0,421.0,95.0
+05-05-2020,Global Total,3594488.0,1158819.0,254896.0
+06-05-2020,Afghanistan,3225.0,421.0,95.0
 06-05-2020,Albania,820.0,570.0,31.0
 06-05-2020,Algeria,4838.0,2067.0,470.0
 06-05-2020,Andorra,751.0,514.0,46.0
@@ -11815,8 +11815,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-05-2020,Yemen,22.0,1.0,4.0
 06-05-2020,Zambia,138.0,92.0,3.0
 06-05-2020,Zimbabwe,34.0,5.0,4.0
-06-05-2020,Global Total,3674966.0,1195359.0,260783.0
-07-05-2020,Afghanistan,3392.0,458.0,104.0
+06-05-2020,Global Total,3674967.0,1195359.0,260783.0
+07-05-2020,Afghanistan,3393.0,458.0,104.0
 07-05-2020,Albania,832.0,595.0,31.0
 07-05-2020,Algeria,4997.0,2197.0,476.0
 07-05-2020,Andorra,751.0,521.0,46.0
@@ -12003,8 +12003,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-05-2020,Yemen,25.0,1.0,5.0
 07-05-2020,Zambia,146.0,101.0,4.0
 07-05-2020,Zimbabwe,34.0,5.0,4.0
-07-05-2020,Global Total,3764866.0,1241365.0,267326.0
-08-05-2020,Afghanistan,3563.0,468.0,106.0
+07-05-2020,Global Total,3764867.0,1241365.0,267326.0
+08-05-2020,Afghanistan,3564.0,468.0,106.0
 08-05-2020,Albania,842.0,605.0,31.0
 08-05-2020,Algeria,5182.0,2323.0,483.0
 08-05-2020,Andorra,752.0,526.0,47.0
@@ -12191,8 +12191,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-05-2020,Yemen,25.0,1.0,5.0
 08-05-2020,Zambia,153.0,103.0,4.0
 08-05-2020,Zimbabwe,34.0,5.0,4.0
-08-05-2020,Global Total,3853887.0,1280833.0,272618.0
-09-05-2020,Afghanistan,3778.0,472.0,109.0
+08-05-2020,Global Total,3853888.0,1280833.0,272618.0
+09-05-2020,Afghanistan,3781.0,472.0,109.0
 09-05-2020,Albania,850.0,620.0,31.0
 09-05-2020,Algeria,5369.0,2467.0,488.0
 09-05-2020,Andorra,752.0,537.0,47.0
@@ -12379,8 +12379,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-05-2020,Yemen,34.0,1.0,7.0
 09-05-2020,Zambia,167.0,111.0,4.0
 09-05-2020,Zimbabwe,34.0,9.0,4.0
-09-05-2020,Global Total,3945034.0,1317383.0,278098.0
-10-05-2020,Afghanistan,4033.0,502.0,115.0
+09-05-2020,Global Total,3945037.0,1317383.0,278098.0
+10-05-2020,Afghanistan,4042.0,502.0,115.0
 10-05-2020,Albania,856.0,627.0,31.0
 10-05-2020,Algeria,5558.0,2546.0,494.0
 10-05-2020,Andorra,754.0,545.0,48.0
@@ -12567,8 +12567,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-05-2020,Yemen,34.0,1.0,7.0
 10-05-2020,Zambia,252.0,112.0,7.0
 10-05-2020,Zimbabwe,35.0,9.0,4.0
-10-05-2020,Global Total,4029948.0,1370933.0,282385.0
-11-05-2020,Afghanistan,4402.0,558.0,120.0
+10-05-2020,Global Total,4029957.0,1370933.0,282385.0
+11-05-2020,Afghanistan,4403.0,558.0,120.0
 11-05-2020,Albania,868.0,650.0,31.0
 11-05-2020,Algeria,5723.0,2678.0,502.0
 11-05-2020,Andorra,755.0,550.0,48.0
@@ -12755,7 +12755,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-05-2020,Yemen,51.0,1.0,8.0
 11-05-2020,Zambia,267.0,117.0,7.0
 11-05-2020,Zimbabwe,36.0,9.0,4.0
-11-05-2020,Global Total,4105178.0,1404527.0,285979.0
+11-05-2020,Global Total,4105179.0,1404527.0,285979.0
 12-05-2020,Afghanistan,4687.0,558.0,122.0
 12-05-2020,Albania,872.0,654.0,31.0
 12-05-2020,Algeria,5891.0,2841.0,507.0
@@ -12944,7 +12944,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-05-2020,Zambia,267.0,117.0,7.0
 12-05-2020,Zimbabwe,36.0,9.0,4.0
 12-05-2020,Global Total,4182075.0,1451521.0,289447.0
-13-05-2020,Afghanistan,4963.0,610.0,127.0
+13-05-2020,Afghanistan,4968.0,610.0,127.0
 13-05-2020,Albania,876.0,682.0,31.0
 13-05-2020,Algeria,6067.0,2998.0,515.0
 13-05-2020,Andorra,758.0,568.0,48.0
@@ -13131,8 +13131,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-05-2020,Yemen,65.0,1.0,10.0
 13-05-2020,Zambia,441.0,117.0,7.0
 13-05-2020,Zimbabwe,36.0,9.0,4.0
-13-05-2020,Global Total,4266337.0,1488542.0,294969.0
-14-05-2020,Afghanistan,5226.0,648.0,132.0
+13-05-2020,Global Total,4266342.0,1488542.0,294969.0
+14-05-2020,Afghanistan,5227.0,648.0,132.0
 14-05-2020,Albania,880.0,688.0,31.0
 14-05-2020,Algeria,6253.0,3058.0,522.0
 14-05-2020,Andorra,760.0,576.0,49.0
@@ -13320,8 +13320,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-05-2020,Yemen,70.0,1.0,12.0
 14-05-2020,Zambia,446.0,124.0,7.0
 14-05-2020,Zimbabwe,37.0,12.0,4.0
-14-05-2020,Global Total,4351181.0,1544398.0,300046.0
-15-05-2020,Afghanistan,5639.0,691.0,136.0
+14-05-2020,Global Total,4351182.0,1544398.0,300046.0
+15-05-2020,Afghanistan,5640.0,691.0,136.0
 15-05-2020,Albania,898.0,694.0,31.0
 15-05-2020,Algeria,6442.0,3158.0,529.0
 15-05-2020,Andorra,761.0,596.0,49.0
@@ -13509,8 +13509,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-05-2020,Yemen,85.0,1.0,12.0
 15-05-2020,Zambia,654.0,124.0,7.0
 15-05-2020,Zimbabwe,37.0,13.0,4.0
-15-05-2020,Global Total,4447797.0,1584114.0,305227.0
-16-05-2020,Afghanistan,6053.0,745.0,153.0
+15-05-2020,Global Total,4447798.0,1584114.0,305227.0
+16-05-2020,Afghanistan,6054.0,745.0,153.0
 16-05-2020,Albania,916.0,705.0,31.0
 16-05-2020,Algeria,6629.0,3271.0,536.0
 16-05-2020,Andorra,761.0,604.0,49.0
@@ -13698,8 +13698,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-05-2020,Yemen,106.0,1.0,15.0
 16-05-2020,Zambia,654.0,124.0,7.0
 16-05-2020,Zimbabwe,42.0,13.0,4.0
-16-05-2020,Global Total,4544182.0,1632122.0,310343.0
-17-05-2020,Afghanistan,6402.0,745.0,168.0
+16-05-2020,Global Total,4544183.0,1632122.0,310343.0
+17-05-2020,Afghanistan,6403.0,745.0,168.0
 17-05-2020,Albania,933.0,714.0,31.0
 17-05-2020,Algeria,6821.0,3409.0,542.0
 17-05-2020,Andorra,761.0,615.0,51.0
@@ -13887,8 +13887,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-05-2020,Yemen,122.0,1.0,18.0
 17-05-2020,Zambia,679.0,183.0,7.0
 17-05-2020,Zimbabwe,42.0,13.0,4.0
-17-05-2020,Global Total,4638407.0,1688714.0,314519.0
-18-05-2020,Afghanistan,6664.0,778.0,169.0
+17-05-2020,Global Total,4638408.0,1688714.0,314519.0
+18-05-2020,Afghanistan,6665.0,778.0,170.0
 18-05-2020,Albania,946.0,715.0,31.0
 18-05-2020,Algeria,7019.0,3507.0,548.0
 18-05-2020,Andorra,761.0,617.0,51.0
@@ -14076,8 +14076,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-05-2020,Yemen,128.0,1.0,20.0
 18-05-2020,Zambia,753.0,188.0,7.0
 18-05-2020,Zimbabwe,44.0,17.0,4.0
-18-05-2020,Global Total,4716032.0,1729621.0,317804.0
-19-05-2020,Afghanistan,7072.0,801.0,173.0
+18-05-2020,Global Total,4716033.0,1729621.0,317805.0
+19-05-2020,Afghanistan,7073.0,801.0,173.0
 19-05-2020,Albania,948.0,727.0,31.0
 19-05-2020,Algeria,7201.0,3625.0,555.0
 19-05-2020,Andorra,761.0,624.0,51.0
@@ -14265,8 +14265,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-05-2020,Yemen,130.0,1.0,20.0
 19-05-2020,Zambia,761.0,192.0,7.0
 19-05-2020,Zimbabwe,46.0,18.0,4.0
-19-05-2020,Global Total,4804738.0,1782542.0,321499.0
-20-05-2020,Afghanistan,7653.0,850.0,178.0
+19-05-2020,Global Total,4804739.0,1782542.0,321499.0
+20-05-2020,Afghanistan,7654.0,850.0,178.0
 20-05-2020,Albania,949.0,742.0,31.0
 20-05-2020,Algeria,7377.0,3746.0,561.0
 20-05-2020,Andorra,761.0,628.0,51.0
@@ -14454,8 +14454,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-05-2020,Yemen,167.0,5.0,28.0
 20-05-2020,Zambia,772.0,192.0,7.0
 20-05-2020,Zimbabwe,46.0,18.0,4.0
-20-05-2020,Global Total,4901982.0,1834647.0,326219.0
-21-05-2020,Afghanistan,8145.0,930.0,187.0
+20-05-2020,Global Total,4901983.0,1834647.0,326219.0
+21-05-2020,Afghanistan,8146.0,930.0,188.0
 21-05-2020,Albania,964.0,758.0,31.0
 21-05-2020,Algeria,7542.0,3968.0,568.0
 21-05-2020,Andorra,762.0,639.0,51.0
@@ -14643,8 +14643,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-05-2020,Yemen,184.0,5.0,30.0
 21-05-2020,Zambia,832.0,197.0,7.0
 21-05-2020,Zimbabwe,48.0,18.0,4.0
-21-05-2020,Global Total,5004350.0,1893575.0,330979.0
-22-05-2020,Afghanistan,8676.0,938.0,193.0
+21-05-2020,Global Total,5004351.0,1893575.0,330980.0
+22-05-2020,Afghanistan,8677.0,938.0,194.0
 22-05-2020,Albania,969.0,771.0,31.0
 22-05-2020,Algeria,7728.0,4062.0,575.0
 22-05-2020,Andorra,762.0,639.0,51.0
@@ -14832,8 +14832,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-05-2020,Yemen,197.0,5.0,33.0
 22-05-2020,Zambia,866.0,302.0,7.0
 22-05-2020,Zimbabwe,51.0,18.0,4.0
-22-05-2020,Global Total,5111155.0,1944840.0,335704.0
-23-05-2020,Afghanistan,9216.0,996.0,205.0
+22-05-2020,Global Total,5111156.0,1944840.0,335705.0
+23-05-2020,Afghanistan,9219.0,996.0,206.0
 23-05-2020,Albania,981.0,777.0,31.0
 23-05-2020,Algeria,7918.0,4256.0,582.0
 23-05-2020,Andorra,762.0,652.0,51.0
@@ -15021,8 +15021,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-05-2020,Yemen,209.0,11.0,33.0
 23-05-2020,Zambia,920.0,336.0,7.0
 23-05-2020,Zimbabwe,51.0,18.0,4.0
-23-05-2020,Global Total,5217120.0,2053491.0,340899.0
-24-05-2020,Afghanistan,9998.0,1040.0,216.0
+23-05-2020,Global Total,5217123.0,2053491.0,340900.0
+24-05-2020,Afghanistan,10001.0,1040.0,217.0
 24-05-2020,Albania,989.0,783.0,31.0
 24-05-2020,Algeria,8113.0,4426.0,592.0
 24-05-2020,Andorra,762.0,653.0,51.0
@@ -15210,8 +15210,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-05-2020,Yemen,212.0,11.0,39.0
 24-05-2020,Zambia,920.0,336.0,7.0
 24-05-2020,Zimbabwe,56.0,18.0,4.0
-24-05-2020,Global Total,5321713.0,2108462.0,344815.0
-25-05-2020,Afghanistan,10582.0,1075.0,218.0
+24-05-2020,Global Total,5321716.0,2108462.0,344816.0
+25-05-2020,Afghanistan,10585.0,1075.0,219.0
 25-05-2020,Albania,998.0,789.0,32.0
 25-05-2020,Algeria,8306.0,4784.0,600.0
 25-05-2020,Andorra,762.0,653.0,51.0
@@ -15399,8 +15399,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-05-2020,Yemen,222.0,10.0,42.0
 25-05-2020,Zambia,920.0,336.0,7.0
 25-05-2020,Zimbabwe,56.0,25.0,4.0
-25-05-2020,Global Total,5416111.0,2163902.0,347937.0
-26-05-2020,Afghanistan,11173.0,1097.0,219.0
+25-05-2020,Global Total,5416114.0,2163902.0,347938.0
+26-05-2020,Afghanistan,11176.0,1097.0,220.0
 26-05-2020,Albania,1004.0,795.0,32.0
 26-05-2020,Algeria,8503.0,4747.0,609.0
 26-05-2020,Andorra,763.0,663.0,51.0
@@ -15588,8 +15588,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-05-2020,Yemen,233.0,10.0,44.0
 26-05-2020,Zambia,920.0,336.0,7.0
 26-05-2020,Zimbabwe,56.0,25.0,4.0
-26-05-2020,Global Total,5502536.0,2227625.0,349138.0
-27-05-2020,Afghanistan,11831.0,1128.0,220.0
+26-05-2020,Global Total,5502539.0,2227625.0,349139.0
+27-05-2020,Afghanistan,11834.0,1128.0,221.0
 27-05-2020,Albania,1029.0,803.0,33.0
 27-05-2020,Algeria,8697.0,4918.0,617.0
 27-05-2020,Andorra,763.0,676.0,51.0
@@ -15777,8 +15777,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-05-2020,Yemen,249.0,10.0,49.0
 27-05-2020,Zambia,920.0,336.0,7.0
 27-05-2020,Zimbabwe,56.0,25.0,4.0
-27-05-2020,Global Total,5595775.0,2282839.0,353258.0
-28-05-2020,Afghanistan,12456.0,1138.0,227.0
+27-05-2020,Global Total,5595778.0,2282839.0,353259.0
+28-05-2020,Afghanistan,12459.0,1138.0,228.0
 28-05-2020,Albania,1050.0,812.0,33.0
 28-05-2020,Algeria,8857.0,5129.0,623.0
 28-05-2020,Andorra,763.0,676.0,51.0
@@ -15966,8 +15966,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-05-2020,Yemen,256.0,10.0,53.0
 28-05-2020,Zambia,1057.0,779.0,7.0
 28-05-2020,Zimbabwe,132.0,25.0,4.0
-28-05-2020,Global Total,5698778.0,2346232.0,358394.0
-29-05-2020,Afghanistan,13036.0,1209.0,235.0
+28-05-2020,Global Total,5698781.0,2346232.0,358395.0
+29-05-2020,Afghanistan,13039.0,1209.0,236.0
 29-05-2020,Albania,1076.0,823.0,33.0
 29-05-2020,Algeria,8997.0,5277.0,630.0
 29-05-2020,Andorra,763.0,681.0,51.0
@@ -16155,8 +16155,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-05-2020,Yemen,278.0,11.0,57.0
 29-05-2020,Zambia,1057.0,779.0,7.0
 29-05-2020,Zimbabwe,149.0,28.0,4.0
-29-05-2020,Global Total,5818280.0,2413089.0,363017.0
-30-05-2020,Afghanistan,13659.0,1259.0,246.0
+29-05-2020,Global Total,5818283.0,2413089.0,363018.0
+30-05-2020,Afghanistan,13662.0,1259.0,247.0
 30-05-2020,Albania,1099.0,851.0,33.0
 30-05-2020,Algeria,9134.0,5422.0,638.0
 30-05-2020,Andorra,764.0,684.0,51.0
@@ -16344,8 +16344,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-05-2020,Yemen,283.0,11.0,65.0
 30-05-2020,Zambia,1057.0,779.0,7.0
 30-05-2020,Zimbabwe,149.0,28.0,4.0
-30-05-2020,Global Total,5939226.0,2490435.0,367604.0
-31-05-2020,Afghanistan,14525.0,1303.0,249.0
+30-05-2020,Global Total,5939229.0,2490435.0,367605.0
+31-05-2020,Afghanistan,14528.0,1303.0,250.0
 31-05-2020,Albania,1122.0,857.0,33.0
 31-05-2020,Algeria,9267.0,5549.0,646.0
 31-05-2020,Andorra,764.0,692.0,51.0
@@ -16533,8 +16533,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 31-05-2020,Yemen,310.0,13.0,77.0
 31-05-2020,Zambia,1057.0,779.0,7.0
 31-05-2020,Zimbabwe,174.0,29.0,4.0
-31-05-2020,Global Total,6076216.0,2560888.0,371669.0
-01-06-2020,Afghanistan,15205.0,1328.0,257.0
+31-05-2020,Global Total,6076219.0,2560888.0,371670.0
+01-06-2020,Afghanistan,15208.0,1328.0,258.0
 01-06-2020,Albania,1137.0,872.0,33.0
 01-06-2020,Algeria,9394.0,5748.0,653.0
 01-06-2020,Andorra,764.0,694.0,51.0
@@ -16722,8 +16722,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-06-2020,Yemen,323.0,14.0,80.0
 01-06-2020,Zambia,1057.0,779.0,7.0
 01-06-2020,Zimbabwe,178.0,29.0,4.0
-01-06-2020,Global Total,6182737.0,2637208.0,374645.0
-02-06-2020,Afghanistan,15750.0,1428.0,265.0
+01-06-2020,Global Total,6182740.0,2637208.0,374646.0
+02-06-2020,Afghanistan,15753.0,1428.0,266.0
 02-06-2020,Albania,1143.0,877.0,33.0
 02-06-2020,Algeria,9513.0,5894.0,661.0
 02-06-2020,Andorra,765.0,698.0,51.0
@@ -16911,8 +16911,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-06-2020,Yemen,354.0,14.0,84.0
 02-06-2020,Zambia,1089.0,912.0,7.0
 02-06-2020,Zimbabwe,203.0,29.0,4.0
-02-06-2020,Global Total,6277895.0,2692105.0,377722.0
-03-06-2020,Afghanistan,16509.0,1450.0,270.0
+02-06-2020,Global Total,6277898.0,2692105.0,377723.0
+03-06-2020,Afghanistan,16512.0,1450.0,274.0
 03-06-2020,Albania,1164.0,891.0,33.0
 03-06-2020,Algeria,9626.0,6067.0,667.0
 03-06-2020,Andorra,844.0,733.0,51.0
@@ -17100,8 +17100,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-06-2020,Yemen,399.0,15.0,87.0
 03-06-2020,Zambia,1089.0,912.0,7.0
 03-06-2020,Zimbabwe,206.0,29.0,4.0
-03-06-2020,Global Total,6399352.0,2796228.0,382445.0
-04-06-2020,Afghanistan,17267.0,1522.0,294.0
+03-06-2020,Global Total,6399355.0,2796228.0,382449.0
+04-06-2020,Afghanistan,17270.0,1522.0,298.0
 04-06-2020,Albania,1184.0,898.0,33.0
 04-06-2020,Algeria,9733.0,6218.0,673.0
 04-06-2020,Andorra,851.0,735.0,51.0
@@ -17289,8 +17289,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-06-2020,Yemen,419.0,17.0,95.0
 04-06-2020,Zambia,1089.0,912.0,7.0
 04-06-2020,Zimbabwe,222.0,29.0,4.0
-04-06-2020,Global Total,6517555.0,2875332.0,387881.0
-05-06-2020,Afghanistan,18054.0,1585.0,300.0
+04-06-2020,Global Total,6517558.0,2875332.0,387885.0
+05-06-2020,Afghanistan,18057.0,1585.0,304.0
 05-06-2020,Albania,1197.0,898.0,33.0
 05-06-2020,Algeria,9831.0,6297.0,681.0
 05-06-2020,Andorra,852.0,738.0,51.0
@@ -17478,8 +17478,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-06-2020,Yemen,453.0,17.0,103.0
 05-06-2020,Zambia,1089.0,912.0,7.0
 05-06-2020,Zimbabwe,237.0,31.0,4.0
-05-06-2020,Global Total,6644487.0,2945385.0,392997.0
-06-06-2020,Afghanistan,18969.0,1762.0,309.0
+05-06-2020,Global Total,6644490.0,2945385.0,393001.0
+06-06-2020,Afghanistan,18972.0,1762.0,313.0
 06-06-2020,Albania,1212.0,910.0,33.0
 06-06-2020,Algeria,9935.0,6453.0,690.0
 06-06-2020,Andorra,852.0,741.0,51.0
@@ -17667,8 +17667,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-06-2020,Yemen,469.0,23.0,111.0
 06-06-2020,Zambia,1089.0,912.0,7.0
 06-06-2020,Zimbabwe,265.0,33.0,4.0
-06-06-2020,Global Total,6775570.0,3014544.0,397563.0
-07-06-2020,Afghanistan,19551.0,1830.0,327.0
+06-06-2020,Global Total,6775573.0,3014544.0,397567.0
+07-06-2020,Afghanistan,19554.0,1830.0,331.0
 07-06-2020,Albania,1232.0,925.0,34.0
 07-06-2020,Algeria,10050.0,6631.0,698.0
 07-06-2020,Andorra,852.0,741.0,51.0
@@ -17856,8 +17856,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-06-2020,Yemen,482.0,23.0,111.0
 07-06-2020,Zambia,1089.0,912.0,7.0
 07-06-2020,Zimbabwe,279.0,33.0,4.0
-07-06-2020,Global Total,6910031.0,3086748.0,401413.0
-08-06-2020,Afghanistan,20342.0,1875.0,357.0
+07-06-2020,Global Total,6910034.0,3086748.0,401417.0
+08-06-2020,Afghanistan,20345.0,1875.0,361.0
 08-06-2020,Albania,1246.0,938.0,34.0
 08-06-2020,Algeria,10154.0,6717.0,707.0
 08-06-2020,Andorra,852.0,744.0,51.0
@@ -18045,8 +18045,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-06-2020,Yemen,484.0,23.0,112.0
 08-06-2020,Zambia,1089.0,912.0,7.0
 08-06-2020,Zimbabwe,282.0,34.0,4.0
-08-06-2020,Global Total,7021876.0,3141849.0,404157.0
-09-06-2020,Afghanistan,20917.0,2171.0,369.0
+08-06-2020,Global Total,7021879.0,3141849.0,404161.0
+09-06-2020,Afghanistan,20920.0,2171.0,373.0
 09-06-2020,Albania,1263.0,945.0,34.0
 09-06-2020,Algeria,10265.0,6799.0,715.0
 09-06-2020,Andorra,852.0,751.0,51.0
@@ -18234,8 +18234,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-06-2020,Yemen,496.0,23.0,112.0
 09-06-2020,Zambia,1200.0,912.0,10.0
 09-06-2020,Zimbabwe,287.0,46.0,4.0
-09-06-2020,Global Total,7124371.0,3293412.0,407836.0
-10-06-2020,Afghanistan,21459.0,2651.0,384.0
+09-06-2020,Global Total,7124374.0,3293412.0,407840.0
+10-06-2020,Afghanistan,21462.0,2651.0,388.0
 10-06-2020,Albania,1299.0,960.0,34.0
 10-06-2020,Algeria,10382.0,6951.0,724.0
 10-06-2020,Andorra,852.0,757.0,51.0
@@ -18423,8 +18423,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-06-2020,Yemen,524.0,23.0,127.0
 10-06-2020,Zambia,1200.0,912.0,10.0
 10-06-2020,Zimbabwe,314.0,46.0,4.0
-10-06-2020,Global Total,7249121.0,3375694.0,412671.0
-11-06-2020,Afghanistan,22142.0,3013.0,405.0
+10-06-2020,Global Total,7249124.0,3375694.0,412675.0
+11-06-2020,Afghanistan,22146.0,3013.0,409.0
 11-06-2020,Albania,1341.0,980.0,34.0
 11-06-2020,Algeria,10484.0,7074.0,732.0
 11-06-2020,Andorra,852.0,759.0,51.0
@@ -18612,8 +18612,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-06-2020,Yemen,560.0,23.0,129.0
 11-06-2020,Zambia,1200.0,912.0,10.0
 11-06-2020,Zimbabwe,320.0,49.0,4.0
-11-06-2020,Global Total,7383821.0,3454832.0,417730.0
-12-06-2020,Afghanistan,22890.0,3326.0,426.0
+11-06-2020,Global Total,7383825.0,3454832.0,417734.0
+12-06-2020,Afghanistan,22894.0,3326.0,430.0
 12-06-2020,Albania,1385.0,1001.0,35.0
 12-06-2020,Algeria,10589.0,7255.0,741.0
 12-06-2020,Andorra,852.0,780.0,51.0
@@ -18801,8 +18801,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-06-2020,Yemen,591.0,23.0,136.0
 12-06-2020,Zambia,1200.0,912.0,10.0
 12-06-2020,Zimbabwe,332.0,51.0,4.0
-12-06-2020,Global Total,7521848.0,3540714.0,422412.0
-13-06-2020,Afghanistan,23546.0,3928.0,446.0
+12-06-2020,Global Total,7521852.0,3540714.0,422416.0
+13-06-2020,Afghanistan,23550.0,3928.0,450.0
 13-06-2020,Albania,1416.0,1034.0,36.0
 13-06-2020,Algeria,10698.0,7322.0,751.0
 13-06-2020,Andorra,853.0,781.0,51.0
@@ -18990,8 +18990,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-06-2020,Yemen,632.0,28.0,139.0
 13-06-2020,Zambia,1321.0,1104.0,10.0
 13-06-2020,Zimbabwe,343.0,51.0,4.0
-13-06-2020,Global Total,7650495.0,3620438.0,426627.0
-14-06-2020,Afghanistan,24102.0,4201.0,451.0
+13-06-2020,Global Total,7650499.0,3620438.0,426631.0
+14-06-2020,Afghanistan,24106.0,4201.0,455.0
 14-06-2020,Albania,1464.0,1039.0,36.0
 14-06-2020,Algeria,10810.0,7420.0,760.0
 14-06-2020,Andorra,853.0,781.0,51.0
@@ -19179,8 +19179,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-06-2020,Yemen,705.0,39.0,160.0
 14-06-2020,Zambia,1357.0,1104.0,10.0
 14-06-2020,Zimbabwe,356.0,54.0,4.0
-14-06-2020,Global Total,7785959.0,3706372.0,430818.0
-15-06-2020,Afghanistan,24766.0,4725.0,471.0
+14-06-2020,Global Total,7785963.0,3706372.0,430822.0
+15-06-2020,Afghanistan,24770.0,4725.0,475.0
 15-06-2020,Albania,1521.0,1044.0,36.0
 15-06-2020,Algeria,10919.0,7606.0,767.0
 15-06-2020,Andorra,853.0,781.0,51.0
@@ -19368,8 +19368,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-06-2020,Yemen,728.0,53.0,164.0
 15-06-2020,Zambia,1358.0,1122.0,11.0
 15-06-2020,Zimbabwe,383.0,54.0,4.0
-15-06-2020,Global Total,7918363.0,3777157.0,434230.0
-16-06-2020,Afghanistan,25527.0,5164.0,478.0
+15-06-2020,Global Total,7918367.0,3777157.0,434234.0
+16-06-2020,Afghanistan,25531.0,5164.0,482.0
 16-06-2020,Albania,1590.0,1055.0,36.0
 16-06-2020,Algeria,11031.0,7735.0,777.0
 16-06-2020,Andorra,853.0,789.0,51.0
@@ -19557,8 +19557,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-06-2020,Yemen,844.0,79.0,208.0
 16-06-2020,Zambia,1382.0,1142.0,11.0
 16-06-2020,Zimbabwe,387.0,54.0,4.0
-16-06-2020,Global Total,8037712.0,3857365.0,437649.0
-17-06-2020,Afghanistan,26310.0,5508.0,491.0
+16-06-2020,Global Total,8037716.0,3857365.0,437653.0
+17-06-2020,Afghanistan,26314.0,5508.0,495.0
 17-06-2020,Albania,1672.0,1064.0,37.0
 17-06-2020,Algeria,11147.0,7842.0,788.0
 17-06-2020,Andorra,854.0,789.0,52.0
@@ -19746,8 +19746,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-06-2020,Yemen,885.0,91.0,214.0
 17-06-2020,Zambia,1405.0,1142.0,11.0
 17-06-2020,Zimbabwe,391.0,62.0,4.0
-17-06-2020,Global Total,8179510.0,3955205.0,444367.0
-18-06-2020,Afghanistan,26874.0,6158.0,504.0
+17-06-2020,Global Total,8179514.0,3955205.0,444371.0
+18-06-2020,Afghanistan,26878.0,6158.0,508.0
 18-06-2020,Albania,1722.0,1077.0,38.0
 18-06-2020,Algeria,11268.0,7943.0,799.0
 18-06-2020,Andorra,854.0,791.0,52.0
@@ -19935,8 +19935,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-06-2020,Yemen,902.0,271.0,244.0
 18-06-2020,Zambia,1412.0,1142.0,11.0
 18-06-2020,Zimbabwe,401.0,63.0,4.0
-18-06-2020,Global Total,8322662.0,4073992.0,449456.0
-19-06-2020,Afghanistan,27532.0,7660.0,546.0
+18-06-2020,Global Total,8322666.0,4073992.0,449460.0
+19-06-2020,Afghanistan,27536.0,7660.0,550.0
 19-06-2020,Albania,1788.0,1086.0,39.0
 19-06-2020,Algeria,11385.0,8078.0,811.0
 19-06-2020,Andorra,855.0,792.0,52.0
@@ -20124,8 +20124,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-06-2020,Yemen,909.0,273.0,248.0
 19-06-2020,Zambia,1416.0,1144.0,11.0
 19-06-2020,Zimbabwe,463.0,63.0,4.0
-19-06-2020,Global Total,8462740.0,4155134.0,454436.0
-20-06-2020,Afghanistan,27878.0,7962.0,548.0
+19-06-2020,Global Total,8462744.0,4155134.0,454440.0
+20-06-2020,Afghanistan,27882.0,7962.0,552.0
 20-06-2020,Albania,1838.0,1114.0,42.0
 20-06-2020,Algeria,11504.0,8196.0,825.0
 20-06-2020,Andorra,855.0,792.0,52.0
@@ -20313,8 +20313,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-06-2020,Yemen,919.0,288.0,251.0
 20-06-2020,Zambia,1430.0,1194.0,11.0
 20-06-2020,Zimbabwe,479.0,63.0,4.0
-20-06-2020,Global Total,8642310.0,4250149.0,460587.0
-21-06-2020,Afghanistan,28424.0,8292.0,569.0
+20-06-2020,Global Total,8642314.0,4250149.0,460591.0
+21-06-2020,Afghanistan,28428.0,8292.0,573.0
 21-06-2020,Albania,1891.0,1126.0,43.0
 21-06-2020,Algeria,11631.0,8324.0,837.0
 21-06-2020,Andorra,855.0,792.0,52.0
@@ -20502,8 +20502,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-06-2020,Yemen,922.0,328.0,254.0
 21-06-2020,Zambia,1430.0,1194.0,11.0
 21-06-2020,Zimbabwe,479.0,63.0,4.0
-21-06-2020,Global Total,8799299.0,4365974.0,464790.0
-22-06-2020,Afghanistan,28833.0,8764.0,581.0
+21-06-2020,Global Total,8799303.0,4365974.0,464794.0
+22-06-2020,Afghanistan,28837.0,8764.0,585.0
 22-06-2020,Albania,1962.0,1134.0,44.0
 22-06-2020,Algeria,11771.0,8422.0,845.0
 22-06-2020,Andorra,855.0,792.0,52.0
@@ -20691,8 +20691,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-06-2020,Yemen,941.0,347.0,256.0
 22-06-2020,Zambia,1430.0,1194.0,11.0
 22-06-2020,Zimbabwe,489.0,64.0,6.0
-22-06-2020,Global Total,8927506.0,4434711.0,468799.0
-23-06-2020,Afghanistan,29157.0,8841.0,598.0
+22-06-2020,Global Total,8927510.0,4434711.0,468803.0
+23-06-2020,Afghanistan,29147.0,8841.0,597.0
 23-06-2020,Albania,1995.0,1159.0,44.0
 23-06-2020,Algeria,11920.0,8559.0,852.0
 23-06-2020,Andorra,855.0,796.0,52.0
@@ -20880,8 +20880,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-06-2020,Yemen,967.0,350.0,257.0
 23-06-2020,Zambia,1430.0,1194.0,11.0
 23-06-2020,Zimbabwe,512.0,64.0,6.0
-23-06-2020,Global Total,9065633.0,4526337.0,472358.0
-24-06-2020,Afghanistan,29481.0,9260.0,618.0
+23-06-2020,Global Total,9065623.0,4526337.0,472357.0
+24-06-2020,Afghanistan,29471.0,9260.0,617.0
 24-06-2020,Albania,2047.0,1195.0,45.0
 24-06-2020,Algeria,12076.0,8674.0,861.0
 24-06-2020,Andorra,855.0,797.0,52.0
@@ -21069,8 +21069,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-06-2020,Yemen,992.0,356.0,261.0
 24-06-2020,Zambia,1477.0,1213.0,18.0
 24-06-2020,Zimbabwe,525.0,64.0,6.0
-24-06-2020,Global Total,9231445.0,4630412.0,477580.0
-25-06-2020,Afghanistan,29640.0,9869.0,639.0
+24-06-2020,Global Total,9231435.0,4630412.0,477579.0
+25-06-2020,Afghanistan,29705.0,9869.0,638.0
 25-06-2020,Albania,2114.0,1217.0,47.0
 25-06-2020,Algeria,12248.0,8792.0,869.0
 25-06-2020,Andorra,855.0,797.0,52.0
@@ -21258,8 +21258,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-06-2020,Yemen,1015.0,379.0,274.0
 25-06-2020,Zambia,1489.0,1223.0,18.0
 25-06-2020,Zimbabwe,530.0,123.0,6.0
-25-06-2020,Global Total,9402382.0,4746172.0,482751.0
-26-06-2020,Afghanistan,30175.0,10174.0,675.0
+25-06-2020,Global Total,9402447.0,4746172.0,482750.0
+26-06-2020,Afghanistan,30165.0,10174.0,674.0
 26-06-2020,Albania,2192.0,1250.0,49.0
 26-06-2020,Algeria,12445.0,8920.0,878.0
 26-06-2020,Andorra,855.0,797.0,52.0
@@ -21447,8 +21447,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-06-2020,Yemen,1076.0,386.0,288.0
 26-06-2020,Zambia,1497.0,1223.0,18.0
 26-06-2020,Zimbabwe,551.0,128.0,6.0
-26-06-2020,Global Total,9580562.0,4839028.0,487444.0
-27-06-2020,Afghanistan,30451.0,10306.0,683.0
+26-06-2020,Global Total,9580552.0,4839028.0,487443.0
+27-06-2020,Afghanistan,30441.0,10306.0,682.0
 27-06-2020,Albania,2269.0,1298.0,51.0
 27-06-2020,Algeria,12685.0,9066.0,885.0
 27-06-2020,Andorra,855.0,799.0,52.0
@@ -21636,8 +21636,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-06-2020,Yemen,1089.0,402.0,293.0
 27-06-2020,Zambia,1531.0,1233.0,21.0
 27-06-2020,Zimbabwe,561.0,135.0,6.0
-27-06-2020,Global Total,9772031.0,4945742.0,492146.0
-28-06-2020,Afghanistan,30616.0,10674.0,703.0
+27-06-2020,Global Total,9772021.0,4945742.0,492145.0
+28-06-2020,Afghanistan,30606.0,10674.0,716.0
 28-06-2020,Albania,2330.0,1346.0,53.0
 28-06-2020,Algeria,12968.0,9202.0,892.0
 28-06-2020,Andorra,855.0,799.0,52.0
@@ -21825,8 +21825,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-06-2020,Yemen,1103.0,417.0,296.0
 28-06-2020,Zambia,1531.0,1233.0,21.0
 28-06-2020,Zimbabwe,567.0,142.0,6.0
-28-06-2020,Global Total,9949617.0,5052107.0,496609.0
-29-06-2020,Afghanistan,30967.0,12604.0,721.0
+28-06-2020,Global Total,9949607.0,5052107.0,496622.0
+29-06-2020,Afghanistan,30957.0,12604.0,728.0
 29-06-2020,Albania,2402.0,1384.0,55.0
 29-06-2020,Algeria,13273.0,9371.0,897.0
 29-06-2020,Andorra,855.0,799.0,52.0
@@ -22014,8 +22014,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-06-2020,Yemen,1118.0,430.0,302.0
 29-06-2020,Zambia,1557.0,1311.0,22.0
 29-06-2020,Zimbabwe,567.0,142.0,6.0
-29-06-2020,Global Total,10112567.0,5141227.0,499752.0
-30-06-2020,Afghanistan,31238.0,13934.0,733.0
+29-06-2020,Global Total,10112557.0,5141227.0,499759.0
+30-06-2020,Afghanistan,31228.0,13934.0,740.0
 30-06-2020,Albania,2466.0,1438.0,58.0
 30-06-2020,Algeria,13571.0,9674.0,905.0
 30-06-2020,Andorra,855.0,799.0,52.0
@@ -22203,8 +22203,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-06-2020,Yemen,1128.0,432.0,304.0
 30-06-2020,Zambia,1568.0,1311.0,22.0
 30-06-2020,Zimbabwe,574.0,152.0,7.0
-30-06-2020,Global Total,10268168.0,5235793.0,503476.0
-01-07-2020,Afghanistan,31517.0,14131.0,746.0
+30-06-2020,Global Total,10268158.0,5235793.0,503483.0
+01-07-2020,Afghanistan,31507.0,14131.0,752.0
 01-07-2020,Albania,2535.0,1459.0,62.0
 01-07-2020,Algeria,13907.0,9897.0,912.0
 01-07-2020,Andorra,855.0,799.0,52.0
@@ -22392,8 +22392,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-07-2020,Yemen,1158.0,488.0,312.0
 01-07-2020,Zambia,1594.0,1329.0,24.0
 01-07-2020,Zimbabwe,591.0,162.0,7.0
-01-07-2020,Global Total,10442242.0,5353115.0,508425.0
-02-07-2020,Afghanistan,31836.0,15651.0,774.0
+01-07-2020,Global Total,10442232.0,5353115.0,508431.0
+02-07-2020,Afghanistan,31826.0,15651.0,780.0
 02-07-2020,Albania,2580.0,1516.0,65.0
 02-07-2020,Algeria,14272.0,10040.0,920.0
 02-07-2020,Andorra,855.0,799.0,52.0
@@ -22581,8 +22581,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-07-2020,Yemen,1190.0,504.0,318.0
 02-07-2020,Zambia,1632.0,1348.0,30.0
 02-07-2020,Zimbabwe,605.0,166.0,7.0
-02-07-2020,Global Total,10659654.0,5469041.0,513353.0
-03-07-2020,Afghanistan,32022.0,16041.0,807.0
+02-07-2020,Global Total,10659644.0,5469041.0,513359.0
+03-07-2020,Afghanistan,32012.0,16041.0,809.0
 03-07-2020,Albania,2662.0,1559.0,69.0
 03-07-2020,Algeria,14657.0,10342.0,928.0
 03-07-2020,Andorra,855.0,800.0,52.0
@@ -22770,8 +22770,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-07-2020,Yemen,1221.0,513.0,325.0
 03-07-2020,Zambia,1632.0,1348.0,30.0
 03-07-2020,Zimbabwe,617.0,173.0,7.0
-03-07-2020,Global Total,10868268.0,5753918.0,518416.0
-04-07-2020,Afghanistan,32324.0,17331.0,819.0
+03-07-2020,Global Total,10868258.0,5753918.0,518418.0
+04-07-2020,Afghanistan,32314.0,17331.0,821.0
 04-07-2020,Albania,2752.0,1592.0,72.0
 04-07-2020,Algeria,15070.0,10832.0,937.0
 04-07-2020,Andorra,855.0,800.0,52.0
@@ -22959,8 +22959,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-07-2020,Yemen,1240.0,536.0,335.0
 04-07-2020,Zambia,1632.0,1348.0,30.0
 04-07-2020,Zimbabwe,625.0,176.0,7.0
-04-07-2020,Global Total,11070283.0,5863818.0,523351.0
-05-07-2020,Afghanistan,32672.0,19164.0,826.0
+04-07-2020,Global Total,11070273.0,5863818.0,523353.0
+05-07-2020,Afghanistan,32662.0,19164.0,828.0
 05-07-2020,Albania,2819.0,1637.0,74.0
 05-07-2020,Algeria,15500.0,11181.0,946.0
 05-07-2020,Andorra,855.0,800.0,52.0
@@ -23148,8 +23148,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-07-2020,Yemen,1248.0,537.0,337.0
 05-07-2020,Zambia,1632.0,1348.0,30.0
 05-07-2020,Zimbabwe,698.0,181.0,8.0
-05-07-2020,Global Total,11264003.0,6059651.0,527719.0
-06-07-2020,Afghanistan,32951.0,19366.0,864.0
+05-07-2020,Global Total,11263993.0,6059651.0,527721.0
+06-07-2020,Afghanistan,32941.0,19366.0,866.0
 06-07-2020,Albania,2893.0,1657.0,76.0
 06-07-2020,Algeria,15941.0,11492.0,952.0
 06-07-2020,Andorra,855.0,800.0,52.0
@@ -23337,8 +23337,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-07-2020,Yemen,1265.0,552.0,338.0
 06-07-2020,Zambia,1632.0,1348.0,30.0
 06-07-2020,Zimbabwe,716.0,181.0,8.0
-06-07-2020,Global Total,11446596.0,6178973.0,531192.0
-07-07-2020,Afghanistan,33190.0,20103.0,898.0
+06-07-2020,Global Total,11446586.0,6178973.0,531194.0
+07-07-2020,Afghanistan,33180.0,20103.0,900.0
 07-07-2020,Albania,2964.0,1702.0,79.0
 07-07-2020,Algeria,16404.0,11884.0,959.0
 07-07-2020,Andorra,855.0,800.0,52.0
@@ -23526,8 +23526,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-07-2020,Yemen,1284.0,575.0,345.0
 07-07-2020,Zambia,1632.0,1348.0,30.0
 07-07-2020,Zimbabwe,734.0,197.0,9.0
-07-07-2020,Global Total,11611757.0,6302585.0,535019.0
-08-07-2020,Afghanistan,33384.0,20179.0,920.0
+07-07-2020,Global Total,11611747.0,6302585.0,535021.0
+08-07-2020,Afghanistan,33374.0,20179.0,922.0
 08-07-2020,Albania,3038.0,1744.0,81.0
 08-07-2020,Algeria,16879.0,12094.0,968.0
 08-07-2020,Andorra,855.0,800.0,52.0
@@ -23715,8 +23715,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-07-2020,Yemen,1297.0,591.0,348.0
 08-07-2020,Zambia,1895.0,1348.0,42.0
 08-07-2020,Zimbabwe,787.0,201.0,9.0
-08-07-2020,Global Total,11823330.0,6447610.0,541034.0
-09-07-2020,Afghanistan,33594.0,20700.0,936.0
+08-07-2020,Global Total,11823320.0,6447610.0,541036.0
+09-07-2020,Afghanistan,33584.0,20700.0,939.0
 09-07-2020,Albania,3106.0,1791.0,83.0
 09-07-2020,Algeria,17348.0,12329.0,978.0
 09-07-2020,Andorra,855.0,802.0,52.0
@@ -23904,8 +23904,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-07-2020,Yemen,1318.0,595.0,351.0
 09-07-2020,Zambia,1895.0,1348.0,42.0
 09-07-2020,Zimbabwe,885.0,206.0,9.0
-09-07-2020,Global Total,12036294.0,6605559.0,546307.0
-10-07-2020,Afghanistan,33908.0,20847.0,957.0
+09-07-2020,Global Total,12036284.0,6605559.0,546310.0
+10-07-2020,Afghanistan,33898.0,20847.0,959.0
 10-07-2020,Albania,3188.0,1832.0,83.0
 10-07-2020,Algeria,17808.0,12637.0,988.0
 10-07-2020,Andorra,855.0,802.0,52.0
@@ -24093,8 +24093,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-07-2020,Yemen,1356.0,619.0,361.0
 10-07-2020,Zambia,1895.0,1348.0,42.0
 10-07-2020,Zimbabwe,885.0,206.0,9.0
-10-07-2020,Global Total,12263701.0,6740073.0,551715.0
-11-07-2020,Afghanistan,34194.0,20882.0,971.0
+10-07-2020,Global Total,12263691.0,6740073.0,551717.0
+11-07-2020,Afghanistan,34184.0,20882.0,973.0
 11-07-2020,Albania,3278.0,1875.0,85.0
 11-07-2020,Algeria,18242.0,13124.0,996.0
 11-07-2020,Andorra,855.0,803.0,52.0
@@ -24282,8 +24282,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-07-2020,Yemen,1380.0,630.0,364.0
 11-07-2020,Zambia,1895.0,1348.0,42.0
 11-07-2020,Zimbabwe,942.0,320.0,13.0
-11-07-2020,Global Total,12496158.0,6879465.0,557007.0
-12-07-2020,Afghanistan,34366.0,21135.0,994.0
+11-07-2020,Global Total,12496148.0,6879465.0,557009.0
+12-07-2020,Afghanistan,34356.0,21135.0,996.0
 12-07-2020,Albania,3371.0,1881.0,89.0
 12-07-2020,Algeria,18712.0,13124.0,1004.0
 12-07-2020,Andorra,855.0,803.0,52.0
@@ -24471,8 +24471,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-07-2020,Yemen,1389.0,642.0,365.0
 12-07-2020,Zambia,1895.0,1348.0,42.0
 12-07-2020,Zimbabwe,982.0,320.0,18.0
-12-07-2020,Global Total,12712445.0,7005174.0,561795.0
-13-07-2020,Afghanistan,34451.0,21216.0,1010.0
+12-07-2020,Global Total,12712435.0,7005174.0,561797.0
+13-07-2020,Afghanistan,34441.0,21216.0,1012.0
 13-07-2020,Albania,3454.0,1946.0,93.0
 13-07-2020,Algeria,19195.0,13743.0,1011.0
 13-07-2020,Andorra,855.0,803.0,52.0
@@ -24660,8 +24660,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-07-2020,Yemen,1465.0,659.0,417.0
 13-07-2020,Zambia,1895.0,1412.0,42.0
 13-07-2020,Zimbabwe,985.0,328.0,18.0
-13-07-2020,Global Total,12905274.0,7116853.0,565787.0
-14-07-2020,Afghanistan,34455.0,21254.0,1012.0
+13-07-2020,Global Total,12905264.0,7116853.0,565789.0
+14-07-2020,Afghanistan,34595.0,21254.0,1040.0
 14-07-2020,Albania,3571.0,2014.0,95.0
 14-07-2020,Algeria,19689.0,14019.0,1018.0
 14-07-2020,Andorra,858.0,803.0,52.0
@@ -24849,8 +24849,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-07-2020,Yemen,1498.0,675.0,424.0
 14-07-2020,Zambia,1895.0,1412.0,42.0
 14-07-2020,Zimbabwe,1034.0,343.0,19.0
-14-07-2020,Global Total,13096904.0,7257197.0,569601.0
-15-07-2020,Afghanistan,34740.0,21454.0,1048.0
+14-07-2020,Global Total,13097044.0,7257197.0,569629.0
+15-07-2020,Afghanistan,34730.0,21454.0,1064.0
 15-07-2020,Albania,3667.0,2062.0,97.0
 15-07-2020,Algeria,20216.0,14295.0,1028.0
 15-07-2020,Andorra,861.0,803.0,52.0
@@ -25038,8 +25038,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-07-2020,Yemen,1516.0,685.0,429.0
 15-07-2020,Zambia,1895.0,1412.0,42.0
 15-07-2020,Zimbabwe,1064.0,343.0,20.0
-15-07-2020,Global Total,13318693.0,7399397.0,575190.0
-16-07-2020,Afghanistan,34994.0,22456.0,1094.0
+15-07-2020,Global Total,13318683.0,7399397.0,575206.0
+16-07-2020,Afghanistan,34984.0,22456.0,1096.0
 16-07-2020,Albania,3752.0,2091.0,101.0
 16-07-2020,Algeria,20770.0,14792.0,1040.0
 16-07-2020,Andorra,862.0,803.0,52.0
@@ -25227,8 +25227,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-07-2020,Yemen,1526.0,694.0,433.0
 16-07-2020,Zambia,1895.0,1412.0,42.0
 16-07-2020,Zimbabwe,1089.0,395.0,20.0
-16-07-2020,Global Total,13549927.0,7559178.0,580628.0
-17-07-2020,Afghanistan,35070.0,22824.0,1113.0
+16-07-2020,Global Total,13549917.0,7559178.0,580630.0
+17-07-2020,Afghanistan,35060.0,22824.0,1117.0
 17-07-2020,Albania,3851.0,2137.0,104.0
 17-07-2020,Algeria,21355.0,15107.0,1052.0
 17-07-2020,Andorra,877.0,803.0,52.0
@@ -25416,8 +25416,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-07-2020,Yemen,1552.0,695.0,438.0
 17-07-2020,Zambia,1895.0,1412.0,42.0
 17-07-2020,Zimbabwe,1362.0,425.0,23.0
-17-07-2020,Global Total,13802335.0,7711548.0,586385.0
-18-07-2020,Afghanistan,35229.0,23151.0,1147.0
+17-07-2020,Global Total,13802325.0,7711548.0,586389.0
+18-07-2020,Afghanistan,35219.0,23151.0,1149.0
 18-07-2020,Albania,3906.0,2214.0,107.0
 18-07-2020,Algeria,21948.0,15430.0,1057.0
 18-07-2020,Andorra,880.0,803.0,52.0
@@ -25605,8 +25605,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-07-2020,Yemen,1576.0,695.0,440.0
 18-07-2020,Zambia,2810.0,1450.0,109.0
 18-07-2020,Zimbabwe,1420.0,438.0,24.0
-18-07-2020,Global Total,14044251.0,7894858.0,593044.0
-19-07-2020,Afghanistan,35301.0,23273.0,1164.0
+18-07-2020,Global Total,14044241.0,7894858.0,593046.0
+19-07-2020,Afghanistan,35279.0,23273.0,1166.0
 19-07-2020,Albania,4008.0,2264.0,111.0
 19-07-2020,Algeria,22549.0,15744.0,1068.0
 19-07-2020,Andorra,880.0,803.0,52.0
@@ -25794,8 +25794,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-07-2020,Yemen,1581.0,701.0,443.0
 19-07-2020,Zambia,2980.0,1462.0,120.0
 19-07-2020,Zimbabwe,1478.0,439.0,25.0
-19-07-2020,Global Total,14280857.0,8045815.0,598659.0
-20-07-2020,Afghanistan,35475.0,23634.0,1181.0
+19-07-2020,Global Total,14280835.0,8045815.0,598661.0
+20-07-2020,Afghanistan,35453.0,23634.0,1183.0
 20-07-2020,Albania,4090.0,2311.0,112.0
 20-07-2020,Algeria,23084.0,16051.0,1078.0
 20-07-2020,Andorra,880.0,803.0,52.0
@@ -25983,8 +25983,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-07-2020,Yemen,1606.0,712.0,445.0
 20-07-2020,Zambia,2980.0,1462.0,120.0
 20-07-2020,Zimbabwe,1611.0,472.0,25.0
-20-07-2020,Global Total,14494483.0,8133692.0,602717.0
-21-07-2020,Afghanistan,35526.0,23741.0,1185.0
+20-07-2020,Global Total,14494461.0,8133692.0,602719.0
+21-07-2020,Afghanistan,35493.0,23741.0,1185.0
 21-07-2020,Albania,4171.0,2352.0,113.0
 21-07-2020,Algeria,23691.0,16400.0,1087.0
 21-07-2020,Andorra,884.0,803.0,52.0
@@ -26172,8 +26172,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-07-2020,Yemen,1619.0,714.0,447.0
 21-07-2020,Zambia,3326.0,1620.0,128.0
 21-07-2020,Zimbabwe,1713.0,472.0,26.0
-21-07-2020,Global Total,14700686.0,8292688.0,606895.0
-22-07-2020,Afghanistan,35615.0,23741.0,1186.0
+21-07-2020,Global Total,14700653.0,8292688.0,606895.0
+22-07-2020,Afghanistan,35605.0,23741.0,1188.0
 22-07-2020,Albania,4290.0,2397.0,117.0
 22-07-2020,Algeria,24278.0,16646.0,1100.0
 22-07-2020,Andorra,884.0,803.0,52.0
@@ -26361,8 +26361,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-07-2020,Yemen,1629.0,741.0,456.0
 22-07-2020,Zambia,3386.0,1620.0,128.0
 22-07-2020,Zimbabwe,1820.0,488.0,26.0
-22-07-2020,Global Total,14934114.0,8467335.0,613058.0
-23-07-2020,Afghanistan,35727.0,23924.0,1190.0
+22-07-2020,Global Total,14934104.0,8467335.0,613060.0
+23-07-2020,Afghanistan,35717.0,23924.0,1192.0
 23-07-2020,Albania,4358.0,2463.0,120.0
 23-07-2020,Algeria,24872.0,16983.0,1111.0
 23-07-2020,Andorra,889.0,803.0,52.0
@@ -26550,8 +26550,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-07-2020,Yemen,1640.0,751.0,458.0
 23-07-2020,Zambia,3583.0,1677.0,128.0
 23-07-2020,Zimbabwe,2034.0,510.0,26.0
-23-07-2020,Global Total,15215565.0,8643722.0,619984.0
-24-07-2020,Afghanistan,35928.0,24550.0,1211.0
+23-07-2020,Global Total,15215555.0,8643722.0,619986.0
+24-07-2020,Afghanistan,35918.0,24550.0,1213.0
 24-07-2020,Albania,4466.0,2523.0,123.0
 24-07-2020,Algeria,25484.0,17369.0,1124.0
 24-07-2020,Andorra,889.0,803.0,52.0
@@ -26739,8 +26739,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-07-2020,Yemen,1654.0,762.0,461.0
 24-07-2020,Zambia,3789.0,1677.0,134.0
 24-07-2020,Zimbabwe,2124.0,510.0,28.0
-24-07-2020,Global Total,15498103.0,8813886.0,629879.0
-25-07-2020,Afghanistan,35981.0,24602.0,1225.0
+24-07-2020,Global Total,15498093.0,8813886.0,629881.0
+25-07-2020,Afghanistan,35978.0,24602.0,1227.0
 25-07-2020,Albania,4570.0,2608.0,128.0
 25-07-2020,Algeria,26159.0,17369.0,1136.0
 25-07-2020,Andorra,897.0,803.0,52.0
@@ -26928,8 +26928,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-07-2020,Yemen,1674.0,779.0,469.0
 25-07-2020,Zambia,3856.0,1677.0,136.0
 25-07-2020,Zimbabwe,2296.0,514.0,32.0
-25-07-2020,Global Total,15778784.0,9043203.0,635912.0
-26-07-2020,Afghanistan,36036.0,24793.0,1248.0
+25-07-2020,Global Total,15778781.0,9043203.0,635914.0
+26-07-2020,Afghanistan,36026.0,24793.0,1249.0
 26-07-2020,Albania,4637.0,2637.0,134.0
 26-07-2020,Algeria,26764.0,18076.0,1146.0
 26-07-2020,Andorra,897.0,803.0,52.0
@@ -27117,8 +27117,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-07-2020,Yemen,1674.0,780.0,474.0
 26-07-2020,Zambia,4328.0,1953.0,139.0
 26-07-2020,Zimbabwe,2434.0,518.0,34.0
-26-07-2020,Global Total,16033403.0,9262520.0,641447.0
-27-07-2020,Afghanistan,36157.0,25180.0,1259.0
+26-07-2020,Global Total,16033393.0,9262520.0,641448.0
+27-07-2020,Afghanistan,36147.0,25180.0,1261.0
 27-07-2020,Albania,4763.0,2682.0,138.0
 27-07-2020,Algeria,27357.0,18088.0,1155.0
 27-07-2020,Andorra,897.0,803.0,52.0
@@ -27306,8 +27306,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-07-2020,Yemen,1681.0,797.0,479.0
 27-07-2020,Zambia,4481.0,2350.0,139.0
 27-07-2020,Zimbabwe,2512.0,518.0,34.0
-27-07-2020,Global Total,16246636.0,9402996.0,645118.0
-28-07-2020,Afghanistan,36263.0,25198.0,1269.0
+27-07-2020,Global Total,16246626.0,9402996.0,645120.0
+28-07-2020,Afghanistan,36253.0,25198.0,1271.0
 28-07-2020,Albania,4880.0,2745.0,144.0
 28-07-2020,Algeria,27973.0,18837.0,1163.0
 28-07-2020,Andorra,907.0,803.0,52.0
@@ -27495,8 +27495,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-07-2020,Yemen,1691.0,833.0,483.0
 28-07-2020,Zambia,4552.0,2815.0,140.0
 28-07-2020,Zimbabwe,2704.0,542.0,36.0
-28-07-2020,Global Total,16472296.0,9572619.0,650292.0
-29-07-2020,Afghanistan,36368.0,25358.0,1270.0
+28-07-2020,Global Total,16472286.0,9572619.0,650294.0
+29-07-2020,Afghanistan,36358.0,25358.0,1272.0
 29-07-2020,Albania,4997.0,2789.0,148.0
 29-07-2020,Algeria,28615.0,19233.0,1174.0
 29-07-2020,Andorra,907.0,803.0,52.0
@@ -27684,8 +27684,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-07-2020,Yemen,1703.0,840.0,484.0
 29-07-2020,Zambia,5002.0,3195.0,142.0
 29-07-2020,Zimbabwe,2817.0,604.0,40.0
-29-07-2020,Global Total,16724733.0,9746473.0,656599.0
-30-07-2020,Afghanistan,36471.0,25389.0,1271.0
+29-07-2020,Global Total,16724723.0,9746473.0,656601.0
+30-07-2020,Afghanistan,36463.0,25389.0,1273.0
 30-07-2020,Albania,5105.0,2830.0,150.0
 30-07-2020,Algeria,29229.0,19592.0,1186.0
 30-07-2020,Andorra,918.0,804.0,52.0
@@ -27873,8 +27873,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-07-2020,Yemen,1711.0,849.0,485.0
 30-07-2020,Zambia,5249.0,3285.0,146.0
 30-07-2020,Zimbabwe,2879.0,887.0,41.0
-30-07-2020,Global Total,17014951.0,9948163.0,663171.0
-31-07-2020,Afghanistan,36542.0,25471.0,1271.0
+30-07-2020,Global Total,17014943.0,9948163.0,663173.0
+31-07-2020,Afghanistan,36532.0,25471.0,1283.0
 31-07-2020,Albania,5197.0,2883.0,154.0
 31-07-2020,Algeria,29831.0,20082.0,1200.0
 31-07-2020,Andorra,922.0,806.0,52.0
@@ -28062,8 +28062,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 31-07-2020,Yemen,1726.0,856.0,487.0
 31-07-2020,Zambia,5555.0,3289.0,149.0
 31-07-2020,Zimbabwe,3092.0,924.0,53.0
-31-07-2020,Global Total,17295151.0,10170650.0,669184.0
-01-08-2020,Afghanistan,36675.0,25509.0,1272.0
+31-07-2020,Global Total,17295141.0,10170650.0,669196.0
+01-08-2020,Afghanistan,36665.0,25509.0,1284.0
 01-08-2020,Albania,5276.0,2952.0,157.0
 01-08-2020,Algeria,30394.0,20537.0,1210.0
 01-08-2020,Andorra,925.0,807.0,52.0
@@ -28251,8 +28251,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-08-2020,Yemen,1728.0,862.0,493.0
 01-08-2020,Zambia,5963.0,3803.0,151.0
 01-08-2020,Zimbabwe,3169.0,1004.0,67.0
-01-08-2020,Global Total,17586232.0,10369255.0,675387.0
-02-08-2020,Afghanistan,36710.0,25509.0,1283.0
+01-08-2020,Global Total,17586222.0,10369255.0,675399.0
+02-08-2020,Afghanistan,36700.0,25509.0,1285.0
 02-08-2020,Albania,5396.0,2961.0,161.0
 02-08-2020,Algeria,30950.0,20988.0,1223.0
 02-08-2020,Andorra,925.0,807.0,52.0
@@ -28440,8 +28440,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-08-2020,Yemen,1730.0,862.0,494.0
 02-08-2020,Zambia,6228.0,4130.0,165.0
 02-08-2020,Zimbabwe,3659.0,1011.0,69.0
-02-08-2020,Global Total,17836822.0,10553852.0,680873.0
-03-08-2020,Afghanistan,36710.0,25510.0,1284.0
+02-08-2020,Global Total,17836812.0,10553852.0,680875.0
+03-08-2020,Afghanistan,36701.0,25510.0,1286.0
 03-08-2020,Albania,5519.0,3018.0,166.0
 03-08-2020,Algeria,31465.0,21419.0,1231.0
 03-08-2020,Andorra,925.0,807.0,52.0
@@ -28530,7 +28530,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-08-2020,Jamaica,894.0,743.0,12.0
 03-08-2020,Japan,39116.0,25748.0,1013.0
 03-08-2020,Jordan,1213.0,1099.0,11.0
-03-08-2020,Kazakhstan,92662.0,62511.0,793.0
+03-08-2020,Kazakhstan,96774.0,62511.0,823.0
 03-08-2020,Kenya,22053.0,8477.0,369.0
 03-08-2020,South Korea,14389.0,13280.0,301.0
 03-08-2020,Kosovo,8799.0,4863.0,249.0
@@ -28629,8 +28629,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-08-2020,Yemen,1734.0,862.0,497.0
 03-08-2020,Zambia,6347.0,4493.0,170.0
 03-08-2020,Zimbabwe,3921.0,1016.0,70.0
-03-08-2020,Global Total,18064208.0,10690555.0,685148.0
-04-08-2020,Afghanistan,36747.0,25669.0,1288.0
+03-08-2020,Global Total,18068311.0,10690555.0,685180.0
+04-08-2020,Afghanistan,36737.0,25669.0,1290.0
 04-08-2020,Albania,5620.0,3031.0,172.0
 04-08-2020,Algeria,31972.0,21901.0,1239.0
 04-08-2020,Andorra,937.0,821.0,52.0
@@ -28719,7 +28719,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-08-2020,Jamaica,905.0,743.0,12.0
 04-08-2020,Japan,40099.0,26476.0,1018.0
 04-08-2020,Jordan,1218.0,1131.0,11.0
-04-08-2020,Kazakhstan,93820.0,65132.0,793.0
+04-08-2020,Kazakhstan,98641.0,65132.0,1109.0
 04-08-2020,Kenya,22597.0,8740.0,382.0
 04-08-2020,South Korea,14423.0,13352.0,301.0
 04-08-2020,Kosovo,9049.0,4989.0,256.0
@@ -28818,8 +28818,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-08-2020,Yemen,1734.0,863.0,499.0
 04-08-2020,Zambia,6580.0,4701.0,171.0
 04-08-2020,Zimbabwe,4075.0,1057.0,80.0
-04-08-2020,Global Total,18265467.0,10913000.0,689472.0
-05-08-2020,Afghanistan,36782.0,25669.0,1288.0
+04-08-2020,Global Total,18270278.0,10913000.0,689790.0
+05-08-2020,Afghanistan,36773.0,25669.0,1290.0
 05-08-2020,Albania,5750.0,3031.0,176.0
 05-08-2020,Algeria,32504.0,22375.0,1248.0
 05-08-2020,Andorra,939.0,825.0,52.0
@@ -28908,7 +28908,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-08-2020,Jamaica,920.0,745.0,12.0
 05-08-2020,Japan,41347.0,27187.0,1023.0
 05-08-2020,Jordan,1224.0,1155.0,11.0
-05-08-2020,Kazakhstan,94882.0,67031.0,1058.0
+05-08-2020,Kazakhstan,100075.0,67031.0,1109.0
 05-08-2020,Kenya,23202.0,9327.0,388.0
 05-08-2020,South Korea,14456.0,13406.0,302.0
 05-08-2020,Kosovo,9274.0,5190.0,269.0
@@ -29007,8 +29007,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-08-2020,Yemen,1760.0,863.0,506.0
 05-08-2020,Zambia,6793.0,5109.0,173.0
 05-08-2020,Zimbabwe,4221.0,1238.0,81.0
-05-08-2020,Global Total,18523956.0,11137165.0,696389.0
-06-08-2020,Afghanistan,36829.0,25742.0,1294.0
+05-08-2020,Global Total,18529140.0,11137165.0,696442.0
+06-08-2020,Afghanistan,36820.0,25742.0,1296.0
 06-08-2020,Albania,5889.0,3123.0,182.0
 06-08-2020,Algeria,33055.0,22802.0,1261.0
 06-08-2020,Andorra,939.0,825.0,52.0
@@ -29097,7 +29097,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-08-2020,Jamaica,928.0,745.0,12.0
 06-08-2020,Japan,42686.0,28020.0,1028.0
 06-08-2020,Jordan,1231.0,1160.0,11.0
-06-08-2020,Kazakhstan,95942.0,68871.0,1058.0
+06-08-2020,Kazakhstan,102936.0,68871.0,1109.0
 06-08-2020,Kenya,23873.0,9930.0,391.0
 06-08-2020,South Korea,14499.0,13501.0,302.0
 06-08-2020,Kosovo,9492.0,5346.0,284.0
@@ -29196,8 +29196,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-08-2020,Yemen,1763.0,894.0,508.0
 06-08-2020,Zambia,7022.0,5667.0,176.0
 06-08-2020,Zimbabwe,4221.0,1238.0,81.0
-06-08-2020,Global Total,18797027.0,11358861.0,703356.0
-07-08-2020,Afghanistan,36896.0,25840.0,1298.0
+06-08-2020,Global Total,18804012.0,11358861.0,703409.0
+07-08-2020,Afghanistan,36928.0,25840.0,1301.0
 07-08-2020,Albania,6016.0,3155.0,188.0
 07-08-2020,Algeria,33626.0,23238.0,1273.0
 07-08-2020,Andorra,944.0,828.0,52.0
@@ -29286,7 +29286,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-08-2020,Jamaica,958.0,745.0,12.0
 07-08-2020,Japan,44167.0,28858.0,1034.0
 07-08-2020,Jordan,1232.0,1171.0,11.0
-07-08-2020,Kazakhstan,96922.0,70680.0,1058.0
+07-08-2020,Kazakhstan,105526.0,70680.0,1109.0
 07-08-2020,Kenya,24411.0,10444.0,399.0
 07-08-2020,South Korea,14519.0,13543.0,303.0
 07-08-2020,Kosovo,9688.0,5480.0,300.0
@@ -29385,8 +29385,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-08-2020,Yemen,1768.0,898.0,508.0
 07-08-2020,Zambia,7164.0,5786.0,199.0
 07-08-2020,Zimbabwe,4339.0,1264.0,84.0
-07-08-2020,Global Total,19081745.0,11547831.0,709848.0
-08-08-2020,Afghanistan,37015.0,25903.0,1307.0
+07-08-2020,Global Total,19090381.0,11547831.0,709902.0
+08-08-2020,Afghanistan,37006.0,25903.0,1310.0
 08-08-2020,Albania,6151.0,3227.0,189.0
 08-08-2020,Algeria,34155.0,23667.0,1282.0
 08-08-2020,Andorra,955.0,839.0,52.0
@@ -29475,7 +29475,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-08-2020,Jamaica,987.0,745.0,13.0
 08-08-2020,Japan,45764.0,30241.0,1042.0
 08-08-2020,Jordan,1237.0,1178.0,11.0
-08-08-2020,Kazakhstan,97829.0,71609.0,1058.0
+08-08-2020,Kazakhstan,107930.0,71609.0,1109.0
 08-08-2020,Kenya,25138.0,11118.0,413.0
 08-08-2020,South Korea,14562.0,13629.0,304.0
 08-08-2020,Kosovo,9869.0,5605.0,303.0
@@ -29574,8 +29574,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-08-2020,Yemen,1796.0,907.0,512.0
 08-08-2020,Zambia,7486.0,6264.0,200.0
 08-08-2020,Zimbabwe,4451.0,1345.0,102.0
-08-08-2020,Global Total,19362805.0,11740482.0,716146.0
-09-08-2020,Afghanistan,37054.0,25960.0,1312.0
+08-08-2020,Global Total,19372897.0,11740482.0,716200.0
+09-08-2020,Afghanistan,37046.0,25960.0,1315.0
 09-08-2020,Albania,6275.0,3268.0,193.0
 09-08-2020,Algeria,34693.0,24083.0,1293.0
 09-08-2020,Andorra,955.0,839.0,52.0
@@ -29664,7 +29664,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-08-2020,Jamaica,1003.0,745.0,13.0
 09-08-2020,Japan,47342.0,31248.0,1042.0
 09-08-2020,Jordan,1246.0,1178.0,11.0
-09-08-2020,Kazakhstan,98701.0,72273.0,1058.0
+09-08-2020,Kazakhstan,109939.0,72273.0,1109.0
 09-08-2020,Kenya,25837.0,11899.0,418.0
 09-08-2020,South Korea,14598.0,13642.0,305.0
 09-08-2020,Kosovo,10059.0,5802.0,316.0
@@ -29763,8 +29763,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-08-2020,Yemen,1797.0,910.0,512.0
 09-08-2020,Zambia,7903.0,6431.0,203.0
 09-08-2020,Zimbabwe,4575.0,1416.0,102.0
-09-08-2020,Global Total,19620999.0,11941861.0,721574.0
-10-08-2020,Afghanistan,37054.0,25960.0,1312.0
+09-08-2020,Global Total,19632229.0,11941861.0,721628.0
+10-08-2020,Afghanistan,37083.0,25960.0,1321.0
 10-08-2020,Albania,6411.0,3342.0,199.0
 10-08-2020,Algeria,35160.0,24506.0,1302.0
 10-08-2020,Andorra,955.0,839.0,52.0
@@ -29853,7 +29853,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-08-2020,Jamaica,1023.0,745.0,14.0
 10-08-2020,Japan,48782.0,32867.0,1047.0
 10-08-2020,Jordan,1252.0,1187.0,11.0
-10-08-2020,Kazakhstan,99442.0,72523.0,1058.0
+10-08-2020,Kazakhstan,111822.0,72523.0,1109.0
 10-08-2020,Kenya,26436.0,12961.0,420.0
 10-08-2020,South Korea,14626.0,13658.0,305.0
 10-08-2020,Kosovo,10247.0,5944.0,328.0
@@ -29952,8 +29952,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-08-2020,Yemen,1804.0,913.0,515.0
 10-08-2020,Zambia,8085.0,6698.0,235.0
 10-08-2020,Zimbabwe,4649.0,1437.0,104.0
-10-08-2020,Global Total,19844872.0,12118746.0,726131.0
-11-08-2020,Afghanistan,37162.0,26228.0,1328.0
+10-08-2020,Global Total,19857281.0,12118746.0,726191.0
+11-08-2020,Afghanistan,37153.0,26228.0,1329.0
 11-08-2020,Albania,6536.0,3379.0,200.0
 11-08-2020,Algeria,35712.0,24920.0,1312.0
 11-08-2020,Andorra,963.0,839.0,52.0
@@ -30042,7 +30042,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-08-2020,Jamaica,1031.0,745.0,14.0
 11-08-2020,Japan,49617.0,33450.0,1052.0
 11-08-2020,Jordan,1268.0,1187.0,11.0
-11-08-2020,Kazakhstan,100164.0,73702.0,1058.0
+11-08-2020,Kazakhstan,112722.0,73702.0,1433.0
 11-08-2020,Kenya,26928.0,13495.0,423.0
 11-08-2020,South Korea,14660.0,13729.0,305.0
 11-08-2020,Kosovo,10419.0,6058.0,341.0
@@ -30141,8 +30141,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-08-2020,Yemen,1832.0,915.0,518.0
 11-08-2020,Zambia,8210.0,6802.0,241.0
 11-08-2020,Zimbabwe,4748.0,1524.0,104.0
-11-08-2020,Global Total,20071179.0,12282977.0,731040.0
-12-08-2020,Afghanistan,37269.0,26415.0,1344.0
+11-08-2020,Global Total,20083728.0,12282977.0,731416.0
+12-08-2020,Afghanistan,37260.0,26415.0,1346.0
 12-08-2020,Albania,6676.0,3480.0,205.0
 12-08-2020,Algeria,36204.0,25263.0,1322.0
 12-08-2020,Andorra,963.0,839.0,52.0
@@ -30231,7 +30231,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-08-2020,Jamaica,1047.0,753.0,14.0
 12-08-2020,Japan,50302.0,34136.0,1058.0
 12-08-2020,Jordan,1283.0,1189.0,11.0
-12-08-2020,Kazakhstan,100855.0,74677.0,1269.0
+12-08-2020,Kazakhstan,113501.0,74677.0,1433.0
 12-08-2020,Kenya,27425.0,13867.0,438.0
 12-08-2020,South Korea,14714.0,13786.0,305.0
 12-08-2020,Kosovo,10590.0,6248.0,354.0
@@ -30330,8 +30330,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-08-2020,Yemen,1831.0,915.0,523.0
 12-08-2020,Zambia,8275.0,7004.0,241.0
 12-08-2020,Zimbabwe,4818.0,1524.0,104.0
-12-08-2020,Global Total,20326294.0,12588120.0,737475.0
-13-08-2020,Afghanistan,37345.0,26694.0,1354.0
+12-08-2020,Global Total,20338931.0,12588120.0,737641.0
+13-08-2020,Afghanistan,37336.0,26694.0,1356.0
 13-08-2020,Albania,6817.0,3552.0,208.0
 13-08-2020,Algeria,36699.0,25627.0,1333.0
 13-08-2020,Andorra,977.0,855.0,53.0
@@ -30420,7 +30420,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-08-2020,Jamaica,1065.0,753.0,14.0
 13-08-2020,Japan,51288.0,34969.0,1066.0
 13-08-2020,Jordan,1303.0,1215.0,11.0
-13-08-2020,Kazakhstan,101372.0,76756.0,1269.0
+13-08-2020,Kazakhstan,115615.0,76756.0,1433.0
 13-08-2020,Kenya,28104.0,14610.0,456.0
 13-08-2020,South Korea,14770.0,13817.0,305.0
 13-08-2020,Kosovo,10795.0,6411.0,365.0
@@ -30519,8 +30519,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-08-2020,Yemen,1841.0,937.0,528.0
 13-08-2020,Zambia,8501.0,7233.0,246.0
 13-08-2020,Zimbabwe,4893.0,1620.0,122.0
-13-08-2020,Global Total,20604159.0,12829625.0,744095.0
-14-08-2020,Afghanistan,37424.0,26714.0,1363.0
+13-08-2020,Global Total,20618393.0,12829625.0,744261.0
+14-08-2020,Afghanistan,37422.0,26714.0,1365.0
 14-08-2020,Albania,6971.0,3616.0,213.0
 14-08-2020,Algeria,37187.0,26004.0,1341.0
 14-08-2020,Andorra,981.0,858.0,53.0
@@ -30609,7 +30609,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-08-2020,Jamaica,1071.0,754.0,14.0
 14-08-2020,Japan,52471.0,36191.0,1073.0
 14-08-2020,Jordan,1320.0,1222.0,11.0
-14-08-2020,Kazakhstan,101848.0,76756.0,1269.0
+14-08-2020,Kazakhstan,117104.0,76756.0,1433.0
 14-08-2020,Kenya,28754.0,15100.0,460.0
 14-08-2020,South Korea,14873.0,13863.0,305.0
 14-08-2020,Kosovo,10988.0,6616.0,373.0
@@ -30708,8 +30708,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-08-2020,Yemen,1847.0,949.0,528.0
 14-08-2020,Zambia,8663.0,7401.0,246.0
 14-08-2020,Zimbabwe,4990.0,1927.0,128.0
-14-08-2020,Global Total,20890120.0,12994838.0,750306.0
-15-08-2020,Afghanistan,37431.0,26714.0,1363.0
+14-08-2020,Global Total,20905374.0,12994838.0,750472.0
+15-08-2020,Afghanistan,37497.0,26714.0,1370.0
 15-08-2020,Albania,7117.0,3695.0,219.0
 15-08-2020,Algeria,37664.0,26308.0,1351.0
 15-08-2020,Andorra,989.0,863.0,53.0
@@ -30798,7 +30798,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-08-2020,Jamaica,1082.0,761.0,14.0
 15-08-2020,Japan,53818.0,35498.0,1080.0
 15-08-2020,Jordan,1329.0,1229.0,11.0
-15-08-2020,Kazakhstan,102287.0,80716.0,1269.0
+15-08-2020,Kazakhstan,118514.0,80716.0,1433.0
 15-08-2020,Kenya,29334.0,15298.0,465.0
 15-08-2020,South Korea,15039.0,13901.0,305.0
 15-08-2020,Kosovo,11130.0,6817.0,381.0
@@ -30897,8 +30897,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-08-2020,Yemen,1858.0,1009.0,528.0
 15-08-2020,Zambia,9021.0,7586.0,256.0
 15-08-2020,Zimbabwe,5072.0,1998.0,128.0
-15-08-2020,Global Total,21194748.0,13279288.0,760437.0
-16-08-2020,Afghanistan,37551.0,27166.0,1370.0
+15-08-2020,Global Total,21211041.0,13279288.0,760608.0
+16-08-2020,Afghanistan,37542.0,27166.0,1371.0
 16-08-2020,Albania,7260.0,3746.0,225.0
 16-08-2020,Algeria,38133.0,26644.0,1360.0
 16-08-2020,Andorra,989.0,863.0,53.0
@@ -30987,7 +30987,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-08-2020,Jamaica,1082.0,761.0,14.0
 16-08-2020,Japan,55051.0,39439.0,1093.0
 16-08-2020,Jordan,1339.0,1229.0,11.0
-16-08-2020,Kazakhstan,102696.0,81558.0,1269.0
+16-08-2020,Kazakhstan,119781.0,81558.0,1480.0
 16-08-2020,Kenya,29849.0,15970.0,472.0
 16-08-2020,South Korea,15318.0,13910.0,305.0
 16-08-2020,Kosovo,11275.0,6961.0,390.0
@@ -31086,8 +31086,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-08-2020,Yemen,1858.0,1013.0,528.0
 16-08-2020,Zambia,9186.0,8065.0,260.0
 16-08-2020,Zimbabwe,5176.0,2047.0,130.0
-16-08-2020,Global Total,21441963.0,13448301.0,765782.0
-17-08-2020,Afghanistan,37596.0,27166.0,1375.0
+16-08-2020,Global Total,21459039.0,13448301.0,765994.0
+17-08-2020,Afghanistan,37590.0,27166.0,1376.0
 17-08-2020,Albania,7380.0,3794.0,228.0
 17-08-2020,Algeria,38583.0,27017.0,1370.0
 17-08-2020,Andorra,989.0,863.0,53.0
@@ -31176,7 +31176,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-08-2020,Jamaica,1113.0,764.0,14.0
 17-08-2020,Japan,56074.0,40560.0,1103.0
 17-08-2020,Jordan,1378.0,1236.0,11.0
-17-08-2020,Kazakhstan,103033.0,82777.0,1269.0
+17-08-2020,Kazakhstan,121161.0,82777.0,1485.0
 17-08-2020,Kenya,30120.0,16656.0,474.0
 17-08-2020,South Korea,15515.0,13917.0,305.0
 17-08-2020,Kosovo,11416.0,7191.0,401.0
@@ -31275,8 +31275,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-08-2020,Yemen,1869.0,1013.0,530.0
 17-08-2020,Zambia,9343.0,8412.0,260.0
 17-08-2020,Zimbabwe,5261.0,2092.0,132.0
-17-08-2020,Global Total,21653787.0,13679557.0,769985.0
-18-08-2020,Afghanistan,37599.0,27166.0,1375.0
+17-08-2020,Global Total,21671909.0,13679557.0,770202.0
+18-08-2020,Afghanistan,37667.0,27166.0,1378.0
 18-08-2020,Albania,7499.0,3816.0,230.0
 18-08-2020,Algeria,39025.0,27347.0,1379.0
 18-08-2020,Andorra,1005.0,869.0,53.0
@@ -31365,7 +31365,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-08-2020,Jamaica,1129.0,764.0,14.0
 18-08-2020,Japan,56717.0,41591.0,1112.0
 18-08-2020,Jordan,1398.0,1241.0,11.0
-18-08-2020,Kazakhstan,103300.0,84445.0,1269.0
+18-08-2020,Kazakhstan,121639.0,84445.0,1487.0
 18-08-2020,Kenya,30365.0,17160.0,482.0
 18-08-2020,South Korea,15761.0,13934.0,306.0
 18-08-2020,Kosovo,11545.0,7343.0,410.0
@@ -31464,8 +31464,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-08-2020,Yemen,1882.0,1045.0,535.0
 18-08-2020,Zambia,9839.0,8575.0,264.0
 18-08-2020,Zimbabwe,5308.0,3848.0,135.0
-18-08-2020,Global Total,21864416.0,13891142.0,774127.0
-19-08-2020,Afghanistan,37599.0,27166.0,1375.0
+18-08-2020,Global Total,21882823.0,13891142.0,774348.0
+19-08-2020,Afghanistan,37710.0,27166.0,1382.0
 19-08-2020,Albania,7654.0,3871.0,232.0
 19-08-2020,Algeria,39444.0,27653.0,1391.0
 19-08-2020,Andorra,1005.0,869.0,53.0
@@ -31554,7 +31554,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-08-2020,Jamaica,1146.0,770.0,14.0
 19-08-2020,Japan,57636.0,42965.0,1135.0
 19-08-2020,Jordan,1438.0,1243.0,11.0
-19-08-2020,Kazakhstan,103571.0,86286.0,1415.0
+19-08-2020,Kazakhstan,121973.0,86286.0,1635.0
 19-08-2020,Kenya,30636.0,17368.0,487.0
 19-08-2020,South Korea,16058.0,14006.0,306.0
 19-08-2020,Kosovo,11686.0,7562.0,416.0
@@ -31653,8 +31653,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-08-2020,Yemen,1889.0,1052.0,537.0
 19-08-2020,Zambia,9981.0,8776.0,264.0
 19-08-2020,Zimbabwe,5378.0,4105.0,141.0
-19-08-2020,Global Total,22120469.0,14119129.0,781012.0
-20-08-2020,Afghanistan,37599.0,27166.0,1375.0
+19-08-2020,Global Total,22138982.0,14119129.0,781239.0
+20-08-2020,Afghanistan,37750.0,27166.0,1384.0
 20-08-2020,Albania,7812.0,3928.0,234.0
 20-08-2020,Algeria,39847.0,27971.0,1402.0
 20-08-2020,Andorra,1024.0,875.0,53.0
@@ -31743,7 +31743,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-08-2020,Jamaica,1192.0,772.0,14.0
 20-08-2020,Japan,58728.0,43786.0,1148.0
 20-08-2020,Jordan,1482.0,1259.0,11.0
-20-08-2020,Kazakhstan,103815.0,86450.0,1415.0
+20-08-2020,Kazakhstan,123325.0,86450.0,1646.0
 20-08-2020,Kenya,31015.0,17612.0,506.0
 20-08-2020,South Korea,16346.0,14063.0,307.0
 20-08-2020,Kosovo,11848.0,7684.0,425.0
@@ -31842,8 +31842,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-08-2020,Yemen,1892.0,1055.0,539.0
 20-08-2020,Zambia,10218.0,9126.0,269.0
 20-08-2020,Zimbabwe,5643.0,4442.0,150.0
-20-08-2020,Global Total,22395099.0,14336714.0,787749.0
-21-08-2020,Afghanistan,37856.0,27681.0,1385.0
+20-08-2020,Global Total,22414760.0,14336714.0,787989.0
+21-08-2020,Afghanistan,37852.0,27681.0,1386.0
 21-08-2020,Albania,7967.0,3986.0,238.0
 21-08-2020,Algeria,40258.0,28281.0,1411.0
 21-08-2020,Andorra,1024.0,875.0,53.0
@@ -31932,7 +31932,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-08-2020,Jamaica,1290.0,788.0,15.0
 21-08-2020,Japan,59900.0,45110.0,1157.0
 21-08-2020,Jordan,1498.0,1261.0,11.0
-21-08-2020,Kazakhstan,104071.0,87920.0,1415.0
+21-08-2020,Kazakhstan,124356.0,87920.0,1652.0
 21-08-2020,Kenya,31441.0,17869.0,516.0
 21-08-2020,South Korea,16670.0,14120.0,309.0
 21-08-2020,Kosovo,12006.0,7929.0,438.0
@@ -32031,8 +32031,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-08-2020,Yemen,1899.0,1058.0,541.0
 21-08-2020,Zambia,10372.0,9126.0,274.0
 21-08-2020,Zimbabwe,5745.0,4525.0,151.0
-21-08-2020,Global Total,22662438.0,14544618.0,793786.0
-22-08-2020,Afghanistan,37894.0,28016.0,1385.0
+21-08-2020,Global Total,22682719.0,14544618.0,794024.0
+22-08-2020,Afghanistan,37885.0,28016.0,1386.0
 22-08-2020,Albania,8119.0,4096.0,240.0
 22-08-2020,Algeria,40667.0,28587.0,1418.0
 22-08-2020,Andorra,1045.0,875.0,53.0
@@ -32121,7 +32121,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-08-2020,Jamaica,1346.0,788.0,16.0
 22-08-2020,Japan,60949.0,46264.0,1175.0
 22-08-2020,Jordan,1532.0,1262.0,11.0
-22-08-2020,Kazakhstan,104313.0,89712.0,1415.0
+22-08-2020,Kazakhstan,125335.0,89712.0,1658.0
 22-08-2020,Kenya,31763.0,18157.0,532.0
 22-08-2020,South Korea,17002.0,14169.0,309.0
 22-08-2020,Kosovo,12168.0,8149.0,448.0
@@ -32220,8 +32220,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-08-2020,Yemen,1906.0,1058.0,542.0
 22-08-2020,Zambia,10627.0,9126.0,277.0
 22-08-2020,Zimbabwe,5815.0,4587.0,152.0
-22-08-2020,Global Total,22932328.0,14714711.0,799284.0
-23-08-2020,Afghanistan,37953.0,28016.0,1385.0
+22-08-2020,Global Total,22953341.0,14714711.0,799528.0
+23-08-2020,Afghanistan,37944.0,28016.0,1386.0
 23-08-2020,Albania,8275.0,4184.0,245.0
 23-08-2020,Algeria,41068.0,28874.0,1424.0
 23-08-2020,Andorra,1045.0,875.0,53.0
@@ -32310,7 +32310,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-08-2020,Jamaica,1346.0,788.0,16.0
 23-08-2020,Japan,61916.0,47418.0,1179.0
 23-08-2020,Jordan,1576.0,1268.0,11.0
-23-08-2020,Kazakhstan,104543.0,91089.0,1415.0
+23-08-2020,Kazakhstan,126243.0,91089.0,1663.0
 23-08-2020,Kenya,32118.0,18453.0,542.0
 23-08-2020,South Korea,17399.0,14200.0,309.0
 23-08-2020,Kosovo,12337.0,8346.0,457.0
@@ -32409,8 +32409,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-08-2020,Yemen,1907.0,1066.0,546.0
 23-08-2020,Zambia,10831.0,9942.0,279.0
 23-08-2020,Zimbabwe,5893.0,4629.0,153.0
-23-08-2020,Global Total,23197063.0,14924833.0,804858.0
-24-08-2020,Afghanistan,37999.0,28180.0,1387.0
+23-08-2020,Global Total,23218754.0,14924833.0,805107.0
+24-08-2020,Afghanistan,37990.0,28180.0,1388.0
 24-08-2020,Albania,8427.0,4332.0,250.0
 24-08-2020,Algeria,41460.0,29142.0,1435.0
 24-08-2020,Andorra,1045.0,875.0,53.0
@@ -32499,7 +32499,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-08-2020,Jamaica,1529.0,819.0,16.0
 24-08-2020,Japan,62658.0,48319.0,1188.0
 24-08-2020,Jordan,1609.0,1320.0,12.0
-24-08-2020,Kazakhstan,104718.0,92598.0,1415.0
+24-08-2020,Kazakhstan,127203.0,92598.0,1671.0
 24-08-2020,Kenya,32364.0,18670.0,548.0
 24-08-2020,South Korea,17665.0,14219.0,309.0
 24-08-2020,Kosovo,12448.0,8505.0,467.0
@@ -32598,8 +32598,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-08-2020,Yemen,1911.0,1086.0,553.0
 24-08-2020,Zambia,11082.0,9942.0,280.0
 24-08-2020,Zimbabwe,5930.0,4872.0,155.0
-24-08-2020,Global Total,23402719.0,15140069.0,808715.0
-25-08-2020,Afghanistan,38054.0,28360.0,1389.0
+24-08-2020,Global Total,23425195.0,15140069.0,808972.0
+25-08-2020,Afghanistan,38045.0,28360.0,1390.0
 25-08-2020,Albania,8605.0,4413.0,254.0
 25-08-2020,Algeria,41858.0,29369.0,1446.0
 25-08-2020,Andorra,1060.0,877.0,53.0
@@ -32688,7 +32688,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-08-2020,Jamaica,1612.0,819.0,16.0
 25-08-2020,Japan,63158.0,49089.0,1201.0
 25-08-2020,Jordan,1639.0,1335.0,14.0
-25-08-2020,Kazakhstan,104902.0,93405.0,1415.0
+25-08-2020,Kazakhstan,127462.0,93405.0,1781.0
 25-08-2020,Kenya,32557.0,18895.0,554.0
 25-08-2020,South Korea,17945.0,14286.0,310.0
 25-08-2020,Kosovo,12547.0,8657.0,480.0
@@ -32787,8 +32787,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-08-2020,Yemen,1916.0,1090.0,555.0
 25-08-2020,Zambia,11148.0,10208.0,280.0
 25-08-2020,Zimbabwe,6070.0,4950.0,155.0
-25-08-2020,Global Total,23627760.0,15340270.0,813080.0
-26-08-2020,Afghanistan,38070.0,28440.0,1397.0
+25-08-2020,Global Total,23650311.0,15340270.0,813447.0
+26-08-2020,Afghanistan,38061.0,28440.0,1398.0
 26-08-2020,Albania,8759.0,4530.0,259.0
 26-08-2020,Algeria,42228.0,29587.0,1456.0
 26-08-2020,Andorra,1060.0,877.0,53.0
@@ -32877,7 +32877,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-08-2020,Jamaica,1732.0,840.0,19.0
 26-08-2020,Japan,63888.0,50092.0,1219.0
 26-08-2020,Jordan,1716.0,1344.0,14.0
-26-08-2020,Kazakhstan,105075.0,93990.0,1523.0
+26-08-2020,Kazakhstan,127462.0,93990.0,1781.0
 26-08-2020,Kenya,32803.0,19055.0,559.0
 26-08-2020,South Korea,18265.0,14368.0,312.0
 26-08-2020,Kosovo,12683.0,8788.0,488.0
@@ -32976,8 +32976,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-08-2020,Yemen,1924.0,1091.0,557.0
 26-08-2020,Zambia,11285.0,10400.0,282.0
 26-08-2020,Zimbabwe,6196.0,4961.0,166.0
-26-08-2020,Global Total,23871497.0,15573057.0,819456.0
-27-08-2020,Afghanistan,38113.0,29042.0,1401.0
+26-08-2020,Global Total,23893875.0,15573057.0,819715.0
+27-08-2020,Afghanistan,38103.0,29042.0,1402.0
 27-08-2020,Albania,8927.0,4633.0,263.0
 27-08-2020,Algeria,42619.0,29886.0,1465.0
 27-08-2020,Andorra,1098.0,893.0,53.0
@@ -33066,7 +33066,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-08-2020,Jamaica,1804.0,846.0,19.0
 27-08-2020,Japan,64779.0,51407.0,1230.0
 27-08-2020,Jordan,1756.0,1355.0,15.0
-27-08-2020,Kazakhstan,105243.0,94713.0,1523.0
+27-08-2020,Kazakhstan,127462.0,94713.0,1781.0
 27-08-2020,Kenya,33016.0,19296.0,564.0
 27-08-2020,South Korea,18706.0,14461.0,313.0
 27-08-2020,Kosovo,12840.0,8942.0,492.0
@@ -33165,8 +33165,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-08-2020,Yemen,1930.0,1097.0,560.0
 27-08-2020,Zambia,11376.0,10693.0,282.0
 27-08-2020,Zimbabwe,6251.0,5001.0,179.0
-27-08-2020,Global Total,24160926.0,15797560.0,825747.0
-28-08-2020,Afghanistan,38129.0,29046.0,1401.0
+27-08-2020,Global Total,24183135.0,15797560.0,826006.0
+28-08-2020,Afghanistan,38119.0,29046.0,1402.0
 28-08-2020,Albania,9083.0,4791.0,266.0
 28-08-2020,Algeria,43016.0,30157.0,1475.0
 28-08-2020,Andorra,1098.0,893.0,53.0
@@ -33255,7 +33255,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-08-2020,Jamaica,1870.0,846.0,19.0
 28-08-2020,Japan,65653.0,52542.0,1241.0
 28-08-2020,Jordan,1801.0,1364.0,15.0
-28-08-2020,Kazakhstan,105408.0,95253.0,1523.0
+28-08-2020,Kazakhstan,127664.0,100509.0,1781.0
 28-08-2020,Kenya,33389.0,19368.0,567.0
 28-08-2020,South Korea,19077.0,14551.0,316.0
 28-08-2020,Kosovo,12981.0,9085.0,498.0
@@ -33354,8 +33354,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-08-2020,Yemen,1933.0,1098.0,562.0
 28-08-2020,Zambia,11601.0,10840.0,282.0
 28-08-2020,Zimbabwe,6292.0,5010.0,189.0
-28-08-2020,Global Total,24439419.0,15999266.0,831632.0
-29-08-2020,Afghanistan,38140.0,29059.0,1402.0
+28-08-2020,Global Total,24461665.0,16004522.0,831891.0
+29-08-2020,Afghanistan,38130.0,29059.0,1403.0
 29-08-2020,Albania,9195.0,4923.0,271.0
 29-08-2020,Algeria,43403.0,30436.0,1483.0
 29-08-2020,Andorra,1124.0,902.0,53.0
@@ -33444,7 +33444,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-08-2020,Jamaica,2011.0,888.0,19.0
 29-08-2020,Japan,66499.0,53691.0,1251.0
 29-08-2020,Jordan,1869.0,1367.0,15.0
-29-08-2020,Kazakhstan,105558.0,95888.0,1523.0
+29-08-2020,Kazakhstan,128618.0,101144.0,1781.0
 29-08-2020,Kenya,33630.0,19434.0,567.0
 29-08-2020,South Korea,19400.0,14765.0,321.0
 29-08-2020,Kosovo,13100.0,9239.0,499.0
@@ -33543,8 +33543,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-08-2020,Yemen,1943.0,1107.0,563.0
 29-08-2020,Zambia,11779.0,10945.0,283.0
 29-08-2020,Zimbabwe,6388.0,5043.0,195.0
-29-08-2020,Global Total,24721815.0,16199844.0,837148.0
-30-08-2020,Afghanistan,38143.0,29063.0,1402.0
+29-08-2020,Global Total,24744865.0,16205100.0,837407.0
+30-08-2020,Afghanistan,38133.0,29063.0,1403.0
 30-08-2020,Albania,9279.0,5020.0,275.0
 30-08-2020,Algeria,43781.0,30717.0,1491.0
 30-08-2020,Andorra,1124.0,902.0,53.0
@@ -33633,7 +33633,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-08-2020,Jamaica,2113.0,890.0,20.0
 30-08-2020,Japan,67353.0,54883.0,1271.0
 30-08-2020,Jordan,1893.0,1447.0,15.0
-30-08-2020,Kazakhstan,105684.0,96135.0,1523.0
+30-08-2020,Kazakhstan,130040.0,101391.0,1781.0
 30-08-2020,Kenya,33794.0,19590.0,572.0
 30-08-2020,South Korea,19699.0,14903.0,323.0
 30-08-2020,Kosovo,13215.0,9355.0,508.0
@@ -33732,8 +33732,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-08-2020,Yemen,1946.0,1113.0,563.0
 30-08-2020,Zambia,11902.0,11092.0,284.0
 30-08-2020,Zimbabwe,6406.0,5056.0,196.0
-30-08-2020,Global Total,24982139.0,16411585.0,842535.0
-31-08-2020,Afghanistan,38162.0,29089.0,1402.0
+30-08-2020,Global Total,25006485.0,16416841.0,842794.0
+31-08-2020,Afghanistan,38155.0,29089.0,1403.0
 31-08-2020,Albania,9380.0,5139.0,280.0
 31-08-2020,Algeria,44146.0,30978.0,1501.0
 31-08-2020,Andorra,1124.0,902.0,53.0
@@ -33822,7 +33822,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 31-08-2020,Jamaica,2357.0,890.0,21.0
 31-08-2020,Japan,67958.0,55700.0,1285.0
 31-08-2020,Jordan,1966.0,1468.0,15.0
-31-08-2020,Kazakhstan,105795.0,96297.0,1523.0
+31-08-2020,Kazakhstan,130673.0,101553.0,1781.0
 31-08-2020,Kenya,34057.0,19688.0,574.0
 31-08-2020,South Korea,19947.0,14973.0,324.0
 31-08-2020,Kosovo,13334.0,9473.0,516.0
@@ -33921,8 +33921,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 31-08-2020,Yemen,1953.0,1123.0,564.0
 31-08-2020,Zambia,12025.0,11454.0,287.0
 31-08-2020,Zimbabwe,6412.0,5061.0,196.0
-31-08-2020,Global Total,25207961.0,16620139.0,846446.0
-01-09-2020,Afghanistan,38165.0,29089.0,1402.0
+31-08-2020,Global Total,25232832.0,16625395.0,846705.0
+01-09-2020,Afghanistan,38159.0,29089.0,1403.0
 01-09-2020,Albania,9513.0,5214.0,284.0
 01-09-2020,Algeria,44494.0,31244.0,1510.0
 01-09-2020,Andorra,1176.0,908.0,53.0
@@ -34011,7 +34011,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-09-2020,Jamaica,2459.0,890.0,21.0
 01-09-2020,Japan,68396.0,56338.0,1298.0
 01-09-2020,Jordan,2034.0,1508.0,15.0
-01-09-2020,Kazakhstan,105872.0,96297.0,1523.0
+01-09-2020,Kazakhstan,130673.0,101553.0,1781.0
 01-09-2020,Kenya,34201.0,19893.0,577.0
 01-09-2020,South Korea,20182.0,15198.0,324.0
 01-09-2020,Kosovo,13454.0,9595.0,525.0
@@ -34110,8 +34110,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-09-2020,Yemen,1958.0,1131.0,566.0
 01-09-2020,Zambia,12097.0,11469.0,288.0
 01-09-2020,Zimbabwe,6497.0,5221.0,202.0
-01-09-2020,Global Total,25471181.0,16821702.0,850659.0
-02-09-2020,Afghanistan,38196.0,29231.0,1406.0
+01-09-2020,Global Total,25495976.0,16826958.0,850918.0
+02-09-2020,Afghanistan,38193.0,29231.0,1407.0
 02-09-2020,Albania,9606.0,5441.0,290.0
 02-09-2020,Algeria,44833.0,31493.0,1518.0
 02-09-2020,Andorra,1184.0,908.0,53.0
@@ -34200,7 +34200,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-09-2020,Jamaica,2459.0,890.0,21.0
 02-09-2020,Japan,69023.0,57503.0,1313.0
 02-09-2020,Jordan,2097.0,1564.0,15.0
-02-09-2020,Kazakhstan,105944.0,97371.0,1588.0
+02-09-2020,Kazakhstan,131596.0,102962.0,1815.0
 02-09-2020,Kenya,34315.0,20211.0,577.0
 02-09-2020,South Korea,20449.0,15356.0,326.0
 02-09-2020,Kosovo,13601.0,9792.0,533.0
@@ -34299,8 +34299,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-09-2020,Yemen,1962.0,1160.0,570.0
 02-09-2020,Zambia,12381.0,11479.0,290.0
 02-09-2020,Zimbabwe,6559.0,5241.0,203.0
-02-09-2020,Global Total,25734627.0,17079381.0,857145.0
-03-09-2020,Afghanistan,38243.0,29315.0,1409.0
+02-09-2020,Global Total,25760276.0,17084972.0,857373.0
+03-09-2020,Afghanistan,38243.0,29315.0,1410.0
 03-09-2020,Albania,9728.0,5582.0,296.0
 03-09-2020,Algeria,45158.0,31746.0,1523.0
 03-09-2020,Andorra,1199.0,909.0,53.0
@@ -34389,7 +34389,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-09-2020,Jamaica,2683.0,898.0,24.0
 03-09-2020,Japan,69619.0,58108.0,1327.0
 03-09-2020,Jordan,2161.0,1610.0,15.0
-03-09-2020,Kazakhstan,106032.0,97371.0,1588.0
+03-09-2020,Kazakhstan,131695.0,102962.0,1883.0
 03-09-2020,Kenya,34493.0,20211.0,581.0
 03-09-2020,South Korea,20644.0,15529.0,329.0
 03-09-2020,Kosovo,13713.0,9923.0,539.0
@@ -34488,8 +34488,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-09-2020,Yemen,1976.0,1175.0,571.0
 03-09-2020,Zambia,12415.0,11494.0,292.0
 03-09-2020,Zimbabwe,6638.0,5250.0,206.0
-03-09-2020,Global Total,26017788.0,17298150.0,863160.0
-04-09-2020,Afghanistan,38288.0,29390.0,1409.0
+03-09-2020,Global Total,26043451.0,17303741.0,863456.0
+04-09-2020,Afghanistan,38288.0,29390.0,1410.0
 04-09-2020,Albania,9844.0,5732.0,301.0
 04-09-2020,Algeria,45469.0,32006.0,1529.0
 04-09-2020,Andorra,1199.0,909.0,53.0
@@ -34578,7 +34578,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-09-2020,Jamaica,2896.0,921.0,29.0
 04-09-2020,Japan,70278.0,58200.0,1334.0
 04-09-2020,Jordan,2233.0,1648.0,15.0
-04-09-2020,Kazakhstan,106121.0,98585.0,1588.0
+04-09-2020,Kazakhstan,132354.0,104176.0,1889.0
 04-09-2020,Kenya,34705.0,20644.0,585.0
 04-09-2020,South Korea,20842.0,15783.0,331.0
 04-09-2020,Kosovo,13791.0,10113.0,548.0
@@ -34677,8 +34677,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-09-2020,Yemen,1979.0,1180.0,571.0
 04-09-2020,Zambia,12523.0,11562.0,292.0
 04-09-2020,Zimbabwe,6678.0,5263.0,206.0
-04-09-2020,Global Total,26298587.0,17519051.0,868871.0
-05-09-2020,Afghanistan,38304.0,29713.0,1409.0
+04-09-2020,Global Total,26324820.0,17524642.0,869173.0
+05-09-2020,Afghanistan,38304.0,29713.0,1410.0
 05-09-2020,Albania,9967.0,5882.0,306.0
 05-09-2020,Algeria,45773.0,32259.0,1539.0
 05-09-2020,Andorra,1215.0,928.0,53.0
@@ -34767,7 +34767,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-09-2020,Jamaica,2964.0,922.0,30.0
 05-09-2020,Japan,70866.0,60093.0,1352.0
 05-09-2020,Jordan,2301.0,1676.0,16.0
-05-09-2020,Kazakhstan,106225.0,98585.0,1588.0
+05-09-2020,Kazakhstan,132924.0,104176.0,1893.0
 05-09-2020,Kenya,34884.0,21059.0,589.0
 05-09-2020,South Korea,21010.0,16009.0,333.0
 05-09-2020,Kosovo,13910.0,10300.0,551.0
@@ -34866,8 +34866,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-09-2020,Yemen,1983.0,1194.0,572.0
 05-09-2020,Zambia,12639.0,11572.0,292.0
 05-09-2020,Zimbabwe,6837.0,5345.0,206.0
-05-09-2020,Global Total,26611448.0,17732989.0,874785.0
-06-09-2020,Afghanistan,38324.0,30082.0,1409.0
+05-09-2020,Global Total,26638147.0,17738580.0,875091.0
+06-09-2020,Afghanistan,38324.0,30082.0,1410.0
 06-09-2020,Albania,10102.0,5976.0,312.0
 06-09-2020,Algeria,46071.0,32481.0,1549.0
 06-09-2020,Andorra,1215.0,928.0,53.0
@@ -34956,7 +34956,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-09-2020,Jamaica,3024.0,950.0,32.0
 06-09-2020,Japan,71467.0,61099.0,1361.0
 06-09-2020,Jordan,2353.0,1700.0,16.0
-06-09-2020,Kazakhstan,106301.0,99018.0,1588.0
+06-09-2020,Kazakhstan,133028.0,104892.0,1893.0
 06-09-2020,Kenya,35020.0,21158.0,594.0
 06-09-2020,South Korea,21177.0,16146.0,334.0
 06-09-2020,Kosovo,14027.0,10431.0,556.0
@@ -35055,8 +35055,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-09-2020,Yemen,1983.0,1197.0,572.0
 06-09-2020,Zambia,12709.0,11668.0,292.0
 06-09-2020,Zimbabwe,6837.0,5345.0,206.0
-06-09-2020,Global Total,26873829.0,17933979.0,879716.0
-07-09-2020,Afghanistan,38398.0,30537.0,1412.0
+06-09-2020,Global Total,26900556.0,17939853.0,880022.0
+07-09-2020,Afghanistan,38398.0,30537.0,1413.0
 07-09-2020,Albania,10255.0,6106.0,316.0
 07-09-2020,Algeria,46364.0,32745.0,1556.0
 07-09-2020,Andorra,1215.0,928.0,53.0
@@ -35145,7 +35145,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-09-2020,Jamaica,3103.0,958.0,33.0
 07-09-2020,Japan,71918.0,61730.0,1366.0
 07-09-2020,Jordan,2411.0,1756.0,16.0
-07-09-2020,Kazakhstan,106361.0,99654.0,1588.0
+07-09-2020,Kazakhstan,133924.0,105611.0,1901.0
 07-09-2020,Kenya,35103.0,21230.0,597.0
 07-09-2020,South Korea,21296.0,16297.0,336.0
 07-09-2020,Kosovo,14119.0,10546.0,563.0
@@ -35244,8 +35244,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-09-2020,Yemen,1987.0,1200.0,572.0
 07-09-2020,Zambia,12776.0,11674.0,295.0
 07-09-2020,Zimbabwe,6837.0,5345.0,206.0
-07-09-2020,Global Total,27096335.0,18144209.0,883492.0
-08-09-2020,Afghanistan,38494.0,30557.0,1415.0
+07-09-2020,Global Total,27123898.0,18150166.0,883806.0
+08-09-2020,Afghanistan,38494.0,30557.0,1416.0
 08-09-2020,Albania,10406.0,6186.0,319.0
 08-09-2020,Algeria,46653.0,32985.0,1562.0
 08-09-2020,Andorra,1261.0,934.0,53.0
@@ -35334,7 +35334,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-09-2020,Jamaica,3183.0,974.0,34.0
 08-09-2020,Japan,72213.0,62190.0,1377.0
 08-09-2020,Jordan,2478.0,1817.0,17.0
-08-09-2020,Kazakhstan,106425.0,99893.0,1588.0
+08-09-2020,Kazakhstan,134123.0,105850.0,1902.0
 08-09-2020,Kenya,35205.0,21310.0,599.0
 08-09-2020,South Korea,21432.0,16636.0,341.0
 08-09-2020,Kosovo,14204.0,10643.0,568.0
@@ -35433,8 +35433,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-09-2020,Yemen,1989.0,1201.0,573.0
 08-09-2020,Zambia,12836.0,11748.0,295.0
 08-09-2020,Zimbabwe,7298.0,5455.0,210.0
-08-09-2020,Global Total,27329623.0,18343108.0,892813.0
-09-09-2020,Afghanistan,38520.0,30715.0,1418.0
+08-09-2020,Global Total,27357321.0,18349065.0,893128.0
+09-09-2020,Afghanistan,38520.0,30715.0,1419.0
 09-09-2020,Albania,10553.0,6239.0,321.0
 09-09-2020,Algeria,46938.0,33183.0,1571.0
 09-09-2020,Andorra,1261.0,934.0,53.0
@@ -35523,7 +35523,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-09-2020,Jamaica,3323.0,992.0,36.0
 09-09-2020,Japan,72724.0,62936.0,1398.0
 09-09-2020,Jordan,2581.0,1885.0,19.0
-09-09-2020,Kazakhstan,106498.0,99893.0,1634.0
+09-09-2020,Kazakhstan,134203.0,106069.0,1903.0
 09-09-2020,Kenya,35356.0,21483.0,599.0
 09-09-2020,South Korea,21588.0,17023.0,344.0
 09-09-2020,Kosovo,14301.0,10782.0,568.0
@@ -35622,8 +35622,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-09-2020,Yemen,1994.0,1203.0,576.0
 09-09-2020,Zambia,12952.0,11787.0,297.0
 09-09-2020,Zimbabwe,7388.0,5477.0,218.0
-09-09-2020,Global Total,27571192.0,18544747.0,897757.0
-10-09-2020,Afghanistan,38544.0,31048.0,1420.0
+09-09-2020,Global Total,27598897.0,18550923.0,898027.0
+10-09-2020,Afghanistan,38544.0,31048.0,1421.0
 10-09-2020,Albania,10704.0,6284.0,322.0
 10-09-2020,Algeria,47216.0,33379.0,1581.0
 10-09-2020,Andorra,1301.0,938.0,53.0
@@ -35712,7 +35712,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-09-2020,Jamaica,3437.0,1019.0,38.0
 10-09-2020,Japan,73264.0,63734.0,1412.0
 10-09-2020,Jordan,2659.0,1919.0,19.0
-10-09-2020,Kazakhstan,106584.0,100248.0,1634.0
+10-09-2020,Kazakhstan,134726.0,106424.0,1950.0
 10-09-2020,Kenya,35460.0,21557.0,607.0
 10-09-2020,South Korea,21743.0,17360.0,346.0
 10-09-2020,Kosovo,14377.0,10926.0,574.0
@@ -35811,8 +35811,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-09-2020,Yemen,1999.0,1209.0,576.0
 10-09-2020,Zambia,13112.0,11839.0,300.0
 10-09-2020,Zimbabwe,7429.0,5542.0,222.0
-10-09-2020,Global Total,27855918.0,18784778.0,903836.0
-11-09-2020,Afghanistan,38572.0,31129.0,1420.0
+10-09-2020,Global Total,27884060.0,18790954.0,904153.0
+11-09-2020,Afghanistan,38572.0,31129.0,1421.0
 11-09-2020,Albania,10860.0,6346.0,324.0
 11-09-2020,Algeria,47488.0,33562.0,1591.0
 11-09-2020,Andorra,1301.0,938.0,53.0
@@ -35901,7 +35901,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-09-2020,Jamaica,3511.0,1019.0,40.0
 11-09-2020,Japan,73916.0,64489.0,1416.0
 11-09-2020,Jordan,2739.0,1981.0,20.0
-11-09-2020,Kazakhstan,106661.0,100409.0,1634.0
+11-09-2020,Kazakhstan,135159.0,107014.0,1951.0
 11-09-2020,Kenya,35603.0,22047.0,612.0
 11-09-2020,South Korea,21919.0,17616.0,350.0
 11-09-2020,Kosovo,14446.0,11033.0,581.0
@@ -36000,8 +36000,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-09-2020,Yemen,2003.0,1211.0,580.0
 11-09-2020,Zambia,13214.0,11899.0,300.0
 11-09-2020,Zimbabwe,7453.0,5635.0,222.0
-11-09-2020,Global Total,28154919.0,19000545.0,909636.0
-12-09-2020,Afghanistan,38606.0,31154.0,1420.0
+11-09-2020,Global Total,28183417.0,19007150.0,909954.0
+12-09-2020,Afghanistan,38606.0,31154.0,1421.0
 12-09-2020,Albania,11021.0,6443.0,327.0
 12-09-2020,Algeria,47752.0,33723.0,1599.0
 12-09-2020,Andorra,1344.0,943.0,53.0
@@ -36090,7 +36090,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-09-2020,Jamaica,3511.0,1019.0,40.0
 12-09-2020,Japan,74558.0,65244.0,1428.0
 12-09-2020,Jordan,2945.0,2084.0,21.0
-12-09-2020,Kazakhstan,106729.0,100409.0,1634.0
+12-09-2020,Kazakhstan,135589.0,107051.0,1952.0
 12-09-2020,Kenya,35793.0,22442.0,616.0
 12-09-2020,South Korea,22055.0,18029.0,355.0
 12-09-2020,Kosovo,14496.0,11150.0,586.0
@@ -36189,8 +36189,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-09-2020,Yemen,2007.0,1211.0,582.0
 12-09-2020,Zambia,13323.0,11899.0,306.0
 12-09-2020,Zimbabwe,7479.0,5660.0,224.0
-12-09-2020,Global Total,28474744.0,19224079.0,915518.0
-13-09-2020,Afghanistan,38641.0,31234.0,1420.0
+12-09-2020,Global Total,28503604.0,19230721.0,915837.0
+13-09-2020,Afghanistan,38641.0,31234.0,1421.0
 13-09-2020,Albania,11185.0,6494.0,330.0
 13-09-2020,Algeria,48007.0,33875.0,1605.0
 13-09-2020,Andorra,1344.0,943.0,53.0
@@ -36279,7 +36279,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-09-2020,Jamaica,3623.0,1072.0,40.0
 13-09-2020,Japan,75206.0,65934.0,1441.0
 13-09-2020,Jordan,3062.0,2156.0,22.0
-13-09-2020,Kazakhstan,106803.0,100615.0,1634.0
+13-09-2020,Kazakhstan,135964.0,107257.0,1954.0
 13-09-2020,Kenya,35969.0,22771.0,619.0
 13-09-2020,South Korea,22176.0,18226.0,358.0
 13-09-2020,Kosovo,14566.0,11272.0,589.0
@@ -36378,8 +36378,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-09-2020,Yemen,2009.0,1211.0,582.0
 13-09-2020,Zambia,13466.0,12007.0,312.0
 13-09-2020,Zimbabwe,7508.0,5675.0,224.0
-13-09-2020,Global Total,28751941.0,19447558.0,920392.0
-14-09-2020,Afghanistan,38716.0,31638.0,1420.0
+13-09-2020,Global Total,28781102.0,19454200.0,920713.0
+14-09-2020,Afghanistan,38716.0,31638.0,1421.0
 14-09-2020,Albania,11353.0,6569.0,334.0
 14-09-2020,Algeria,48254.0,34037.0,1612.0
 14-09-2020,Andorra,1344.0,943.0,53.0
@@ -36468,7 +36468,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-09-2020,Jamaica,3771.0,1149.0,42.0
 14-09-2020,Japan,75646.0,66524.0,1448.0
 14-09-2020,Jordan,3314.0,2206.0,24.0
-14-09-2020,Kazakhstan,106855.0,100627.0,1634.0
+14-09-2020,Kazakhstan,136384.0,107269.0,1955.0
 14-09-2020,Kenya,36157.0,23067.0,622.0
 14-09-2020,South Korea,22285.0,18489.0,363.0
 14-09-2020,Kosovo,14637.0,11435.0,596.0
@@ -36567,8 +36567,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-09-2020,Yemen,2011.0,1212.0,583.0
 14-09-2020,Zambia,13539.0,12260.0,312.0
 14-09-2020,Zimbabwe,7526.0,5678.0,224.0
-14-09-2020,Global Total,28987746.0,19633499.0,924049.0
-15-09-2020,Afghanistan,38772.0,32073.0,1425.0
+14-09-2020,Global Total,29017275.0,19640141.0,924371.0
+15-09-2020,Afghanistan,38772.0,32073.0,1427.0
 15-09-2020,Albania,11520.0,6615.0,338.0
 15-09-2020,Algeria,48496.0,34204.0,1620.0
 15-09-2020,Andorra,1438.0,945.0,53.0
@@ -36657,7 +36657,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-09-2020,Jamaica,3933.0,1161.0,44.0
 15-09-2020,Japan,75914.0,66901.0,1455.0
 15-09-2020,Jordan,3528.0,2255.0,26.0
-15-09-2020,Kazakhstan,106920.0,100627.0,1634.0
+15-09-2020,Kazakhstan,136513.0,107269.0,1962.0
 15-09-2020,Kenya,36205.0,23243.0,624.0
 15-09-2020,South Korea,22391.0,18878.0,367.0
 15-09-2020,Kosovo,14692.0,11585.0,600.0
@@ -36756,8 +36756,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-09-2020,Yemen,2013.0,1215.0,583.0
 15-09-2020,Zambia,13720.0,12380.0,320.0
 15-09-2020,Zimbabwe,7531.0,5690.0,224.0
-15-09-2020,Global Total,29267418.0,19863106.0,928485.0
-16-09-2020,Afghanistan,38815.0,32098.0,1426.0
+15-09-2020,Global Total,29297011.0,19869748.0,928815.0
+16-09-2020,Afghanistan,38815.0,32098.0,1428.0
 16-09-2020,Albania,11672.0,6668.0,340.0
 16-09-2020,Algeria,48734.0,34385.0,1632.0
 16-09-2020,Andorra,1438.0,945.0,53.0
@@ -36846,7 +36846,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-09-2020,Jamaica,4042.0,1163.0,46.0
 16-09-2020,Japan,76446.0,66901.0,1463.0
 16-09-2020,Jordan,3677.0,2311.0,26.0
-16-09-2020,Kazakhstan,106984.0,101267.0,1671.0
+16-09-2020,Kazakhstan,136586.0,107909.0,1965.0
 16-09-2020,Kenya,36301.0,23364.0,634.0
 16-09-2020,South Korea,22504.0,19310.0,367.0
 16-09-2020,Kosovo,14763.0,11784.0,601.0
@@ -36945,8 +36945,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-09-2020,Yemen,2016.0,1219.0,583.0
 16-09-2020,Zambia,13819.0,12590.0,324.0
 16-09-2020,Zimbabwe,7576.0,5783.0,224.0
-16-09-2020,Global Total,29551476.0,20089476.0,935035.0
-17-09-2020,Afghanistan,38855.0,32503.0,1436.0
+16-09-2020,Global Total,29581078.0,20096118.0,935331.0
+17-09-2020,Afghanistan,38855.0,32503.0,1438.0
 17-09-2020,Albania,11816.0,6733.0,343.0
 17-09-2020,Algeria,48966.0,34517.0,1645.0
 17-09-2020,Andorra,1483.0,1054.0,53.0
@@ -37035,7 +37035,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-09-2020,Jamaica,4164.0,1180.0,46.0
 17-09-2020,Japan,76997.0,68110.0,1481.0
 17-09-2020,Jordan,3852.0,2349.0,26.0
-17-09-2020,Kazakhstan,107056.0,101455.0,1671.0
+17-09-2020,Kazakhstan,137058.0,108097.0,2003.0
 17-09-2020,Kenya,36301.0,23364.0,634.0
 17-09-2020,South Korea,22657.0,19543.0,372.0
 17-09-2020,Kosovo,14839.0,11949.0,604.0
@@ -37134,8 +37134,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-09-2020,Yemen,2019.0,1221.0,583.0
 17-09-2020,Zambia,13887.0,12869.0,326.0
 17-09-2020,Zimbabwe,7598.0,5823.0,224.0
-17-09-2020,Global Total,29856310.0,20318600.0,940796.0
-18-09-2020,Afghanistan,38872.0,32505.0,1436.0
+17-09-2020,Global Total,29886312.0,20325242.0,941130.0
+18-09-2020,Afghanistan,38872.0,32505.0,1438.0
 18-09-2020,Albania,11948.0,6788.0,347.0
 18-09-2020,Algeria,49194.0,34675.0,1654.0
 18-09-2020,Andorra,1483.0,1054.0,53.0
@@ -37224,7 +37224,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-09-2020,Jamaica,4374.0,1225.0,51.0
 18-09-2020,Japan,77488.0,68827.0,1490.0
 18-09-2020,Jordan,4131.0,2415.0,26.0
-18-09-2020,Kazakhstan,107134.0,101610.0,1671.0
+18-09-2020,Kazakhstan,137393.0,108252.0,2006.0
 18-09-2020,Kenya,36576.0,23611.0,642.0
 18-09-2020,South Korea,22783.0,19771.0,377.0
 18-09-2020,Kosovo,14882.0,12188.0,607.0
@@ -37323,8 +37323,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-09-2020,Yemen,2022.0,1221.0,585.0
 18-09-2020,Zambia,13928.0,13029.0,326.0
 18-09-2020,Zimbabwe,7633.0,5841.0,224.0
-18-09-2020,Global Total,30170279.0,20538086.0,946251.0
-19-09-2020,Afghanistan,38883.0,32576.0,1437.0
+18-09-2020,Global Total,30200538.0,20544728.0,946588.0
+19-09-2020,Afghanistan,38897.0,32576.0,1439.0
 19-09-2020,Albania,12073.0,6831.0,353.0
 19-09-2020,Algeria,49413.0,34818.0,1659.0
 19-09-2020,Andorra,1564.0,1164.0,53.0
@@ -37413,7 +37413,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-09-2020,Jamaica,4571.0,1264.0,55.0
 19-09-2020,Japan,78061.0,69468.0,1500.0
 19-09-2020,Jordan,4344.0,2511.0,29.0
-19-09-2020,Kazakhstan,107199.0,101822.0,1671.0
+19-09-2020,Kazakhstan,137713.0,108464.0,2008.0
 19-09-2020,Kenya,36724.0,23709.0,646.0
 19-09-2020,South Korea,22893.0,19970.0,378.0
 19-09-2020,Kosovo,14939.0,12325.0,611.0
@@ -37512,8 +37512,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-09-2020,Yemen,2024.0,1221.0,585.0
 19-09-2020,Zambia,14022.0,13207.0,329.0
 19-09-2020,Zimbabwe,7647.0,5883.0,224.0
-19-09-2020,Global Total,30493785.0,20790028.0,951954.0
-20-09-2020,Afghanistan,38919.0,32576.0,1437.0
+19-09-2020,Global Total,30524313.0,20796670.0,952293.0
+20-09-2020,Afghanistan,38919.0,32576.0,1439.0
 20-09-2020,Albania,12226.0,6888.0,358.0
 20-09-2020,Algeria,49623.0,34923.0,1665.0
 20-09-2020,Andorra,1564.0,1164.0,53.0
@@ -37602,7 +37602,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-09-2020,Jamaica,4758.0,1327.0,60.0
 20-09-2020,Japan,78662.0,70051.0,1504.0
 20-09-2020,Jordan,4540.0,2672.0,30.0
-20-09-2020,Kazakhstan,107262.0,101877.0,1671.0
+20-09-2020,Kazakhstan,138013.0,108519.0,2009.0
 20-09-2020,Kenya,36829.0,23777.0,646.0
 20-09-2020,South Korea,22975.0,20158.0,383.0
 20-09-2020,Kosovo,15002.0,12451.0,614.0
@@ -37701,8 +37701,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-09-2020,Yemen,2026.0,1221.0,585.0
 20-09-2020,Zambia,14070.0,13365.0,330.0
 20-09-2020,Zimbabwe,7672.0,5914.0,225.0
-20-09-2020,Global Total,30773352.0,21027965.0,957192.0
-21-09-2020,Afghanistan,39044.0,32576.0,1441.0
+20-09-2020,Global Total,30804103.0,21034607.0,957532.0
+21-09-2020,Afghanistan,39044.0,32576.0,1443.0
 21-09-2020,Albania,12385.0,6940.0,362.0
 21-09-2020,Algeria,49826.0,35047.0,1672.0
 21-09-2020,Andorra,1564.0,1164.0,53.0
@@ -37791,7 +37791,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-09-2020,Jamaica,4988.0,1350.0,67.0
 21-09-2020,Japan,79142.0,70604.0,1508.0
 21-09-2020,Jordan,4779.0,2844.0,30.0
-21-09-2020,Kazakhstan,107307.0,101941.0,1671.0
+21-09-2020,Kazakhstan,138348.0,108583.0,2014.0
 21-09-2020,Kenya,36981.0,23887.0,648.0
 21-09-2020,South Korea,23045.0,20248.0,385.0
 21-09-2020,Kosovo,15063.0,12570.0,614.0
@@ -37890,8 +37890,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-09-2020,Yemen,2026.0,1227.0,586.0
 21-09-2020,Zambia,14131.0,13365.0,330.0
 21-09-2020,Zimbabwe,7683.0,5924.0,225.0
-21-09-2020,Global Total,31016379.0,21264098.0,960902.0
-22-09-2020,Afghanistan,39074.0,32576.0,1444.0
+21-09-2020,Global Total,31047420.0,21270740.0,961247.0
+22-09-2020,Afghanistan,39074.0,32576.0,1446.0
 22-09-2020,Albania,12535.0,6995.0,364.0
 22-09-2020,Algeria,50023.0,35180.0,1679.0
 22-09-2020,Andorra,1681.0,1199.0,53.0
@@ -37980,7 +37980,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-09-2020,Jamaica,5143.0,1407.0,70.0
 22-09-2020,Japan,79462.0,70970.0,1518.0
 22-09-2020,Jordan,5045.0,3527.0,32.0
-22-09-2020,Kazakhstan,107374.0,102064.0,1671.0
+22-09-2020,Kazakhstan,138455.0,108706.0,2015.0
 22-09-2020,Kenya,37079.0,23949.0,650.0
 22-09-2020,South Korea,23106.0,20441.0,388.0
 22-09-2020,Kosovo,15142.0,12674.0,615.0
@@ -38079,8 +38079,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-09-2020,Yemen,2028.0,1235.0,586.0
 22-09-2020,Zambia,14175.0,13629.0,331.0
 22-09-2020,Zimbabwe,7683.0,5924.0,225.0
-22-09-2020,Global Total,31314834.0,21507448.0,965023.0
-23-09-2020,Afghanistan,39096.0,32576.0,1445.0
+22-09-2020,Global Total,31345915.0,21514090.0,965369.0
+23-09-2020,Afghanistan,39096.0,32576.0,1447.0
 23-09-2020,Albania,12666.0,7042.0,367.0
 23-09-2020,Algeria,50214.0,35307.0,1689.0
 23-09-2020,Andorra,1681.0,1199.0,53.0
@@ -38169,7 +38169,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-09-2020,Jamaica,5270.0,1444.0,75.0
 23-09-2020,Japan,79773.0,71214.0,1519.0
 23-09-2020,Jordan,5679.0,3707.0,33.0
-23-09-2020,Kazakhstan,107450.0,102064.0,1699.0
+23-09-2020,Kazakhstan,138542.0,108706.0,2016.0
 23-09-2020,Kenya,37218.0,24147.0,659.0
 23-09-2020,South Korea,23216.0,20650.0,388.0
 23-09-2020,Kosovo,15208.0,12815.0,615.0
@@ -38268,8 +38268,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-09-2020,Yemen,2028.0,1240.0,586.0
 23-09-2020,Zambia,14389.0,13629.0,331.0
 23-09-2020,Zimbabwe,7711.0,5979.0,226.0
-23-09-2020,Global Total,31594602.0,21727303.0,971005.0
-24-09-2020,Afghanistan,39145.0,32610.0,1446.0
+23-09-2020,Global Total,31625694.0,21733945.0,971324.0
+24-09-2020,Afghanistan,39145.0,32610.0,1448.0
 24-09-2020,Albania,12787.0,7139.0,370.0
 24-09-2020,Algeria,50400.0,35428.0,1698.0
 24-09-2020,Andorra,1753.0,1203.0,53.0
@@ -38358,7 +38358,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-09-2020,Jamaica,5395.0,1444.0,76.0
 24-09-2020,Japan,80009.0,71547.0,1525.0
 24-09-2020,Jordan,6042.0,3812.0,35.0
-24-09-2020,Kazakhstan,107529.0,102323.0,1699.0
+24-09-2020,Kazakhstan,138982.0,108965.0,2044.0
 24-09-2020,Kenya,37348.0,24253.0,664.0
 24-09-2020,South Korea,23341.0,20832.0,393.0
 24-09-2020,Kosovo,15270.0,12900.0,616.0
@@ -38457,8 +38457,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-09-2020,Yemen,2029.0,1245.0,586.0
 24-09-2020,Zambia,14443.0,13629.0,332.0
 24-09-2020,Zimbabwe,7725.0,6007.0,227.0
-24-09-2020,Global Total,31861824.0,21991024.0,976617.0
-25-09-2020,Afghanistan,39170.0,32619.0,1451.0
+24-09-2020,Global Total,31893277.0,21997666.0,976964.0
+25-09-2020,Afghanistan,39170.0,32619.0,1453.0
 25-09-2020,Albania,12921.0,7239.0,370.0
 25-09-2020,Algeria,50579.0,35544.0,1703.0
 25-09-2020,Andorra,1753.0,1203.0,53.0
@@ -38547,7 +38547,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-09-2020,Jamaica,5588.0,1490.0,77.0
 25-09-2020,Japan,80490.0,72066.0,1540.0
 25-09-2020,Jordan,6591.0,3937.0,36.0
-25-09-2020,Kazakhstan,107590.0,102360.0,1699.0
+25-09-2020,Kazakhstan,139289.0,109002.0,2045.0
 25-09-2020,Kenya,37489.0,24334.0,669.0
 25-09-2020,South Korea,23455.0,20978.0,395.0
 25-09-2020,Kosovo,15333.0,12987.0,616.0
@@ -38646,8 +38646,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-09-2020,Yemen,2029.0,1250.0,586.0
 25-09-2020,Zambia,14491.0,13643.0,332.0
 25-09-2020,Zimbabwe,7752.0,6043.0,227.0
-25-09-2020,Global Total,32224421.0,22245775.0,983336.0
-26-09-2020,Afghanistan,39186.0,32619.0,1451.0
+25-09-2020,Global Total,32256120.0,22252417.0,983684.0
+26-09-2020,Afghanistan,39186.0,32619.0,1453.0
 26-09-2020,Albania,13045.0,7309.0,373.0
 26-09-2020,Algeria,50754.0,35654.0,1707.0
 26-09-2020,Andorra,1836.0,1263.0,53.0
@@ -38736,7 +38736,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-09-2020,Jamaica,5723.0,1496.0,80.0
 26-09-2020,Japan,81054.0,73016.0,1544.0
 26-09-2020,Jordan,7211.0,4035.0,39.0
-26-09-2020,Kazakhstan,107659.0,102530.0,1699.0
+26-09-2020,Kazakhstan,139581.0,109172.0,2046.0
 26-09-2020,Kenya,37707.0,24504.0,682.0
 26-09-2020,South Korea,23516.0,21166.0,399.0
 26-09-2020,Kosovo,15379.0,13088.0,617.0
@@ -38835,8 +38835,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-09-2020,Yemen,2029.0,1255.0,587.0
 26-09-2020,Zambia,14515.0,13643.0,332.0
 26-09-2020,Zimbabwe,7787.0,6057.0,227.0
-26-09-2020,Global Total,32552288.0,22485502.0,989239.0
-27-09-2020,Afghanistan,39192.0,32635.0,1453.0
+26-09-2020,Global Total,32584210.0,22492144.0,989588.0
+27-09-2020,Afghanistan,39192.0,32635.0,1455.0
 27-09-2020,Albania,13153.0,7397.0,375.0
 27-09-2020,Algeria,50914.0,35756.0,1711.0
 27-09-2020,Andorra,1836.0,1263.0,53.0
@@ -38925,7 +38925,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-09-2020,Jamaica,5854.0,1624.0,88.0
 27-09-2020,Japan,81703.0,73677.0,1547.0
 27-09-2020,Jordan,8061.0,4131.0,43.0
-27-09-2020,Kazakhstan,107723.0,102666.0,1699.0
+27-09-2020,Kazakhstan,139882.0,129631.0,2046.0
 27-09-2020,Kenya,37871.0,24581.0,689.0
 27-09-2020,South Korea,23611.0,21248.0,401.0
 27-09-2020,Kosovo,15425.0,13165.0,619.0
@@ -39024,8 +39024,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-09-2020,Yemen,2030.0,1260.0,587.0
 27-09-2020,Zambia,14612.0,13727.0,332.0
 27-09-2020,Zimbabwe,7803.0,6067.0,227.0
-27-09-2020,Global Total,32829197.0,22728853.0,994526.0
-28-09-2020,Afghanistan,39227.0,32642.0,1453.0
+27-09-2020,Global Total,32861356.0,22755818.0,994875.0
+28-09-2020,Afghanistan,39227.0,32642.0,1455.0
 28-09-2020,Albania,13259.0,7397.0,377.0
 28-09-2020,Algeria,51067.0,35860.0,1714.0
 28-09-2020,Andorra,1836.0,1263.0,53.0
@@ -39114,7 +39114,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-09-2020,Jamaica,6017.0,1706.0,89.0
 28-09-2020,Japan,82186.0,73677.0,1549.0
 28-09-2020,Jordan,8492.0,4222.0,45.0
-28-09-2020,Kazakhstan,107775.0,102736.0,1699.0
+28-09-2020,Kazakhstan,140175.0,129701.0,2048.0
 28-09-2020,Kenya,38115.0,24621.0,691.0
 28-09-2020,South Korea,23661.0,21292.0,406.0
 28-09-2020,Kosovo,15472.0,13278.0,622.0
@@ -39213,8 +39213,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-09-2020,Yemen,2030.0,1266.0,587.0
 28-09-2020,Zambia,14641.0,13784.0,332.0
 28-09-2020,Zimbabwe,7812.0,6106.0,227.0
-28-09-2020,Global Total,33070312.0,22939253.0,998144.0
-29-09-2020,Afghanistan,39233.0,32642.0,1455.0
+28-09-2020,Global Total,33102712.0,22966218.0,998495.0
+29-09-2020,Afghanistan,39239.0,32642.0,1458.0
 29-09-2020,Albania,13391.0,7629.0,380.0
 29-09-2020,Algeria,51213.0,35962.0,1719.0
 29-09-2020,Andorra,1966.0,1265.0,53.0
@@ -39303,7 +39303,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-09-2020,Jamaica,6170.0,1741.0,93.0
 29-09-2020,Japan,82484.0,74495.0,1561.0
 29-09-2020,Jordan,9226.0,4359.0,51.0
-29-09-2020,Kazakhstan,107833.0,102805.0,1699.0
+29-09-2020,Kazakhstan,140265.0,129770.0,2049.0
 29-09-2020,Kenya,38168.0,24681.0,700.0
 29-09-2020,South Korea,23699.0,21470.0,407.0
 29-09-2020,Kosovo,15520.0,13420.0,625.0
@@ -39402,8 +39402,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-09-2020,Yemen,2031.0,1266.0,587.0
 29-09-2020,Zambia,14660.0,13821.0,332.0
 29-09-2020,Zimbabwe,7816.0,6112.0,228.0
-29-09-2020,Global Total,33346336.0,23164809.0,1002070.0
-30-09-2020,Afghanistan,39254.0,32746.0,1458.0
+29-09-2020,Global Total,33378774.0,23191774.0,1002423.0
+30-09-2020,Afghanistan,39254.0,32746.0,1460.0
 30-09-2020,Albania,13518.0,7732.0,384.0
 30-09-2020,Algeria,51368.0,36063.0,1726.0
 30-09-2020,Andorra,1966.0,1265.0,53.0
@@ -39492,7 +39492,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-09-2020,Jamaica,6408.0,1770.0,101.0
 30-09-2020,Japan,83022.0,74962.0,1568.0
 30-09-2020,Jordan,10049.0,4496.0,57.0
-30-09-2020,Kazakhstan,107908.0,102874.0,1725.0
+30-09-2020,Kazakhstan,140333.0,129839.0,2050.0
 30-09-2020,Kenya,38378.0,24740.0,707.0
 30-09-2020,South Korea,23812.0,21590.0,413.0
 30-09-2020,Kosovo,15574.0,13492.0,625.0
@@ -39591,8 +39591,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-09-2020,Yemen,2031.0,1275.0,587.0
 30-09-2020,Zambia,14715.0,13937.0,332.0
 30-09-2020,Zimbabwe,7837.0,6122.0,228.0
-30-09-2020,Global Total,33631070.0,23402735.0,1008163.0
-01-10-2020,Afghanistan,39268.0,32789.0,1458.0
+30-09-2020,Global Total,33663495.0,23429700.0,1008490.0
+01-10-2020,Afghanistan,39268.0,32789.0,1460.0
 01-10-2020,Albania,13649.0,7847.0,387.0
 01-10-2020,Algeria,51530.0,36174.0,1736.0
 01-10-2020,Andorra,2050.0,1432.0,53.0
@@ -39681,7 +39681,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-10-2020,Jamaica,6482.0,1867.0,107.0
 01-10-2020,Japan,83591.0,75522.0,1575.0
 01-10-2020,Jordan,11825.0,4626.0,61.0
-01-10-2020,Kazakhstan,107979.0,102937.0,1725.0
+01-10-2020,Kazakhstan,140707.0,129902.0,2078.0
 01-10-2020,Kenya,38529.0,24908.0,711.0
 01-10-2020,South Korea,23889.0,21666.0,415.0
 01-10-2020,Kosovo,15620.0,13554.0,625.0
@@ -39780,8 +39780,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-10-2020,Yemen,2034.0,1286.0,587.0
 01-10-2020,Zambia,14759.0,13959.0,332.0
 01-10-2020,Zimbabwe,7838.0,6303.0,228.0
-01-10-2020,Global Total,33957884.0,23652271.0,1014565.0
-02-10-2020,Afghanistan,39285.0,32842.0,1458.0
+01-10-2020,Global Total,33990612.0,23679236.0,1014920.0
+02-10-2020,Afghanistan,39285.0,32842.0,1460.0
 02-10-2020,Albania,13806.0,8077.0,388.0
 02-10-2020,Algeria,51690.0,36282.0,1741.0
 02-10-2020,Andorra,2050.0,1432.0,53.0
@@ -39870,7 +39870,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-10-2020,Jamaica,6555.0,1991.0,111.0
 02-10-2020,Japan,84244.0,76081.0,1580.0
 02-10-2020,Jordan,13101.0,4752.0,69.0
-02-10-2020,Kazakhstan,108044.0,103028.0,1725.0
+02-10-2020,Kazakhstan,140958.0,129993.0,2080.0
 02-10-2020,Kenya,38713.0,24908.0,711.0
 02-10-2020,South Korea,23952.0,21733.0,416.0
 02-10-2020,Kosovo,15663.0,13677.0,627.0
@@ -39969,8 +39969,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-10-2020,Yemen,2039.0,1297.0,587.0
 02-10-2020,Zambia,14802.0,13961.0,333.0
 02-10-2020,Zimbabwe,7850.0,6312.0,228.0
-02-10-2020,Global Total,34275807.0,23872886.0,1023258.0
-03-10-2020,Afghanistan,39290.0,32842.0,1458.0
+02-10-2020,Global Total,34308721.0,23899851.0,1023615.0
+03-10-2020,Afghanistan,39290.0,32842.0,1460.0
 03-10-2020,Albania,13965.0,8342.0,389.0
 03-10-2020,Algeria,51847.0,36385.0,1749.0
 03-10-2020,Andorra,2110.0,1540.0,53.0
@@ -40059,7 +40059,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-10-2020,Jamaica,6704.0,2112.0,116.0
 03-10-2020,Japan,84768.0,76700.0,1591.0
 03-10-2020,Jordan,13650.0,4929.0,79.0
-03-10-2020,Kazakhstan,108106.0,103110.0,1725.0
+03-10-2020,Kazakhstan,141256.0,130447.0,2082.0
 03-10-2020,Kenya,38923.0,25114.0,725.0
 03-10-2020,South Korea,24027.0,21787.0,420.0
 03-10-2020,Kosovo,15705.0,13731.0,627.0
@@ -40158,8 +40158,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-10-2020,Yemen,2040.0,1307.0,589.0
 03-10-2020,Zambia,14830.0,13980.0,333.0
 03-10-2020,Zimbabwe,7858.0,6322.0,228.0
-03-10-2020,Global Total,34571172.0,24044783.0,1028247.0
-04-10-2020,Afghanistan,39297.0,32842.0,1462.0
+03-10-2020,Global Total,34604322.0,24072120.0,1028606.0
+04-10-2020,Afghanistan,39297.0,32842.0,1464.0
 04-10-2020,Albania,14117.0,8536.0,392.0
 04-10-2020,Algeria,51995.0,36482.0,1756.0
 04-10-2020,Andorra,2110.0,1540.0,53.0
@@ -40248,7 +40248,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-10-2020,Jamaica,6795.0,2345.0,119.0
 04-10-2020,Japan,85345.0,76700.0,1594.0
 04-10-2020,Jordan,14749.0,5101.0,88.0
-04-10-2020,Kazakhstan,108177.0,103205.0,1725.0
+04-10-2020,Kazakhstan,141484.0,130542.0,2083.0
 04-10-2020,Kenya,39184.0,25426.0,728.0
 04-10-2020,South Korea,24091.0,21845.0,421.0
 04-10-2020,Kosovo,15758.0,13787.0,630.0
@@ -40347,8 +40347,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-10-2020,Yemen,2041.0,1320.0,589.0
 04-10-2020,Zambia,14974.0,14094.0,333.0
 04-10-2020,Zimbabwe,7885.0,6327.0,228.0
-04-10-2020,Global Total,34889804.0,24302969.0,1033592.0
-05-10-2020,Afghanistan,39341.0,32852.0,1462.0
+04-10-2020,Global Total,34923111.0,24330306.0,1033952.0
+05-10-2020,Afghanistan,39341.0,32852.0,1464.0
 05-10-2020,Albania,14266.0,8675.0,396.0
 05-10-2020,Algeria,52136.0,36578.0,1760.0
 05-10-2020,Andorra,2110.0,1540.0,53.0
@@ -40437,7 +40437,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-10-2020,Jamaica,6895.0,2460.0,120.0
 05-10-2020,Japan,85746.0,77851.0,1598.0
 05-10-2020,Jordan,15640.0,5240.0,101.0
-05-10-2020,Kazakhstan,108236.0,103277.0,1725.0
+05-10-2020,Kazakhstan,141748.0,130614.0,2083.0
 05-10-2020,Kenya,39427.0,25659.0,731.0
 05-10-2020,South Korea,24164.0,21886.0,422.0
 05-10-2020,Kosovo,15814.0,13856.0,630.0
@@ -40536,8 +40536,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-10-2020,Yemen,2041.0,1320.0,591.0
 05-10-2020,Zambia,15052.0,14187.0,333.0
 05-10-2020,Zimbabwe,7888.0,6359.0,228.0
-05-10-2020,Global Total,35138269.0,24521170.0,1037368.0
-06-10-2020,Afghanistan,39422.0,32879.0,1466.0
+05-10-2020,Global Total,35171781.0,24548507.0,1037728.0
+06-10-2020,Afghanistan,39422.0,32879.0,1468.0
 06-10-2020,Albania,14410.0,8825.0,400.0
 06-10-2020,Algeria,52270.0,36672.0,1768.0
 06-10-2020,Andorra,2370.0,1615.0,53.0
@@ -40626,7 +40626,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-10-2020,Jamaica,7012.0,2635.0,120.0
 06-10-2020,Japan,86027.0,78071.0,1602.0
 06-10-2020,Jordan,17464.0,5292.0,110.0
-06-10-2020,Kazakhstan,108296.0,103367.0,1725.0
+06-10-2020,Kazakhstan,141844.0,130874.0,2085.0
 06-10-2020,Kenya,39449.0,27035.0,735.0
 06-10-2020,South Korea,24239.0,22083.0,422.0
 06-10-2020,Kosovo,15855.0,13929.0,633.0
@@ -40725,8 +40725,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-10-2020,Yemen,2041.0,1323.0,592.0
 06-10-2020,Zambia,15089.0,14306.0,334.0
 06-10-2020,Zimbabwe,7898.0,6424.0,228.0
-06-10-2020,Global Total,35467660.0,24760057.0,1044377.0
-07-10-2020,Afghanistan,39486.0,32977.0,1467.0
+06-10-2020,Global Total,35501208.0,24787564.0,1044739.0
+07-10-2020,Afghanistan,39486.0,32977.0,1469.0
 07-10-2020,Albania,14568.0,8965.0,403.0
 07-10-2020,Algeria,52399.0,36763.0,1768.0
 07-10-2020,Andorra,2370.0,1615.0,53.0
@@ -40815,7 +40815,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-10-2020,Jamaica,7109.0,2674.0,123.0
 07-10-2020,Japan,86540.0,78521.0,1609.0
 07-10-2020,Jordan,19001.0,5386.0,122.0
-07-10-2020,Kazakhstan,108362.0,103465.0,1746.0
+07-10-2020,Kazakhstan,141904.0,130972.0,2085.0
 07-10-2020,Kenya,39586.0,27331.0,743.0
 07-10-2020,South Korea,24353.0,22334.0,425.0
 07-10-2020,Kosovo,15889.0,14051.0,635.0
@@ -40914,8 +40914,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-10-2020,Yemen,2047.0,1327.0,593.0
 07-10-2020,Zambia,15170.0,14313.0,335.0
 07-10-2020,Zimbabwe,7915.0,6440.0,229.0
-07-10-2020,Global Total,35793012.0,24993149.0,1050159.0
-08-10-2020,Afghanistan,39548.0,33045.0,1469.0
+07-10-2020,Global Total,35826554.0,25020656.0,1050500.0
+08-10-2020,Afghanistan,39548.0,33045.0,1471.0
 08-10-2020,Albania,14730.0,9115.0,407.0
 08-10-2020,Algeria,52520.0,36857.0,1771.0
 08-10-2020,Andorra,2568.0,1715.0,53.0
@@ -41004,7 +41004,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-10-2020,Jamaica,7191.0,2700.0,126.0
 08-10-2020,Japan,87039.0,79123.0,1614.0
 08-10-2020,Jordan,20200.0,5575.0,131.0
-08-10-2020,Kazakhstan,108454.0,103604.0,1746.0
+08-10-2020,Kazakhstan,142239.0,131111.0,2107.0
 08-10-2020,Kenya,39907.0,31659.0,748.0
 08-10-2020,South Korea,24422.0,22463.0,427.0
 08-10-2020,Kosovo,15938.0,14143.0,638.0
@@ -41103,8 +41103,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-10-2020,Yemen,2049.0,1328.0,593.0
 08-10-2020,Zambia,15224.0,14342.0,335.0
 08-10-2020,Zimbabwe,7919.0,6441.0,229.0
-08-10-2020,Global Total,36142566.0,25248549.0,1055982.0
-09-10-2020,Afghanistan,39616.0,33058.0,1470.0
+08-10-2020,Global Total,36176351.0,25276056.0,1056345.0
+09-10-2020,Afghanistan,39616.0,33058.0,1472.0
 09-10-2020,Albania,14899.0,9215.0,411.0
 09-10-2020,Algeria,52658.0,36958.0,1783.0
 09-10-2020,Andorra,2568.0,1715.0,54.0
@@ -41193,7 +41193,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-10-2020,Jamaica,7273.0,2732.0,128.0
 09-10-2020,Japan,87679.0,79674.0,1617.0
 09-10-2020,Jordan,21517.0,5777.0,144.0
-09-10-2020,Kazakhstan,108561.0,103758.0,1746.0
+09-10-2020,Kazakhstan,142597.0,131330.0,2108.0
 09-10-2020,Kenya,40178.0,31710.0,751.0
 09-10-2020,South Korea,24476.0,22569.0,428.0
 09-10-2020,Kosovo,15971.0,14189.0,638.0
@@ -41292,8 +41292,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-10-2020,Yemen,2050.0,1329.0,593.0
 09-10-2020,Zambia,15301.0,14365.0,335.0
 09-10-2020,Zimbabwe,7951.0,6446.0,229.0
-09-10-2020,Global Total,36504174.0,25468041.0,1062229.0
-10-10-2020,Afghanistan,39693.0,33058.0,1472.0
+09-10-2020,Global Total,36538210.0,25495613.0,1062593.0
+10-10-2020,Afghanistan,39693.0,33058.0,1474.0
 10-10-2020,Albania,15066.0,9304.0,413.0
 10-10-2020,Algeria,52804.0,37067.0,1789.0
 10-10-2020,Andorra,2696.0,1814.0,55.0
@@ -41382,7 +41382,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-10-2020,Jamaica,7363.0,3102.0,132.0
 10-10-2020,Japan,88267.0,80140.0,1623.0
 10-10-2020,Jordan,22763.0,5906.0,166.0
-10-10-2020,Kazakhstan,108663.0,103910.0,1746.0
+10-10-2020,Kazakhstan,142945.0,131482.0,2110.0
 10-10-2020,Kenya,40620.0,31876.0,755.0
 10-10-2020,South Korea,24548.0,22624.0,430.0
 10-10-2020,Kosovo,16050.0,14250.0,641.0
@@ -41481,8 +41481,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-10-2020,Yemen,2051.0,1329.0,593.0
 10-10-2020,Zambia,15339.0,14439.0,336.0
 10-10-2020,Zimbabwe,7994.0,6474.0,229.0
-10-10-2020,Global Total,36863620.0,25673338.0,1068322.0
-11-10-2020,Afghanistan,39703.0,33064.0,1473.0
+10-10-2020,Global Total,36897902.0,25700910.0,1068688.0
+11-10-2020,Afghanistan,39703.0,33064.0,1475.0
 11-10-2020,Albania,15231.0,9406.0,416.0
 11-10-2020,Algeria,52940.0,37170.0,1795.0
 11-10-2020,Andorra,2696.0,1814.0,55.0
@@ -41571,7 +41571,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-10-2020,Jamaica,7559.0,3142.0,138.0
 11-10-2020,Japan,88962.0,80798.0,1626.0
 11-10-2020,Jordan,23998.0,6045.0,181.0
-11-10-2020,Kazakhstan,108757.0,103980.0,1746.0
+11-10-2020,Kazakhstan,143280.0,131552.0,2111.0
 11-10-2020,Kenya,41158.0,31876.0,760.0
 11-10-2020,South Korea,24606.0,22693.0,432.0
 11-10-2020,Kosovo,16130.0,14282.0,645.0
@@ -41670,8 +41670,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-10-2020,Yemen,2051.0,1329.0,595.0
 11-10-2020,Zambia,15415.0,14541.0,337.0
 11-10-2020,Zimbabwe,8010.0,6492.0,230.0
-11-10-2020,Global Total,37193872.0,25865384.0,1073154.0
-12-10-2020,Afghanistan,39799.0,33114.0,1477.0
+11-10-2020,Global Total,37228395.0,25892956.0,1073521.0
+12-10-2020,Afghanistan,39799.0,33114.0,1479.0
 12-10-2020,Albania,15399.0,9500.0,420.0
 12-10-2020,Algeria,53072.0,37170.0,1801.0
 12-10-2020,Andorra,2696.0,1814.0,55.0
@@ -41760,7 +41760,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-10-2020,Jamaica,7718.0,3162.0,139.0
 12-10-2020,Japan,89400.0,81266.0,1628.0
 12-10-2020,Jordan,24926.0,6101.0,191.0
-12-10-2020,Kazakhstan,108831.0,104041.0,1746.0
+12-10-2020,Kazakhstan,143632.0,131613.0,2113.0
 12-10-2020,Kenya,41546.0,32000.0,766.0
 12-10-2020,South Korea,24703.0,22729.0,433.0
 12-10-2020,Kosovo,16179.0,14335.0,647.0
@@ -41859,8 +41859,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-10-2020,Yemen,2052.0,1329.0,595.0
 12-10-2020,Zambia,15458.0,14599.0,337.0
 12-10-2020,Zimbabwe,8011.0,6504.0,230.0
-12-10-2020,Global Total,37463568.0,26083210.0,1077072.0
-13-10-2020,Afghanistan,39870.0,33118.0,1479.0
+12-10-2020,Global Total,37498369.0,26110782.0,1077441.0
+13-10-2020,Afghanistan,39870.0,33118.0,1481.0
 13-10-2020,Albania,15570.0,9585.0,424.0
 13-10-2020,Algeria,53325.0,37382.0,1809.0
 13-10-2020,Andorra,2995.0,1928.0,57.0
@@ -41949,7 +41949,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-10-2020,Jamaica,7813.0,3237.0,146.0
 13-10-2020,Japan,89652.0,81552.0,1631.0
 13-10-2020,Jordan,26073.0,6219.0,207.0
-13-10-2020,Kazakhstan,108901.0,104203.0,1746.0
+13-10-2020,Kazakhstan,143740.0,131879.0,2114.0
 13-10-2020,Kenya,41619.0,32000.0,777.0
 13-10-2020,South Korea,24805.0,22863.0,434.0
 13-10-2020,Kosovo,16247.0,14368.0,648.0
@@ -42049,8 +42049,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-10-2020,Yemen,2052.0,1329.0,596.0
 13-10-2020,Zambia,15549.0,14682.0,345.0
 13-10-2020,Zimbabwe,8021.0,7627.0,230.0
-13-10-2020,Global Total,37788829.0,26287563.0,1081015.0
-14-10-2020,Afghanistan,39928.0,33308.0,1480.0
+13-10-2020,Global Total,37823668.0,26315239.0,1081385.0
+14-10-2020,Afghanistan,39928.0,33308.0,1482.0
 14-10-2020,Albania,15752.0,9675.0,429.0
 14-10-2020,Algeria,53399.0,37492.0,1818.0
 14-10-2020,Andorra,2995.0,1928.0,57.0
@@ -42139,7 +42139,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-10-2020,Jamaica,7910.0,3303.0,146.0
 14-10-2020,Japan,90153.0,82063.0,1635.0
 14-10-2020,Jordan,28127.0,6361.0,225.0
-14-10-2020,Kazakhstan,108984.0,104346.0,1768.0
+14-10-2020,Kazakhstan,143814.0,132055.0,2116.0
 14-10-2020,Kenya,41937.0,31340.0,787.0
 14-10-2020,South Korea,24889.0,23030.0,438.0
 14-10-2020,Kosovo,16345.0,14405.0,649.0
@@ -42239,8 +42239,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-10-2020,Yemen,2053.0,1329.0,596.0
 14-10-2020,Zambia,15587.0,14783.0,345.0
 14-10-2020,Zimbabwe,8036.0,7632.0,230.0
-14-10-2020,Global Total,38117691.0,26481246.0,1086471.0
-15-10-2020,Afghanistan,39994.0,33354.0,1481.0
+14-10-2020,Global Total,38152521.0,26508955.0,1086821.0
+15-10-2020,Afghanistan,39994.0,33354.0,1483.0
 15-10-2020,Albania,15955.0,9762.0,434.0
 15-10-2020,Algeria,53584.0,37603.0,1827.0
 15-10-2020,Andorra,3190.0,2011.0,59.0
@@ -42329,7 +42329,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-10-2020,Jamaica,7989.0,3431.0,151.0
 15-10-2020,Japan,90694.0,82576.0,1646.0
 15-10-2020,Jordan,30550.0,6466.0,257.0
-15-10-2020,Kazakhstan,109094.0,104525.0,1768.0
+15-10-2020,Kazakhstan,144218.0,132503.0,2141.0
 15-10-2020,Kenya,42541.0,31428.0,797.0
 15-10-2020,South Korea,24988.0,23082.0,439.0
 15-10-2020,Kosovo,16425.0,14455.0,650.0
@@ -42429,8 +42429,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-10-2020,Yemen,2053.0,1329.0,596.0
 15-10-2020,Zambia,15616.0,14850.0,345.0
 15-10-2020,Zimbabwe,8055.0,7640.0,231.0
-15-10-2020,Global Total,38498286.0,26693195.0,1092490.0
-16-10-2020,Afghanistan,40026.0,33447.0,1481.0
+15-10-2020,Global Total,38533410.0,26721173.0,1092865.0
+16-10-2020,Afghanistan,40026.0,33447.0,1483.0
 16-10-2020,Albania,16212.0,9864.0,439.0
 16-10-2020,Algeria,53777.0,37603.0,1827.0
 16-10-2020,Andorra,3190.0,2011.0,59.0
@@ -42519,7 +42519,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-10-2020,Jamaica,8067.0,3481.0,160.0
 16-10-2020,Japan,91402.0,83272.0,1650.0
 16-10-2020,Jordan,33009.0,6565.0,282.0
-16-10-2020,Kazakhstan,109202.0,104801.0,1768.0
+16-10-2020,Kazakhstan,144328.0,132861.0,2141.0
 16-10-2020,Kenya,43143.0,31508.0,805.0
 16-10-2020,South Korea,25035.0,23180.0,441.0
 16-10-2020,Kosovo,16502.0,14514.0,650.0
@@ -42619,8 +42619,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-10-2020,Yemen,2053.0,1329.0,596.0
 16-10-2020,Zambia,15659.0,14899.0,346.0
 16-10-2020,Zimbabwe,8075.0,7669.0,231.0
-16-10-2020,Global Total,38905694.0,26900376.0,1098593.0
-17-10-2020,Afghanistan,40073.0,33516.0,1485.0
+16-10-2020,Global Total,38940820.0,26928436.0,1098968.0
+17-10-2020,Afghanistan,40088.0,33516.0,1487.0
 17-10-2020,Albania,16501.0,9957.0,443.0
 17-10-2020,Algeria,53998.0,37856.0,1841.0
 17-10-2020,Andorra,3377.0,2057.0,59.0
@@ -42709,7 +42709,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-10-2020,Jamaica,8132.0,3653.0,162.0
 17-10-2020,Japan,92044.0,83882.0,1664.0
 17-10-2020,Jordan,34548.0,6692.0,310.0
-17-10-2020,Kazakhstan,109302.0,104921.0,1768.0
+17-10-2020,Kazakhstan,144761.0,133039.0,2144.0
 17-10-2020,Kenya,43580.0,31648.0,813.0
 17-10-2020,South Korea,25108.0,23258.0,443.0
 17-10-2020,Kosovo,16606.0,14556.0,652.0
@@ -42809,8 +42809,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-10-2020,Yemen,2055.0,1335.0,596.0
 17-10-2020,Zambia,15659.0,14899.0,346.0
 17-10-2020,Zimbabwe,8099.0,7673.0,231.0
-17-10-2020,Global Total,39316324.0,27105030.0,1104715.0
-18-10-2020,Afghanistan,40141.0,33561.0,1488.0
+17-10-2020,Global Total,39351798.0,27133148.0,1105093.0
+18-10-2020,Afghanistan,40141.0,33561.0,1490.0
 18-10-2020,Albania,16774.0,10001.0,448.0
 18-10-2020,Algeria,54203.0,37971.0,1846.0
 18-10-2020,Andorra,3377.0,2057.0,59.0
@@ -42899,7 +42899,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-10-2020,Jamaica,8195.0,3653.0,168.0
 18-10-2020,Japan,92670.0,84461.0,1670.0
 18-10-2020,Jordan,36053.0,6773.0,330.0
-18-10-2020,Kazakhstan,109406.0,105001.0,1768.0
+18-10-2020,Kazakhstan,145019.0,133166.0,2148.0
 18-10-2020,Kenya,44196.0,31752.0,825.0
 18-10-2020,South Korea,25199.0,23312.0,444.0
 18-10-2020,Kosovo,16754.0,14612.0,652.0
@@ -42999,8 +42999,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-10-2020,Yemen,2055.0,1336.0,596.0
 18-10-2020,Zambia,15789.0,14927.0,346.0
 18-10-2020,Zimbabwe,8110.0,7673.0,231.0
-18-10-2020,Global Total,39657368.0,27303710.0,1110228.0
-19-10-2020,Afghanistan,40200.0,33614.0,1492.0
+18-10-2020,Global Total,39692981.0,27331875.0,1110610.0
+19-10-2020,Afghanistan,40200.0,33614.0,1494.0
 19-10-2020,Albania,17055.0,10071.0,451.0
 19-10-2020,Algeria,54402.0,38088.0,1856.0
 19-10-2020,Andorra,3377.0,2057.0,59.0
@@ -43089,7 +43089,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-10-2020,Jamaica,8274.0,3859.0,171.0
 19-10-2020,Japan,93098.0,84461.0,1672.0
 19-10-2020,Jordan,37573.0,6912.0,345.0
-19-10-2020,Kazakhstan,109508.0,105001.0,1768.0
+19-10-2020,Kazakhstan,145320.0,133208.0,2149.0
 19-10-2020,Kenya,44881.0,31857.0,832.0
 19-10-2020,South Korea,25275.0,23368.0,444.0
 19-10-2020,Kosovo,16891.0,14661.0,653.0
@@ -43189,8 +43189,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-10-2020,Yemen,2056.0,1338.0,597.0
 19-10-2020,Zambia,15853.0,15005.0,346.0
 19-10-2020,Zimbabwe,8147.0,7678.0,231.0
-19-10-2020,Global Total,39943263.0,27502706.0,1113613.0
-20-10-2020,Afghanistan,40287.0,33760.0,1497.0
+19-10-2020,Global Total,39979075.0,27530913.0,1113996.0
+20-10-2020,Afghanistan,40287.0,33760.0,1499.0
 20-10-2020,Albania,17350.0,10167.0,454.0
 20-10-2020,Algeria,54616.0,38215.0,1865.0
 20-10-2020,Andorra,3623.0,2273.0,62.0
@@ -43279,7 +43279,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-10-2020,Jamaica,8321.0,3951.0,173.0
 20-10-2020,Japan,93408.0,85310.0,1676.0
 20-10-2020,Jordan,38937.0,7006.0,380.0
-20-10-2020,Kazakhstan,109623.0,105145.0,1768.0
+20-10-2020,Kazakhstan,145473.0,133368.0,2150.0
 20-10-2020,Kenya,45076.0,32084.0,839.0
 20-10-2020,South Korea,25333.0,23466.0,447.0
 20-10-2020,Kosovo,17009.0,14711.0,656.0
@@ -43379,8 +43379,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-10-2020,Yemen,2056.0,1338.0,597.0
 20-10-2020,Zambia,15897.0,15031.0,346.0
 20-10-2020,Zimbabwe,8159.0,7683.0,232.0
-20-10-2020,Global Total,40391772.0,27713008.0,1118616.0
-21-10-2020,Afghanistan,40357.0,33790.0,1499.0
+20-10-2020,Global Total,40427622.0,27741231.0,1119000.0
+21-10-2020,Afghanistan,40369.0,33790.0,1501.0
 21-10-2020,Albania,17651.0,10225.0,458.0
 21-10-2020,Algeria,54829.0,38346.0,1873.0
 21-10-2020,Andorra,3623.0,2273.0,62.0
@@ -43469,7 +43469,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-10-2020,Jamaica,8374.0,4002.0,174.0
 21-10-2020,Japan,93895.0,85867.0,1679.0
 21-10-2020,Jordan,40972.0,7123.0,414.0
-21-10-2020,Kazakhstan,109766.0,105301.0,1796.0
+21-10-2020,Kazakhstan,145603.0,133540.0,2155.0
 21-10-2020,Kenya,45647.0,32522.0,842.0
 21-10-2020,South Korea,25424.0,23584.0,450.0
 21-10-2020,Kosovo,17139.0,14782.0,657.0
@@ -43569,8 +43569,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-10-2020,Yemen,2057.0,1338.0,597.0
 21-10-2020,Zambia,15982.0,15038.0,346.0
 21-10-2020,Zimbabwe,8187.0,7692.0,233.0
-21-10-2020,Global Total,40780443.0,27926735.0,1125203.0
-22-10-2020,Afghanistan,40510.0,33824.0,1501.0
+21-10-2020,Global Total,40816292.0,27954974.0,1125564.0
+22-10-2020,Afghanistan,40510.0,33824.0,1503.0
 22-10-2020,Albania,17948.0,10341.0,462.0
 22-10-2020,Algeria,55081.0,38482.0,1880.0
 22-10-2020,Andorra,3811.0,2470.0,63.0
@@ -43659,7 +43659,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-10-2020,Jamaica,8445.0,4016.0,174.0
 22-10-2020,Japan,94515.0,86429.0,1686.0
 22-10-2020,Jordan,43620.0,7223.0,443.0
-22-10-2020,Kazakhstan,109907.0,105385.0,1796.0
+22-10-2020,Kazakhstan,145966.0,133703.0,2184.0
 22-10-2020,Kenya,46144.0,32760.0,858.0
 22-10-2020,South Korea,25543.0,23647.0,453.0
 22-10-2020,Kosovo,17263.0,14831.0,657.0
@@ -43759,8 +43759,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-10-2020,Yemen,2057.0,1344.0,597.0
 22-10-2020,Zambia,16000.0,15168.0,346.0
 22-10-2020,Zimbabwe,8215.0,7725.0,236.0
-22-10-2020,Global Total,41224485.0,28137873.0,1131797.0
-23-10-2020,Afghanistan,40626.0,33831.0,1505.0
+22-10-2020,Global Total,41260544.0,28166191.0,1132187.0
+23-10-2020,Afghanistan,40626.0,33831.0,1507.0
 23-10-2020,Albania,18250.0,10395.0,465.0
 23-10-2020,Algeria,55357.0,38618.0,1888.0
 23-10-2020,Andorra,3811.0,2470.0,63.0
@@ -43849,7 +43849,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-10-2020,Jamaica,8600.0,4095.0,179.0
 23-10-2020,Japan,95134.0,87022.0,1697.0
 23-10-2020,Jordan,46441.0,7340.0,481.0
-23-10-2020,Kazakhstan,110086.0,105493.0,1796.0
+23-10-2020,Kazakhstan,146288.0,133856.0,2186.0
 23-10-2020,Kenya,47212.0,33050.0,870.0
 23-10-2020,South Korea,25698.0,23717.0,455.0
 23-10-2020,Kosovo,17422.0,14889.0,657.0
@@ -43949,8 +43949,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-10-2020,Yemen,2057.0,1344.0,597.0
 23-10-2020,Zambia,16035.0,15168.0,346.0
 23-10-2020,Zimbabwe,8242.0,7742.0,236.0
-23-10-2020,Global Total,41696807.0,28364277.0,1137676.0
-24-10-2020,Afghanistan,40687.0,34010.0,1507.0
+23-10-2020,Global Total,41733009.0,28392640.0,1138068.0
+24-10-2020,Afghanistan,40687.0,34010.0,1509.0
 24-10-2020,Albania,18556.0,10466.0,469.0
 24-10-2020,Algeria,55630.0,38788.0,1897.0
 24-10-2020,Andorra,4038.0,2729.0,69.0
@@ -44039,7 +44039,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-10-2020,Jamaica,8638.0,4156.0,182.0
 24-10-2020,Japan,95868.0,87600.0,1706.0
 24-10-2020,Jordan,48930.0,7449.0,508.0
-24-10-2020,Kazakhstan,110250.0,105566.0,1796.0
+24-10-2020,Kazakhstan,146653.0,133956.0,2187.0
 24-10-2020,Kenya,47843.0,33421.0,884.0
 24-10-2020,South Korea,25775.0,23834.0,457.0
 24-10-2020,Kosovo,17591.0,14974.0,659.0
@@ -44139,8 +44139,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-10-2020,Yemen,2060.0,1354.0,599.0
 24-10-2020,Zambia,16095.0,15179.0,346.0
 24-10-2020,Zimbabwe,8257.0,7771.0,236.0
-24-10-2020,Global Total,42192016.0,28570400.0,1144608.0
-25-10-2020,Afghanistan,40768.0,34023.0,1511.0
+24-10-2020,Global Total,42228419.0,28598790.0,1145001.0
+25-10-2020,Afghanistan,40768.0,34023.0,1513.0
 25-10-2020,Albania,18858.0,10548.0,473.0
 25-10-2020,Algeria,55880.0,38932.0,1907.0
 25-10-2020,Andorra,4038.0,2729.0,69.0
@@ -44229,7 +44229,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-10-2020,Jamaica,8670.0,4209.0,186.0
 25-10-2020,Japan,96599.0,88138.0,1710.0
 25-10-2020,Jordan,50750.0,7508.0,540.0
-25-10-2020,Kazakhstan,110402.0,105618.0,1796.0
+25-10-2020,Kazakhstan,146982.0,134060.0,2189.0
 25-10-2020,Kenya,48790.0,33876.0,896.0
 25-10-2020,South Korea,25836.0,23869.0,457.0
 25-10-2020,Kosovo,17757.0,15029.0,661.0
@@ -44329,8 +44329,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-10-2020,Yemen,2060.0,1360.0,599.0
 25-10-2020,Zambia,16117.0,15179.0,348.0
 25-10-2020,Zimbabwe,8269.0,7785.0,236.0
-25-10-2020,Global Total,42603760.0,28781667.0,1150298.0
-26-10-2020,Afghanistan,40833.0,34129.0,1514.0
+25-10-2020,Global Total,42640340.0,28810109.0,1150693.0
+26-10-2020,Afghanistan,40833.0,34129.0,1516.0
 26-10-2020,Albania,19157.0,10654.0,477.0
 26-10-2020,Algeria,56143.0,39095.0,1914.0
 26-10-2020,Andorra,4038.0,2729.0,69.0
@@ -44419,7 +44419,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-10-2020,Jamaica,8714.0,4282.0,188.0
 26-10-2020,Japan,97095.0,88610.0,1716.0
 26-10-2020,Jordan,53087.0,7508.0,579.0
-26-10-2020,Kazakhstan,110542.0,105675.0,1796.0
+26-10-2020,Kazakhstan,147297.0,134117.0,2189.0
 26-10-2020,Kenya,49721.0,34209.0,902.0
 26-10-2020,South Korea,25955.0,23905.0,457.0
 26-10-2020,Kosovo,17943.0,15083.0,663.0
@@ -44519,8 +44519,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-10-2020,Yemen,2060.0,1360.0,599.0
 26-10-2020,Zambia,16117.0,15179.0,348.0
 26-10-2020,Zimbabwe,8276.0,7797.0,237.0
-26-10-2020,Global Total,42957052.0,28978022.0,1154438.0
-27-10-2020,Afghanistan,40937.0,34150.0,1518.0
+26-10-2020,Global Total,42993807.0,29006464.0,1154833.0
+27-10-2020,Afghanistan,40937.0,34150.0,1520.0
 27-10-2020,Albania,19445.0,10705.0,480.0
 27-10-2020,Algeria,56419.0,39273.0,1922.0
 27-10-2020,Andorra,4325.0,2957.0,72.0
@@ -44609,7 +44609,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-10-2020,Jamaica,8749.0,4303.0,192.0
 27-10-2020,Japan,97503.0,89031.0,1721.0
 27-10-2020,Jordan,55055.0,7508.0,624.0
-27-10-2020,Kazakhstan,110684.0,105766.0,1796.0
+27-10-2020,Kazakhstan,147463.0,134297.0,2190.0
 27-10-2020,Kenya,49997.0,34429.0,920.0
 27-10-2020,South Korea,26043.0,23981.0,460.0
 27-10-2020,Kosovo,17943.0,15083.0,663.0
@@ -44709,8 +44709,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-10-2020,Yemen,2060.0,1360.0,599.0
 27-10-2020,Zambia,16200.0,15445.0,348.0
 27-10-2020,Zimbabwe,8303.0,7797.0,242.0
-27-10-2020,Global Total,43494699.0,29217448.0,1160070.0
-28-10-2020,Afghanistan,41032.0,34217.0,1523.0
+27-10-2020,Global Total,43531478.0,29245979.0,1160466.0
+28-10-2020,Afghanistan,41032.0,34217.0,1525.0
 28-10-2020,Albania,19729.0,10808.0,487.0
 28-10-2020,Algeria,56706.0,39444.0,1931.0
 28-10-2020,Andorra,4410.0,3029.0,72.0
@@ -44799,7 +44799,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-10-2020,Jamaica,8787.0,4347.0,196.0
 28-10-2020,Japan,98146.0,89465.0,1726.0
 28-10-2020,Jordan,58855.0,7508.0,668.0
-28-10-2020,Kazakhstan,110832.0,105883.0,1825.0
+28-10-2020,Kazakhstan,147615.0,134431.0,2191.0
 28-10-2020,Kenya,50833.0,34832.0,934.0
 28-10-2020,South Korea,26146.0,24073.0,461.0
 28-10-2020,Kosovo,17943.0,15083.0,663.0
@@ -44899,8 +44899,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-10-2020,Yemen,2060.0,1364.0,599.0
 28-10-2020,Zambia,16243.0,15481.0,348.0
 28-10-2020,Zimbabwe,8315.0,7804.0,242.0
-28-10-2020,Global Total,43964015.0,29807969.0,1167477.0
-29-10-2020,Afghanistan,41145.0,34237.0,1529.0
+28-10-2020,Global Total,44000798.0,29836517.0,1167845.0
+29-10-2020,Afghanistan,41145.0,34237.0,1531.0
 29-10-2020,Albania,20040.0,10893.0,493.0
 29-10-2020,Algeria,57026.0,39635.0,1941.0
 29-10-2020,Andorra,4517.0,3144.0,72.0
@@ -44989,7 +44989,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-10-2020,Jamaica,8851.0,4379.0,198.0
 29-10-2020,Japan,98877.0,90118.0,1731.0
 29-10-2020,Jordan,61942.0,7508.0,700.0
-29-10-2020,Kazakhstan,111100.0,106059.0,1825.0
+29-10-2020,Kazakhstan,148037.0,134675.0,2221.0
 29-10-2020,Kenya,51851.0,35258.0,934.0
 29-10-2020,South Korea,26271.0,24168.0,462.0
 29-10-2020,Kosovo,18626.0,15290.0,673.0
@@ -45090,8 +45090,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-10-2020,Yemen,2061.0,1366.0,599.0
 29-10-2020,Zambia,16285.0,15559.0,348.0
 29-10-2020,Zimbabwe,8320.0,7845.0,242.0
-29-10-2020,Global Total,44473376.0,30073936.0,1174564.0
-30-10-2020,Afghanistan,41268.0,34239.0,1532.0
+29-10-2020,Global Total,44510313.0,30102552.0,1174962.0
+30-10-2020,Afghanistan,41268.0,34239.0,1534.0
 30-10-2020,Albania,20315.0,11007.0,499.0
 30-10-2020,Algeria,57332.0,39635.0,1949.0
 30-10-2020,Andorra,4567.0,3260.0,73.0
@@ -45180,7 +45180,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-10-2020,Jamaica,8927.0,4429.0,202.0
 30-10-2020,Japan,99674.0,90624.0,1748.0
 30-10-2020,Jordan,65385.0,7508.0,740.0
-30-10-2020,Kazakhstan,111492.0,106187.0,1825.0
+30-10-2020,Kazakhstan,148479.0,134846.0,2222.0
 30-10-2020,Kenya,52612.0,35604.0,964.0
 30-10-2020,South Korea,26385.0,24227.0,463.0
 30-10-2020,Kosovo,18626.0,15290.0,673.0
@@ -45281,8 +45281,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-10-2020,Yemen,2062.0,1366.0,599.0
 30-10-2020,Zambia,16325.0,15585.0,348.0
 30-10-2020,Zimbabwe,8349.0,7864.0,242.0
-30-10-2020,Global Total,45024129.0,30320483.0,1181617.0
-31-10-2020,Afghanistan,41334.0,34258.0,1533.0
+30-10-2020,Global Total,45061116.0,30349142.0,1182016.0
+31-10-2020,Afghanistan,41334.0,34258.0,1535.0
 31-10-2020,Albania,20634.0,11097.0,502.0
 31-10-2020,Algeria,57651.0,40014.0,1956.0
 31-10-2020,Andorra,4665.0,3377.0,75.0
@@ -45371,7 +45371,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 31-10-2020,Jamaica,9005.0,4442.0,205.0
 31-10-2020,Japan,100450.0,91184.0,1756.0
 31-10-2020,Jordan,69306.0,7600.0,772.0
-31-10-2020,Kazakhstan,111953.0,106310.0,1825.0
+31-10-2020,Kazakhstan,149066.0,134997.0,2224.0
 31-10-2020,Kenya,53797.0,35876.0,981.0
 31-10-2020,South Korea,26511.0,24311.0,464.0
 31-10-2020,Kosovo,19328.0,15429.0,678.0
@@ -45472,8 +45472,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 31-10-2020,Yemen,2062.0,1366.0,599.0
 31-10-2020,Zambia,16415.0,15600.0,349.0
 31-10-2020,Zimbabwe,8362.0,7884.0,242.0
-31-10-2020,Global Total,45594086.0,30575509.0,1189170.0
-01-11-2020,Afghanistan,41425.0,34321.0,1536.0
+31-10-2020,Global Total,45631199.0,30604196.0,1189571.0
+01-11-2020,Afghanistan,41425.0,34321.0,1538.0
 01-11-2020,Albania,20875.0,11189.0,509.0
 01-11-2020,Algeria,57942.0,40201.0,1964.0
 01-11-2020,Andorra,4756.0,3475.0,75.0
@@ -45562,7 +45562,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-11-2020,Jamaica,9094.0,4510.0,206.0
 01-11-2020,Japan,101327.0,89765.0,1769.0
 01-11-2020,Jordan,72607.0,7600.0,829.0
-01-11-2020,Kazakhstan,112418.0,106400.0,1825.0
+01-11-2020,Kazakhstan,149699.0,135110.0,2226.0
 01-11-2020,Kenya,55192.0,35876.0,981.0
 01-11-2020,South Korea,26635.0,24357.0,466.0
 01-11-2020,Kosovo,19328.0,15429.0,678.0
@@ -45663,8 +45663,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-11-2020,Yemen,2063.0,1366.0,599.0
 01-11-2020,Zambia,16432.0,15680.0,349.0
 01-11-2020,Zimbabwe,8367.0,7894.0,243.0
-01-11-2020,Global Total,46070463.0,30820526.0,1195710.0
-02-11-2020,Afghanistan,41501.0,34326.0,1536.0
+01-11-2020,Global Total,46107744.0,30849236.0,1196113.0
+02-11-2020,Afghanistan,41501.0,34326.0,1538.0
 02-11-2020,Albania,21202.0,11246.0,518.0
 02-11-2020,Algeria,58272.0,40395.0,1973.0
 02-11-2020,Andorra,4825.0,3475.0,75.0
@@ -45753,7 +45753,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-11-2020,Jamaica,9131.0,4617.0,208.0
 02-11-2020,Japan,101943.0,92250.0,1776.0
 02-11-2020,Jordan,75866.0,7740.0,866.0
-02-11-2020,Kazakhstan,112860.0,106514.0,1825.0
+02-11-2020,Kazakhstan,150380.0,135301.0,2227.0
 02-11-2020,Kenya,55877.0,37194.0,1013.0
 02-11-2020,South Korea,26732.0,24395.0,468.0
 02-11-2020,Kosovo,19328.0,15429.0,678.0
@@ -45854,8 +45854,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-11-2020,Yemen,2063.0,1366.0,600.0
 02-11-2020,Zambia,16480.0,15733.0,349.0
 02-11-2020,Zimbabwe,8374.0,7927.0,243.0
-02-11-2020,Global Total,46503704.0,31078260.0,1200634.0
-03-11-2020,Afghanistan,41633.0,34342.0,1541.0
+02-11-2020,Global Total,46541224.0,31107047.0,1201038.0
+03-11-2020,Afghanistan,41633.0,34342.0,1544.0
 03-11-2020,Albania,21523.0,11367.0,527.0
 03-11-2020,Algeria,58574.0,40577.0,1980.0
 03-11-2020,Andorra,4888.0,3548.0,75.0
@@ -45944,7 +45944,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-11-2020,Jamaica,9257.0,4637.0,210.0
 03-11-2020,Japan,102431.0,92673.0,1787.0
 03-11-2020,Jordan,81743.0,7858.0,913.0
-03-11-2020,Kazakhstan,113309.0,106716.0,1857.0
+03-11-2020,Kazakhstan,150863.0,135535.0,2227.0
 03-11-2020,Kenya,56601.0,37442.0,1027.0
 03-11-2020,South Korea,26807.0,24510.0,472.0
 03-11-2020,Kosovo,20179.0,15611.0,688.0
@@ -46045,8 +46045,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 03-11-2020,Yemen,2063.0,1375.0,601.0
 03-11-2020,Zambia,16543.0,15733.0,349.0
 03-11-2020,Zimbabwe,8389.0,7939.0,245.0
-03-11-2020,Global Total,47012165.0,31357886.0,1206745.0
-04-11-2020,Afghanistan,41728.0,34355.0,1544.0
+03-11-2020,Global Total,47049719.0,31386705.0,1207118.0
+04-11-2020,Afghanistan,41728.0,34355.0,1547.0
 04-11-2020,Albania,21904.0,11473.0,532.0
 04-11-2020,Algeria,58979.0,40577.0,1980.0
 04-11-2020,Andorra,4910.0,3627.0,75.0
@@ -46135,7 +46135,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-11-2020,Jamaica,9296.0,4666.0,214.0
 04-11-2020,Japan,103309.0,93133.0,1794.0
 04-11-2020,Jordan,86576.0,7993.0,967.0
-04-11-2020,Kazakhstan,113741.0,106893.0,1857.0
+04-11-2020,Kazakhstan,151321.0,135729.0,2261.0
 04-11-2020,Kenya,57093.0,37846.0,1039.0
 04-11-2020,South Korea,26925.0,24616.0,474.0
 04-11-2020,Kosovo,20999.0,15722.0,705.0
@@ -46236,8 +46236,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 04-11-2020,Yemen,2063.0,1375.0,601.0
 04-11-2020,Zambia,16661.0,15763.0,349.0
 04-11-2020,Zimbabwe,8410.0,7942.0,246.0
-04-11-2020,Global Total,47527270.0,31609242.0,1215196.0
-05-11-2020,Afghanistan,41814.0,34362.0,1548.0
+04-11-2020,Global Total,47564850.0,31638078.0,1215603.0
+05-11-2020,Afghanistan,41814.0,34362.0,1551.0
 05-11-2020,Albania,22300.0,11578.0,536.0
 05-11-2020,Algeria,59527.0,41001.0,1999.0
 05-11-2020,Andorra,5045.0,3734.0,75.0
@@ -46326,7 +46326,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-11-2020,Jamaica,9326.0,4704.0,215.0
 05-11-2020,Japan,103928.0,93564.0,1799.0
 05-11-2020,Jordan,91234.0,8188.0,1029.0
-05-11-2020,Kazakhstan,114235.0,107139.0,1857.0
+05-11-2020,Kazakhstan,152022.0,136038.0,2262.0
 05-11-2020,Kenya,58587.0,38381.0,1051.0
 05-11-2020,South Korea,27050.0,24735.0,475.0
 05-11-2020,Kosovo,21545.0,15829.0,714.0
@@ -46427,8 +46427,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 05-11-2020,Yemen,2063.0,1375.0,601.0
 05-11-2020,Zambia,16698.0,15819.0,349.0
 05-11-2020,Zimbabwe,8427.0,7967.0,248.0
-05-11-2020,Global Total,48124824.0,31889030.0,1226213.0
-06-11-2020,Afghanistan,41935.0,34440.0,1554.0
+05-11-2020,Global Total,48162611.0,31917929.0,1226621.0
+06-11-2020,Afghanistan,41935.0,34440.0,1557.0
 06-11-2020,Albania,22721.0,11696.0,543.0
 06-11-2020,Algeria,60169.0,41244.0,2011.0
 06-11-2020,Andorra,5135.0,3858.0,75.0
@@ -46517,7 +46517,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-11-2020,Jamaica,9373.0,4745.0,217.0
 06-11-2020,Japan,104964.0,94376.0,1806.0
 06-11-2020,Jordan,95864.0,8336.0,1069.0
-06-11-2020,Kazakhstan,114826.0,107339.0,1857.0
+06-11-2020,Kazakhstan,152725.0,136275.0,2263.0
 06-11-2020,Kenya,59595.0,39193.0,1072.0
 06-11-2020,South Korea,27195.0,24821.0,476.0
 06-11-2020,Kosovo,22206.0,15921.0,720.0
@@ -46618,8 +46618,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 06-11-2020,Yemen,2063.0,1375.0,601.0
 06-11-2020,Zambia,16770.0,15827.0,349.0
 06-11-2020,Zimbabwe,8444.0,7975.0,248.0
-06-11-2020,Global Total,48718539.0,32192465.0,1234264.0
-07-11-2020,Afghanistan,41975.0,34440.0,1554.0
+06-11-2020,Global Total,48756438.0,32221401.0,1234673.0
+07-11-2020,Afghanistan,41975.0,34440.0,1557.0
 07-11-2020,Albania,23210.0,11861.0,549.0
 07-11-2020,Algeria,60800.0,41510.0,2024.0
 07-11-2020,Andorra,5135.0,3858.0,75.0
@@ -46708,7 +46708,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-11-2020,Jamaica,9426.0,4801.0,218.0
 07-11-2020,Japan,106136.0,95010.0,1810.0
 07-11-2020,Jordan,101248.0,8506.0,1136.0
-07-11-2020,Kazakhstan,115439.0,107530.0,1857.0
+07-11-2020,Kazakhstan,153547.0,136544.0,2263.0
 07-11-2020,Kenya,60704.0,40131.0,1093.0
 07-11-2020,South Korea,27284.0,24910.0,477.0
 07-11-2020,Kosovo,22934.0,15981.0,732.0
@@ -46809,8 +46809,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 07-11-2020,Yemen,2067.0,1375.0,602.0
 07-11-2020,Zambia,16819.0,15862.0,349.0
 07-11-2020,Zimbabwe,8471.0,7983.0,250.0
-07-11-2020,Global Total,49360492.0,32480626.0,1243868.0
-08-11-2020,Afghanistan,42033.0,34446.0,1556.0
+07-11-2020,Global Total,49398600.0,32509640.0,1244277.0
+08-11-2020,Afghanistan,42033.0,34446.0,1559.0
 08-11-2020,Albania,23705.0,12002.0,557.0
 08-11-2020,Algeria,61381.0,41783.0,2036.0
 08-11-2020,Andorra,5319.0,4043.0,75.0
@@ -46899,7 +46899,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-11-2020,Jamaica,9472.0,4878.0,218.0
 08-11-2020,Japan,107439.0,95703.0,1815.0
 08-11-2020,Jordan,104802.0,8629.0,1181.0
-08-11-2020,Kazakhstan,116162.0,107668.0,1857.0
+08-11-2020,Kazakhstan,154321.0,136747.0,2265.0
 08-11-2020,Kenya,61769.0,41019.0,1103.0
 08-11-2020,South Korea,27427.0,24968.0,478.0
 08-11-2020,Kosovo,22934.0,15981.0,732.0
@@ -47000,8 +47000,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 08-11-2020,Yemen,2070.0,1375.0,602.0
 08-11-2020,Zambia,16908.0,15873.0,349.0
 08-11-2020,Zimbabwe,8498.0,7995.0,251.0
-08-11-2020,Global Total,49871598.0,32779541.0,1251414.0
-09-11-2020,Afghanistan,42092.0,34458.0,1558.0
+08-11-2020,Global Total,49909757.0,32808620.0,1251825.0
+09-11-2020,Afghanistan,42159.0,34458.0,1565.0
 09-11-2020,Albania,24206.0,12092.0,559.0
 09-11-2020,Algeria,62051.0,42037.0,2048.0
 09-11-2020,Andorra,5383.0,4248.0,75.0
@@ -47090,7 +47090,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-11-2020,Jamaica,9506.0,4934.0,221.0
 09-11-2020,Japan,108394.0,96430.0,1821.0
 09-11-2020,Jordan,109321.0,8808.0,1233.0
-09-11-2020,Kazakhstan,116772.0,107843.0,1857.0
+09-11-2020,Kazakhstan,155220.0,136981.0,2266.0
 09-11-2020,Kenya,62488.0,41931.0,1111.0
 09-11-2020,South Korea,27553.0,25029.0,480.0
 09-11-2020,Kosovo,22934.0,15981.0,732.0
@@ -47191,8 +47191,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 09-11-2020,Yemen,2070.0,1375.0,602.0
 09-11-2020,Zambia,16954.0,15950.0,349.0
 09-11-2020,Zimbabwe,8531.0,8005.0,253.0
-09-11-2020,Global Total,50436547.0,33032762.0,1257163.0
-10-11-2020,Afghanistan,42297.0,34721.0,1574.0
+09-11-2020,Global Total,50475062.0,33061900.0,1257579.0
+10-11-2020,Afghanistan,42297.0,34721.0,1577.0
 10-11-2020,Albania,24731.0,12203.0,571.0
 10-11-2020,Algeria,62693.0,42325.0,2062.0
 10-11-2020,Andorra,5437.0,4332.0,75.0
@@ -47281,7 +47281,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-11-2020,Jamaica,9542.0,4952.0,221.0
 10-11-2020,Japan,109191.0,96684.0,1834.0
 10-11-2020,Jordan,114986.0,9033.0,1295.0
-10-11-2020,Kazakhstan,117336.0,108169.0,1857.0
+10-11-2020,Kazakhstan,155876.0,137307.0,2266.0
 10-11-2020,Kenya,63244.0,42659.0,1130.0
 10-11-2020,South Korea,27653.0,25160.0,485.0
 10-11-2020,Kosovo,24792.0,16226.0,768.0
@@ -47382,8 +47382,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 10-11-2020,Yemen,2071.0,1394.0,605.0
 10-11-2020,Zambia,16971.0,16011.0,349.0
 10-11-2020,Zimbabwe,8561.0,8023.0,254.0
-10-11-2020,Global Total,50938348.0,33289404.0,1264277.0
-11-11-2020,Afghanistan,42463.0,34954.0,1577.0
+10-11-2020,Global Total,50976888.0,33318542.0,1264689.0
+11-11-2020,Afghanistan,42463.0,34954.0,1580.0
 11-11-2020,Albania,25294.0,12353.0,579.0
 11-11-2020,Algeria,63446.0,42626.0,2077.0
 11-11-2020,Andorra,5477.0,4405.0,75.0
@@ -47472,7 +47472,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-11-2020,Jamaica,9573.0,4987.0,224.0
 11-11-2020,Japan,110487.0,98487.0,1840.0
 11-11-2020,Jordan,120982.0,9249.0,1386.0
-11-11-2020,Kazakhstan,117904.0,108387.0,1857.0
+11-11-2020,Kazakhstan,156451.0,137590.0,2267.0
 11-11-2020,Kenya,64588.0,43095.0,1154.0
 11-11-2020,South Korea,27799.0,25266.0,487.0
 11-11-2020,Kosovo,25388.0,16362.0,773.0
@@ -47574,8 +47574,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 11-11-2020,Yemen,2071.0,1394.0,605.0
 11-11-2020,Zambia,16997.0,16019.0,350.0
 11-11-2020,Zimbabwe,8610.0,8040.0,255.0
-11-11-2020,Global Total,51494283.0,33546421.0,1274255.0
-12-11-2020,Afghanistan,42609.0,34967.0,1581.0
+11-11-2020,Global Total,51532830.0,33575624.0,1274668.0
+12-11-2020,Afghanistan,42609.0,34967.0,1584.0
 12-11-2020,Albania,25801.0,12493.0,590.0
 12-11-2020,Algeria,64257.0,42980.0,2093.0
 12-11-2020,Andorra,5567.0,4488.0,75.0
@@ -47664,7 +47664,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-11-2020,Jamaica,9581.0,4995.0,225.0
 12-11-2020,Japan,112011.0,98305.0,1847.0
 12-11-2020,Jordan,126401.0,9416.0,1467.0
-12-11-2020,Kazakhstan,118491.0,108632.0,1899.0
+12-11-2020,Kazakhstan,157261.0,137918.0,2267.0
 12-11-2020,Kenya,65804.0,43626.0,1180.0
 12-11-2020,South Korea,27942.0,25404.0,487.0
 12-11-2020,Kosovo,26121.0,16499.0,777.0
@@ -47766,8 +47766,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 12-11-2020,Yemen,2071.0,1394.0,605.0
 12-11-2020,Zambia,17036.0,16070.0,350.0
 12-11-2020,Zimbabwe,8667.0,8046.0,255.0
-12-11-2020,Global Total,52139269.0,33926351.0,1284695.0
-13-11-2020,Afghanistan,42795.0,35024.0,1591.0
+12-11-2020,Global Total,52178039.0,33955637.0,1285066.0
+13-11-2020,Afghanistan,42795.0,35024.0,1594.0
 13-11-2020,Albania,26211.0,12574.0,598.0
 13-11-2020,Algeria,65108.0,42980.0,2111.0
 13-11-2020,Andorra,5616.0,4585.0,75.0
@@ -47856,7 +47856,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-11-2020,Jamaica,9634.0,5043.0,225.0
 13-11-2020,Japan,113655.0,99282.0,1854.0
 13-11-2020,Jordan,132086.0,9564.0,1547.0
-13-11-2020,Kazakhstan,119129.0,108958.0,1899.0
+13-11-2020,Kazakhstan,158036.0,138309.0,2311.0
 13-11-2020,Kenya,66723.0,44040.0,1203.0
 13-11-2020,South Korea,28133.0,25537.0,488.0
 13-11-2020,Kosovo,26888.0,16685.0,785.0
@@ -47958,8 +47958,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 13-11-2020,Yemen,2071.0,1394.0,605.0
 13-11-2020,Zambia,17056.0,16102.0,350.0
 13-11-2020,Zimbabwe,8696.0,8060.0,255.0
-13-11-2020,Global Total,52786566.0,34150481.0,1294430.0
-14-11-2020,Afghanistan,42969.0,35036.0,1595.0
+13-11-2020,Global Total,52825473.0,34179832.0,1294845.0
+14-11-2020,Afghanistan,42969.0,35036.0,1598.0
 14-11-2020,Albania,26701.0,12667.0,605.0
 14-11-2020,Algeria,65975.0,43779.0,2124.0
 14-11-2020,Andorra,5725.0,4675.0,75.0
@@ -48048,7 +48048,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-11-2020,Jamaica,9723.0,5168.0,227.0
 14-11-2020,Japan,115360.0,100197.0,1864.0
 14-11-2020,Jordan,136555.0,9729.0,1618.0
-14-11-2020,Kazakhstan,119833.0,109275.0,1899.0
+14-11-2020,Kazakhstan,158853.0,138691.0,2314.0
 14-11-2020,Kenya,68193.0,44872.0,1228.0
 14-11-2020,South Korea,28338.0,25636.0,492.0
 14-11-2020,Kosovo,27851.0,16862.0,798.0
@@ -48150,8 +48150,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 14-11-2020,Yemen,2072.0,1394.0,605.0
 14-11-2020,Zambia,17093.0,16134.0,350.0
 14-11-2020,Zimbabwe,8765.0,8090.0,257.0
-14-11-2020,Global Total,53435351.0,34453243.0,1303984.0
-15-11-2020,Afghanistan,43035.0,35067.0,1605.0
+14-11-2020,Global Total,53474371.0,34482659.0,1304402.0
+15-11-2020,Afghanistan,43035.0,35067.0,1608.0
 15-11-2020,Albania,27233.0,12767.0,612.0
 15-11-2020,Algeria,66819.0,44199.0,2139.0
 15-11-2020,Andorra,5725.0,4675.0,75.0
@@ -48240,7 +48240,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-11-2020,Jamaica,9780.0,5228.0,229.0
 15-11-2020,Japan,117113.0,101162.0,1865.0
 15-11-2020,Jordan,141305.0,9879.0,1704.0
-15-11-2020,Kazakhstan,120463.0,109643.0,1899.0
+15-11-2020,Kazakhstan,159756.0,139128.0,2315.0
 15-11-2020,Kenya,69273.0,44872.0,1228.0
 15-11-2020,South Korea,28546.0,25691.0,493.0
 15-11-2020,Kosovo,27851.0,16862.0,798.0
@@ -48342,8 +48342,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 15-11-2020,Yemen,2072.0,1394.0,605.0
 15-11-2020,Zambia,17097.0,16137.0,350.0
 15-11-2020,Zimbabwe,8786.0,8096.0,257.0
-15-11-2020,Global Total,54029326.0,34731314.0,1312968.0
-16-11-2020,Afghanistan,43240.0,35092.0,1617.0
+15-11-2020,Global Total,54068619.0,34760799.0,1313387.0
+16-11-2020,Afghanistan,43240.0,35092.0,1620.0
 16-11-2020,Albania,27830.0,12889.0,623.0
 16-11-2020,Algeria,67679.0,44633.0,2154.0
 16-11-2020,Andorra,5872.0,4747.0,76.0
@@ -48432,7 +48432,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-11-2020,Jamaica,9884.0,5248.0,231.0
 16-11-2020,Japan,118611.0,91954.0,1874.0
 16-11-2020,Jordan,143678.0,10067.0,1772.0
-16-11-2020,Kazakhstan,121051.0,109944.0,1899.0
+16-11-2020,Kazakhstan,160612.0,139500.0,2317.0
 16-11-2020,Kenya,70245.0,45766.0,1269.0
 16-11-2020,South Korea,28769.0,25759.0,494.0
 16-11-2020,Kosovo,29117.0,17305.0,822.0
@@ -48534,8 +48534,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 16-11-2020,Yemen,2072.0,1394.0,605.0
 16-11-2020,Zambia,17123.0,16137.0,353.0
 16-11-2020,Zimbabwe,8829.0,8096.0,257.0
-16-11-2020,Global Total,54502332.0,34960714.0,1319227.0
-17-11-2020,Afghanistan,43403.0,35137.0,1626.0
+16-11-2020,Global Total,54541893.0,34990270.0,1319648.0
+17-11-2020,Afghanistan,43468.0,35137.0,1635.0
 17-11-2020,Albania,28432.0,13453.0,631.0
 17-11-2020,Algeria,68589.0,45148.0,2168.0
 17-11-2020,Andorra,5914.0,4830.0,76.0
@@ -48624,7 +48624,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-11-2020,Jamaica,9929.0,5330.0,231.0
 17-11-2020,Japan,119557.0,102810.0,1883.0
 17-11-2020,Jordan,149539.0,10311.0,1843.0
-17-11-2020,Kazakhstan,121653.0,110382.0,1899.0
+17-11-2020,Kazakhstan,161850.0,139962.0,2319.0
 17-11-2020,Kenya,70804.0,46244.0,1287.0
 17-11-2020,South Korea,28998.0,25860.0,494.0
 17-11-2020,Kosovo,29805.0,17541.0,833.0
@@ -48726,8 +48726,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 17-11-2020,Yemen,2078.0,1406.0,605.0
 17-11-2020,Zambia,17187.0,16400.0,353.0
 17-11-2020,Zimbabwe,8897.0,8116.0,257.0
-17-11-2020,Global Total,55030781.0,35350741.0,1327066.0
-18-11-2020,Afghanistan,43628.0,35160.0,1638.0
+17-11-2020,Global Total,55071043.0,35380321.0,1327495.0
+18-11-2020,Afghanistan,43681.0,35160.0,1641.0
 18-11-2020,Albania,29126.0,13804.0,637.0
 18-11-2020,Algeria,69591.0,45148.0,2186.0
 18-11-2020,Andorra,5951.0,4965.0,76.0
@@ -48816,7 +48816,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-11-2020,Jamaica,9959.0,5338.0,231.0
 18-11-2020,Japan,121247.0,103778.0,1895.0
 18-11-2020,Jordan,155993.0,90267.0,1909.0
-18-11-2020,Kazakhstan,122335.0,110835.0,1899.0
+18-11-2020,Kazakhstan,162555.0,140469.0,2320.0
 18-11-2020,Kenya,71729.0,47262.0,1302.0
 18-11-2020,South Korea,29311.0,25973.0,496.0
 18-11-2020,Kosovo,29805.0,17541.0,833.0
@@ -48918,8 +48918,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 18-11-2020,Yemen,2081.0,1410.0,607.0
 18-11-2020,Zambia,17243.0,16473.0,353.0
 18-11-2020,Zimbabwe,8945.0,8164.0,260.0
-18-11-2020,Global Total,55638883.0,35784056.0,1338150.0
-19-11-2020,Afghanistan,43851.0,35295.0,1645.0
+18-11-2020,Global Total,55679156.0,35813690.0,1338574.0
+19-11-2020,Afghanistan,43924.0,35295.0,1648.0
 19-11-2020,Albania,29837.0,14216.0,646.0
 19-11-2020,Algeria,70629.0,46326.0,2206.0
 19-11-2020,Andorra,6018.0,5055.0,76.0
@@ -49008,7 +49008,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-11-2020,Jamaica,10019.0,5369.0,233.0
 19-11-2020,Japan,123477.0,104837.0,1908.0
 19-11-2020,Jordan,163926.0,94896.0,1969.0
-19-11-2020,Kazakhstan,123097.0,111172.0,1945.0
+19-11-2020,Kazakhstan,163585.0,140891.0,2366.0
 19-11-2020,Kenya,72686.0,49878.0,1313.0
 19-11-2020,South Korea,29654.0,26098.0,498.0
 19-11-2020,Kosovo,31215.0,18347.0,860.0
@@ -49110,8 +49110,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 19-11-2020,Yemen,2083.0,1417.0,607.0
 19-11-2020,Zambia,17280.0,16495.0,356.0
 19-11-2020,Zimbabwe,8981.0,8184.0,261.0
-19-11-2020,Global Total,56262553.0,36146977.0,1349473.0
-20-11-2020,Afghanistan,44228.0,35350.0,1650.0
+19-11-2020,Global Total,56303114.0,36176696.0,1349897.0
+20-11-2020,Afghanistan,44177.0,35350.0,1653.0
 20-11-2020,Albania,30623.0,14565.0,657.0
 20-11-2020,Algeria,71652.0,46962.0,2224.0
 20-11-2020,Andorra,6066.0,5127.0,76.0
@@ -49200,7 +49200,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-11-2020,Jamaica,10088.0,5407.0,235.0
 20-11-2020,Japan,125859.0,106074.0,1920.0
 20-11-2020,Jordan,169395.0,100280.0,2053.0
-20-11-2020,Kazakhstan,123888.0,111483.0,1945.0
+20-11-2020,Kazakhstan,164578.0,141297.0,2368.0
 20-11-2020,Kenya,74145.0,50658.0,1330.0
 20-11-2020,South Korea,30017.0,26263.0,501.0
 20-11-2020,Kosovo,32022.0,19024.0,874.0
@@ -49302,8 +49302,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 20-11-2020,Yemen,2086.0,1428.0,608.0
 20-11-2020,Zambia,17350.0,16591.0,356.0
 20-11-2020,Zimbabwe,9046.0,8195.0,265.0
-20-11-2020,Global Total,56913120.0,36519821.0,1360446.0
-21-11-2020,Afghanistan,44443.0,35370.0,1661.0
+20-11-2020,Global Total,56953759.0,36549635.0,1360872.0
+21-11-2020,Afghanistan,44363.0,35370.0,1666.0
 21-11-2020,Albania,31459.0,15055.0,672.0
 21-11-2020,Algeria,72755.0,47581.0,2236.0
 21-11-2020,Andorra,6142.0,5239.0,76.0
@@ -49392,7 +49392,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-11-2020,Jamaica,10151.0,5432.0,235.0
 21-11-2020,Japan,128285.0,107521.0,1930.0
 21-11-2020,Jordan,174335.0,103834.0,2116.0
-21-11-2020,Kazakhstan,124710.0,111895.0,1945.0
+21-11-2020,Kazakhstan,165558.0,141764.0,2369.0
 21-11-2020,Kenya,75193.0,50984.0,1349.0
 21-11-2020,South Korea,30403.0,26365.0,503.0
 21-11-2020,Kosovo,32877.0,19772.0,885.0
@@ -49494,8 +49494,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 21-11-2020,Yemen,2090.0,1434.0,608.0
 21-11-2020,Zambia,17373.0,16606.0,356.0
 21-11-2020,Zimbabwe,9120.0,8229.0,265.0
-21-11-2020,Global Total,57579266.0,36875075.0,1372286.0
-22-11-2020,Afghanistan,44503.0,35422.0,1675.0
+21-11-2020,Global Total,57620034.0,36904944.0,1372715.0
+22-11-2020,Afghanistan,44503.0,35422.0,1678.0
 22-11-2020,Albania,32196.0,15469.0,685.0
 22-11-2020,Algeria,73774.0,48183.0,2255.0
 22-11-2020,Andorra,6207.0,5290.0,76.0
@@ -49584,7 +49584,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-11-2020,Jamaica,10240.0,5481.0,237.0
 22-11-2020,Japan,130871.0,108981.0,1932.0
 22-11-2020,Jordan,178161.0,108353.0,2172.0
-22-11-2020,Kazakhstan,125466.0,112292.0,1945.0
+22-11-2020,Kazakhstan,166468.0,142252.0,2370.0
 22-11-2020,Kenya,76404.0,51352.0,1366.0
 22-11-2020,South Korea,30733.0,26466.0,505.0
 22-11-2020,Kosovo,33588.0,20493.0,904.0
@@ -49686,8 +49686,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 22-11-2020,Yemen,2093.0,1441.0,608.0
 22-11-2020,Zambia,17394.0,16659.0,356.0
 22-11-2020,Zimbabwe,9172.0,8235.0,265.0
-22-11-2020,Global Total,58165570.0,37214376.0,1381071.0
-23-11-2020,Afghanistan,44706.0,35934.0,1687.0
+22-11-2020,Global Total,58206572.0,37244336.0,1381499.0
+23-11-2020,Afghanistan,44706.0,35934.0,1690.0
 23-11-2020,Albania,32761.0,15842.0,699.0
 23-11-2020,Algeria,74862.0,48794.0,2272.0
 23-11-2020,Andorra,6256.0,5358.0,76.0
@@ -49776,7 +49776,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-11-2020,Jamaica,10284.0,5505.0,238.0
 23-11-2020,Japan,133034.0,110273.0,1943.0
 23-11-2020,Jordan,183429.0,114018.0,2236.0
-23-11-2020,Kazakhstan,126182.0,112806.0,1945.0
+23-11-2020,Kazakhstan,167341.0,142865.0,2372.0
 23-11-2020,Kenya,77372.0,51507.0,1380.0
 23-11-2020,South Korea,31004.0,26539.0,509.0
 23-11-2020,Kosovo,34295.0,21043.0,914.0
@@ -49878,8 +49878,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 23-11-2020,Yemen,2099.0,1448.0,608.0
 23-11-2020,Zambia,17424.0,16701.0,357.0
 23-11-2020,Zimbabwe,9220.0,8250.0,268.0
-23-11-2020,Global Total,58649369.0,37486362.0,1388152.0
-24-11-2020,Afghanistan,44988.0,35976.0,1695.0
+23-11-2020,Global Total,58690528.0,37516421.0,1388582.0
+24-11-2020,Afghanistan,44988.0,35976.0,1702.0
 24-11-2020,Albania,33556.0,16230.0,716.0
 24-11-2020,Algeria,75867.0,49421.0,2294.0
 24-11-2020,Andorra,6304.0,5405.0,76.0
@@ -49968,7 +49968,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-11-2020,Jamaica,10343.0,5518.0,239.0
 24-11-2020,Japan,134554.0,111343.0,1949.0
 24-11-2020,Jordan,188410.0,120014.0,2302.0
-24-11-2020,Kazakhstan,126182.0,112806.0,1945.0
+24-11-2020,Kazakhstan,167385.0,142892.0,2372.0
 24-11-2020,Kenya,77785.0,51903.0,1392.0
 24-11-2020,South Korea,31353.0,26722.0,510.0
 24-11-2020,Kosovo,34940.0,21396.0,926.0
@@ -50070,8 +50070,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 24-11-2020,Yemen,2107.0,1459.0,609.0
 24-11-2020,Zambia,17454.0,16701.0,357.0
 24-11-2020,Zimbabwe,9308.0,8288.0,273.0
-24-11-2020,Global Total,59171092.0,37896435.0,1396467.0
-25-11-2020,Afghanistan,45280.0,36122.0,1712.0
+24-11-2020,Global Total,59212295.0,37926521.0,1396901.0
+25-11-2020,Afghanistan,45174.0,36122.0,1715.0
 25-11-2020,Albania,34300.0,16666.0,735.0
 25-11-2020,Algeria,77000.0,50070.0,2309.0
 25-11-2020,Andorra,6351.0,5503.0,76.0
@@ -50160,7 +50160,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-11-2020,Jamaica,10422.0,5572.0,243.0
 25-11-2020,Japan,135786.0,112385.0,1963.0
 25-11-2020,Jordan,192996.0,125433.0,2380.0
-25-11-2020,Kazakhstan,127580.0,114347.0,1945.0
+25-11-2020,Kazakhstan,168803.0,144463.0,2373.0
 25-11-2020,Kenya,78512.0,52709.0,1409.0
 25-11-2020,South Korea,31735.0,26825.0,513.0
 25-11-2020,Kosovo,35549.0,21746.0,939.0
@@ -50262,8 +50262,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 25-11-2020,Yemen,2114.0,1467.0,609.0
 25-11-2020,Zambia,17466.0,16707.0,357.0
 25-11-2020,Zimbabwe,9398.0,8297.0,274.0
-25-11-2020,Global Total,59759508.0,38267861.0,1409252.0
-26-11-2020,Afghanistan,45490.0,36145.0,1725.0
+25-11-2020,Global Total,59800625.0,38297977.0,1409683.0
+26-11-2020,Afghanistan,45384.0,36145.0,1728.0
 26-11-2020,Albania,34944.0,17031.0,743.0
 26-11-2020,Algeria,78025.0,50712.0,2329.0
 26-11-2020,Andorra,6428.0,5542.0,76.0
@@ -50352,7 +50352,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-11-2020,Jamaica,10488.0,5623.0,247.0
 26-11-2020,Japan,137735.0,114569.0,1983.0
 26-11-2020,Jordan,198021.0,131181.0,2442.0
-26-11-2020,Kazakhstan,128400.0,114821.0,1990.0
+26-11-2020,Kazakhstan,169827.0,145028.0,2422.0
 26-11-2020,Kenya,79322.0,52974.0,1417.0
 26-11-2020,South Korea,32318.0,26950.0,515.0
 26-11-2020,Kosovo,36253.0,22137.0,948.0
@@ -50454,8 +50454,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 26-11-2020,Yemen,2124.0,1474.0,611.0
 26-11-2020,Zambia,17535.0,16755.0,357.0
 26-11-2020,Zimbabwe,9508.0,8336.0,274.0
-26-11-2020,Global Total,60392453.0,38704717.0,1421308.0
-27-11-2020,Afghanistan,45716.0,36232.0,1737.0
+26-11-2020,Global Total,60433774.0,38734924.0,1421743.0
+27-11-2020,Afghanistan,45600.0,36232.0,1737.0
 27-11-2020,Albania,35600.0,17352.0,753.0
 27-11-2020,Algeria,79110.0,51334.0,2352.0
 27-11-2020,Andorra,6534.0,5649.0,76.0
@@ -50544,7 +50544,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-11-2020,Jamaica,10541.0,5721.0,248.0
 27-11-2020,Japan,140225.0,116222.0,1996.0
 27-11-2020,Jordan,203021.0,135650.0,2509.0
-27-11-2020,Kazakhstan,129213.0,115384.0,1990.0
+27-11-2020,Kazakhstan,170808.0,145673.0,2424.0
 27-11-2020,Kenya,80102.0,53526.0,1427.0
 27-11-2020,South Korea,32887.0,27103.0,516.0
 27-11-2020,Kosovo,37028.0,22690.0,963.0
@@ -50646,8 +50646,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 27-11-2020,Yemen,2137.0,1484.0,612.0
 27-11-2020,Zambia,17553.0,16779.0,357.0
 27-11-2020,Zimbabwe,9623.0,8397.0,274.0
-27-11-2020,Global Total,60973650.0,39069813.0,1432047.0
-28-11-2020,Afghanistan,45839.0,36295.0,1740.0
+27-11-2020,Global Total,61015129.0,39100102.0,1432481.0
+28-11-2020,Afghanistan,45723.0,36295.0,1740.0
 28-11-2020,Albania,36245.0,17755.0,771.0
 28-11-2020,Algeria,80168.0,51946.0,2372.0
 28-11-2020,Andorra,6610.0,5710.0,76.0
@@ -50736,7 +50736,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-11-2020,Jamaica,10600.0,5829.0,250.0
 28-11-2020,Japan,142778.0,117709.0,2028.0
 28-11-2020,Jordan,207601.0,140400.0,2570.0
-28-11-2020,Kazakhstan,130039.0,116044.0,1990.0
+28-11-2020,Kazakhstan,171795.0,146406.0,2429.0
 28-11-2020,Kenya,81656.0,54125.0,1441.0
 28-11-2020,South Korea,33375.0,27349.0,522.0
 28-11-2020,Kosovo,37792.0,23274.0,975.0
@@ -50838,8 +50838,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 28-11-2020,Yemen,2148.0,1491.0,614.0
 28-11-2020,Zambia,17569.0,16845.0,357.0
 28-11-2020,Zimbabwe,9714.0,8470.0,275.0
-28-11-2020,Global Total,61645535.0,39446275.0,1442664.0
-29-11-2020,Afghanistan,45966.0,36709.0,1752.0
+28-11-2020,Global Total,61687175.0,39476637.0,1443103.0
+29-11-2020,Afghanistan,45844.0,36709.0,1752.0
 29-11-2020,Albania,36790.0,18152.0,787.0
 29-11-2020,Algeria,81212.0,52568.0,2393.0
 29-11-2020,Andorra,6610.0,5710.0,76.0
@@ -50928,7 +50928,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-11-2020,Jamaica,10669.0,5953.0,251.0
 29-11-2020,Japan,145457.0,120103.0,2042.0
 29-11-2020,Jordan,210709.0,142710.0,2626.0
-29-11-2020,Kazakhstan,130865.0,116187.0,1990.0
+29-11-2020,Kazakhstan,172805.0,146549.0,2430.0
 29-11-2020,Kenya,82605.0,54399.0,1445.0
 29-11-2020,South Korea,33824.0,27542.0,523.0
 29-11-2020,Kosovo,38431.0,23754.0,989.0
@@ -51015,7 +51015,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-11-2020,Trinidad and Tobago,6630.0,5732.0,118.0
 29-11-2020,Tunisia,94980.0,69226.0,3153.0
 29-11-2020,Turkey,578347.0,396227.0,13373.0
-29-11-2020,United States of America,13244417.0,5023063.0,266047.0
+29-11-2020,United States of America,13244687.0,5023063.0,266047.0
 29-11-2020,Uganda,19944.0,8944.0,201.0
 29-11-2020,Ukraine,728834.0,350189.0,12485.0
 29-11-2020,United Arab Emirates,166502.0,153449.0,569.0
@@ -51030,8 +51030,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 29-11-2020,Yemen,2160.0,1498.0,615.0
 29-11-2020,Zambia,17589.0,16925.0,357.0
 29-11-2020,Zimbabwe,9822.0,8472.0,275.0
-29-11-2020,Global Total,62244181.0,39801717.0,1452410.0
-30-11-2020,Afghanistan,46215.0,36731.0,1763.0
+29-11-2020,Global Total,62286269.0,39832079.0,1452850.0
+30-11-2020,Afghanistan,46116.0,36731.0,1774.0
 30-11-2020,Albania,37625.0,18481.0,798.0
 30-11-2020,Algeria,82221.0,53204.0,2410.0
 30-11-2020,Andorra,6712.0,5794.0,76.0
@@ -51120,7 +51120,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-11-2020,Jamaica,10709.0,6066.0,256.0
 30-11-2020,Japan,147515.0,121735.0,2057.0
 30-11-2020,Jordan,214307.0,148572.0,2694.0
-30-11-2020,Kazakhstan,131659.0,116461.0,1990.0
+30-11-2020,Kazakhstan,173763.0,146955.0,2433.0
 30-11-2020,Kenya,83316.0,54975.0,1452.0
 30-11-2020,South Korea,34201.0,27653.0,526.0
 30-11-2020,Kosovo,39057.0,24427.0,1005.0
@@ -51222,8 +51222,8 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 30-11-2020,Yemen,2177.0,1504.0,617.0
 30-11-2020,Zambia,17608.0,16983.0,357.0
 30-11-2020,Zimbabwe,9822.0,8472.0,275.0
-30-11-2020,Global Total,62730726.0,40127625.0,1459317.0
-01-12-2020,Afghanistan,46498.0,36788.0,1774.0
+30-11-2020,Global Total,62772731.0,40158119.0,1459771.0
+01-12-2020,Afghanistan,46274.0,36788.0,1795.0
 01-12-2020,Albania,38182.0,18849.0,810.0
 01-12-2020,Algeria,83199.0,53809.0,2431.0
 01-12-2020,Andorra,6745.0,5873.0,76.0
@@ -51312,7 +51312,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-12-2020,Jamaica,10763.0,6219.0,257.0
 01-12-2020,Japan,148962.0,127289.0,2076.0
 01-12-2020,Jordan,219430.0,155026.0,2751.0
-01-12-2020,Kazakhstan,132348.0,116863.0,1990.0
+01-12-2020,Kazakhstan,174563.0,147425.0,2433.0
 01-12-2020,Kenya,83618.0,55344.0,1469.0
 01-12-2020,South Korea,34652.0,27885.0,526.0
 01-12-2020,Kosovo,39596.0,25001.0,1016.0
@@ -51414,7 +51414,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 01-12-2020,Yemen,2191.0,1510.0,619.0
 01-12-2020,Zambia,17647.0,16998.0,357.0
 01-12-2020,Zimbabwe,9950.0,8482.0,276.0
-01-12-2020,Global Total,63236804.0,40528816.0,1467987.0
+01-12-2020,Global Total,63278795.0,40559378.0,1468451.0
 02-12-2020,Afghanistan,46717.0,36907.0,1797.0
 02-12-2020,Albania,39014.0,19384.0,822.0
 02-12-2020,Algeria,84152.0,54405.0,2447.0
@@ -51494,7 +51494,7 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-12-2020,Honduras,108253.0,48073.0,2918.0
 02-12-2020,Hungary,221073.0,64802.0,4977.0
 02-12-2020,Iceland,5413.0,5187.0,27.0
-02-12-2020,India,9462809.0,8889585.0,137621.0
+02-12-2020,India,9499413.0,8932647.0,138122.0
 02-12-2020,Indonesia,543975.0,454879.0,17081.0
 02-12-2020,Iran,975951.0,677963.0,48628.0
 02-12-2020,Iraq,554767.0,484570.0,12306.0
@@ -51606,4 +51606,4 @@ Date,Region,Confirmed,Recovered/Migrated,Deceased
 02-12-2020,Yemen,2197.0,1514.0,619.0
 02-12-2020,Zambia,17665.0,17059.0,357.0
 02-12-2020,Zimbabwe,10129.0,8643.0,277.0
-02-12-2020,Global Total,63839023.0,40990138.0,1480001.0
+02-12-2020,Global Total,63875627.0,41033200.0,1480502.0
