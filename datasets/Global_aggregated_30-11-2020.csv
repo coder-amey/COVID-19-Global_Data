@@ -1,5 +1,5 @@
 Region,Confirmed,Recovered/Migrated,Deceased
-Afghanistan,46116.0,36731.0,1774.0
+Afghanistan,46116.0,36716.0,1774.0
 Albania,37625.0,18481.0,798.0
 Algeria,82221.0,53204.0,2410.0
 Andorra,6712.0,5794.0,76.0
@@ -83,7 +83,7 @@ Indonesia,534266.0,445793.0,16815.0
 Iran,948749.0,658292.0,47874.0
 Iraq,550435.0,480903.0,12224.0
 Ireland,72241.0,23364.0,2052.0
-Israel,335598.0,323067.0,2864.0
+Israel,335933.0,322929.0,2864.0
 Italy,1585178.0,734503.0,54904.0
 Jamaica,10709.0,6066.0,256.0
 Japan,147515.0,121735.0,2057.0
@@ -145,6 +145,7 @@ Rwanda,5919.0,5480.0,48.0
 Saint Kitts and Nevis,22.0,19.0,0.0
 Saint Lucia,257.0,109.0,2.0
 Saint Vincent and the Grenadines,85.0,79.0,0.0
+Samoa,2.0,0.0,0.0
 San Marino,1586.0,1285.0,45.0
 Sao Tome and Principe,989.0,930.0,17.0
 Saudi Arabia,357128.0,346409.0,5884.0
@@ -175,7 +176,7 @@ Togo,2962.0,2464.0,64.0
 Trinidad and Tobago,6660.0,5745.0,120.0
 Tunisia,96251.0,69624.0,3219.0
 Turkey,607628.0,400242.0,13558.0
-United States of America,13383320.0,5065030.0,266873.0
+United States of America,13383334.0,5065030.0,266873.0
 Uganda,20145.0,8989.0,201.0
 Ukraine,742105.0,354556.0,12613.0
 United Arab Emirates,167753.0,154185.0,570.0
@@ -186,8 +187,7 @@ Vanuatu,1.0,0.0,0.0
 Venezuela,102040.0,96652.0,894.0
 Vietnam,1343.0,1179.0,35.0
 West Bank and Gaza,83585.0,63834.0,717.0
-Western Sahara,10.0,8.0,1.0
 Yemen,2177.0,1504.0,617.0
 Zambia,17608.0,16983.0,357.0
 Zimbabwe,9822.0,8472.0,275.0
-Global Total,62772731.0,40158119.0,1459771.0
+Global Total,62773072.0,40157958.0,1459770.0
