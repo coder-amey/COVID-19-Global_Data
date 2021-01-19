@@ -47,6 +47,9 @@ if __name__ == "__main__":
 	raw_RCV = raw_RCV.rename(columns = rename_dict)
 	raw_DCS = raw_DCS.rename(columns = rename_dict)
 
+	#Implement corrections for US recoveries:
+	raw_RCV.loc[raw_CNF.index[0], "United States of America"] = 6298082
+
 	#Generate a dataframe of date-wise aggregated data.
 	assert (date == (raw_CNF.index[0] + day_delta)),"Date mismatch. New data is not contiguous with existing entries."
 

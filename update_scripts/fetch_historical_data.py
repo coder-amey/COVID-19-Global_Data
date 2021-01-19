@@ -41,6 +41,12 @@ if __name__ == "__main__":
 	raw_RCV = raw_RCV.rename(columns = rename_dict)
 	raw_DCS = raw_DCS.rename(columns = rename_dict)
 
+	#Implement corrections for US recoveries:
+	dates = [date for date in raw_RCV.index.tolist() if date.to_pydatetime() > datetime.strptime("13-12-2020", "%d-%m-%Y")]
+	#US stopped reporting recoveries after 13-12-2020.
+	for date in dates:
+		raw_RCV.loc[date, "United States of America"] = raw_RCV.loc[date - day_delta, "United States of America"]
+
 	#Generate a dataframe of date-wise aggregated data.
 	for date in raw_CNF.index:
 		#Prepare values.
