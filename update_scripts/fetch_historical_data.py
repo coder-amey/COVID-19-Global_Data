@@ -41,12 +41,24 @@ if __name__ == "__main__":
 	raw_RCV = raw_RCV.rename(columns = rename_dict)
 	raw_DCS = raw_DCS.rename(columns = rename_dict)
 
-	#Implement corrections for US recoveries:
-	dates = [date for date in raw_RCV.index.tolist() if date.to_pydatetime() > datetime.strptime("13-12-2020", "%d-%m-%Y")]
+	#Implement corrections in recoveries:
+	#Serbia stopped reporting recoveries after 19-07-2020.
+	#Belgium stopped reporting recoveries after 11-11-2020.
 	#US stopped reporting recoveries after 13-12-2020.
+	dates = [date for date in raw_RCV.index.tolist() if date.to_pydatetime() > datetime.strptime("19-07-2020", "%d-%m-%Y")]
 	for date in dates:
-		raw_RCV.loc[date, "United States of America"] = raw_RCV.loc[date - day_delta, "United States of America"]
+		if(date.to_pydatetime() > datetime.strptime("13-12-2020", "%d-%m-%Y")):
+			raw_RCV.loc[date, "United States of America"] = raw_RCV.loc[date - day_delta, "United States of America"]
+			raw_RCV.loc[date, "Belgium"] = raw_RCV.loc[date - day_delta, "Belgium"]
+			raw_RCV.loc[date, "Serbia"] = raw_RCV.loc[date - day_delta, "Serbia"]
 
+		elif(date.to_pydatetime() > datetime.strptime("11-11-2020", "%d-%m-%Y")):
+			raw_RCV.loc[date, "Belgium"] = raw_RCV.loc[date - day_delta, "Belgium"]
+			raw_RCV.loc[date, "Serbia"] = raw_RCV.loc[date - day_delta, "Serbia"]
+
+		else:
+			raw_RCV.loc[date, "Serbia"] = raw_RCV.loc[date - day_delta, "Serbia"]
+		
 	#Generate a dataframe of date-wise aggregated data.
 	for date in raw_CNF.index:
 		#Prepare values.
