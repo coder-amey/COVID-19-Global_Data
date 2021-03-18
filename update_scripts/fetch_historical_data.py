@@ -9,7 +9,7 @@ day_delta = timedelta(days = 1)			#Add time delta to fix timezone mismatch.
 
 def generate_dataset(record):
 	'''Generate a dataframe from a record of tallies for a particular date.'''
-	df = data.DataFrame({"Confirmed": record[0], "Recovered/Migrated": record[1], "Deceased": record[2]}).reset_index().rename(columns = {"index": "Region"})
+	df = data.DataFrame({"Confirmed": record[0], "Recovered": record[1], "Deceased": record[2]}).reset_index().rename(columns = {"index": "Region"})
 	df = df[df.Confirmed != 0]		#Ignore regions with no cases.
 	df = df.append(df.sum(numeric_only = True), ignore_index = True)
 	df.iloc[-1, 0] = "Global Total"
