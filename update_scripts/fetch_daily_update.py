@@ -53,7 +53,7 @@ if __name__ == "__main__":
 	raw_RCV.loc[raw_RCV.index[0], "United States of America"] = 6298082
 
 	#Generate a dataframe of date-wise aggregated data.
-	assert (date == (raw_CNF.index[0] + day_delta)),"Date mismatch. New data is not contiguous with existing entries."
+	assert (date == (raw_CNF.index[0] + day_delta).date()),"Date mismatch. New data is not contiguous with existing entries."
 
 	#Prepare values.
 	tally = [table.loc[data.to_datetime(date - day_delta)] for table in [raw_CNF, raw_RCV, raw_DCS]]
