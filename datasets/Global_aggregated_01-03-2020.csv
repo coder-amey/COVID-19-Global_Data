@@ -1,5 +1,5 @@
 Region,Confirmed,Recovered,Deceased
-Afghanistan,1.0,0.0,0.0
+Afghanistan,5.0,0.0,0.0
 Algeria,1.0,0.0,0.0
 Australia,25.0,11.0,0.0
 Austria,9.0,0.0,0.0
@@ -61,4 +61,4 @@ United States of America,25.0,7.0,1.0
 United Arab Emirates,21.0,5.0,0.0
 United Kingdom,61.0,8.0,0.0
 Vietnam,16.0,16.0,0.0
-Global Total,86014.0,39781.0,2943.0
+Global Total,86018.0,39781.0,2943.0
