@@ -1,5 +1,5 @@
 Region,Confirmed,Recovered,Deceased
-Afghanistan,157445.0,0.0,7312.0
+Afghanistan,157454.0,0.0,7312.0
 Albania,201730.0,0.0,3110.0
 Algeria,211469.0,0.0,6103.0
 Andorra,18010.0,0.0,132.0
@@ -181,7 +181,7 @@ Tonga,1.0,0.0,0.0
 Trinidad and Tobago,75134.0,0.0,2262.0
 Tunisia,718443.0,0.0,25401.0
 Turkey,8903087.0,0.0,77830.0
-United States of America,49100155.0,6298082.0,789381.0
+United States of America,49101121.0,6298082.0,789381.0
 Uganda,127655.0,0.0,3254.0
 Ukraine,3668794.0,0.0,93734.0
 United Arab Emirates,742328.0,0.0,2148.0
@@ -195,4 +195,4 @@ West Bank and Gaza,461467.0,0.0,4810.0
 Yemen,10025.0,0.0,1954.0
 Zambia,210312.0,0.0,3667.0
 Zimbabwe,139046.0,0.0,4710.0
-Global Total,265878644.0,6344776.0,5256874.0
+Global Total,265879619.0,6344776.0,5256874.0
