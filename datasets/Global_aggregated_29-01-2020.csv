@@ -1,7 +1,7 @@
 Region,Confirmed,Recovered,Deceased
 Australia,5.0,0.0,0.0
 Cambodia,1.0,0.0,0.0
-Canada,2.0,0.0,0.0
+Canada,4.0,0.0,0.0
 China,5509.0,101.0,131.0
 France,4.0,0.0,0.0
 Germany,4.0,0.0,0.0
@@ -15,4 +15,4 @@ Taiwan,8.0,0.0,0.0
 Thailand,14.0,6.0,0.0
 United States of America,5.0,0.0,0.0
 Vietnam,2.0,0.0,0.0
-Global Total,5578.0,108.0,131.0
+Global Total,5580.0,108.0,131.0
