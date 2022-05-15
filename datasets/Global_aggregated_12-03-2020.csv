@@ -42,7 +42,6 @@ France,2293.0,12.0,48.0
 Georgia,24.0,0.0,0.0
 Germany,1567.0,25.0,3.0
 Greece,99.0,0.0,1.0
-Vatican City,1.0,0.0,0.0
 Honduras,2.0,0.0,0.0
 Hungary,13.0,0.0,0.0
 Iceland,85.0,1.0,0.0
@@ -56,7 +55,6 @@ Italy,12462.0,1045.0,827.0
 Jamaica,1.0,0.0,0.0
 Japan,640.0,118.0,15.0
 Jordan,1.0,0.0,0.0
-South Korea,7755.0,288.0,60.0
 Kuwait,72.0,2.0,0.0
 Latvia,10.0,1.0,0.0
 Lebanon,61.0,1.0,3.0
@@ -96,6 +94,7 @@ Singapore,178.0,96.0,0.0
 Slovakia,7.0,0.0,0.0
 Slovenia,57.0,0.0,0.0
 South Africa,13.0,0.0,0.0
+South Korea,7755.0,288.0,60.0
 Spain,2277.0,183.0,54.0
 Sri Lanka,2.0,1.0,0.0
 Sweden,620.0,0.0,1.0
@@ -105,10 +104,11 @@ Thailand,59.0,34.0,1.0
 Togo,1.0,0.0,0.0
 Tunisia,7.0,0.0,0.0
 Turkey,1.0,0.0,0.0
-United States of America,1147.0,8.0,33.0
 Ukraine,1.0,0.0,0.0
 United Arab Emirates,74.0,17.0,0.0
 United Kingdom,1299.0,19.0,7.0
+United States of America,1147.0,8.0,33.0
+Vatican City,1.0,0.0,0.0
 Vietnam,38.0,16.0,0.0
 West Bank and Gaza,30.0,0.0,0.0
 Global Total,126628.0,66999.0,4618.0

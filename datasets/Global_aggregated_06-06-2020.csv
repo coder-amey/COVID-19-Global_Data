@@ -74,7 +74,6 @@ Guinea,4060.0,2667.0,23.0
 Guinea-Bissau,1368.0,153.0,12.0
 Guyana,153.0,77.0,12.0
 Haiti,2604.0,24.0,50.0
-Vatican City,12.0,2.0,0.0
 Honduras,5971.0,677.0,248.0
 Hungary,3970.0,2245.0,542.0
 Iceland,1806.0,1794.0,10.0
@@ -90,7 +89,6 @@ Japan,16949.0,14925.0,917.0
 Jordan,784.0,571.0,9.0
 Kazakhstan,12312.0,6903.0,52.0
 Kenya,2474.0,643.0,79.0
-South Korea,11719.0,10531.0,273.0
 Kosovo,1147.0,874.0,30.0
 Kuwait,30644.0,18277.0,244.0
 Kyrgyzstan,1936.0,1340.0,22.0
@@ -156,6 +154,7 @@ Slovakia,1526.0,1379.0,28.0
 Slovenia,1479.0,1359.0,109.0
 Somalia,2204.0,418.0,79.0
 South Africa,43434.0,23088.0,908.0
+South Korea,11719.0,10531.0,273.0
 South Sudan,994.0,6.0,10.0
 Spain,240978.0,150376.0,27134.0
 Sri Lanka,1801.0,858.0,11.0
@@ -173,13 +172,14 @@ Togo,485.0,240.0,13.0
 Trinidad and Tobago,117.0,108.0,8.0
 Tunisia,1087.0,969.0,49.0
 Turkey,168340.0,133400.0,4648.0
-United States of America,1899697.0,491706.0,112328.0
 Uganda,557.0,82.0,0.0
 Ukraine,26542.0,11815.0,770.0
 United Arab Emirates,37642.0,20337.0,274.0
 United Kingdom,264146.0,1228.0,38505.0
+United States of America,1899697.0,491706.0,112328.0
 Uruguay,834.0,721.0,23.0
 Uzbekistan,4007.0,3247.0,16.0
+Vatican City,12.0,2.0,0.0
 Venezuela,2145.0,334.0,20.0
 Vietnam,328.0,307.0,0.0
 West Bank and Gaza,464.0,377.0,3.0
